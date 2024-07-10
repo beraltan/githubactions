@@ -22,6 +22,7 @@ jobs:
 
     - name: Run Tests and Collect Type Information
       run: |
+        # Replace 'your_test_script.py' with the actual script to run tests
         monkeytype run your_test_script.py
 
     - name: Apply Type Hints
@@ -29,7 +30,8 @@ jobs:
         GITHUB_TOKEN: \${{ secrets.PAT }}
       run: |
         for file in $(find src -name '*.py'); do
-          monkeytype apply $file
+          module_path=$(echo $file | sed 's|/|.|g' | sed 's|.py||')
+          monkeytype apply $module_path
           autoflake --in-place --remove-all-unused-imports --ignore-init-module-imports $file
           mypy --install-types --non-interactive $file
         done
