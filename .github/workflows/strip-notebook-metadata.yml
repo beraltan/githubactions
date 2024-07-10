@@ -29,8 +29,7 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add .
           git diff-index --quiet HEAD || git commit -m "Strip metadata from Jupyter notebooks"
-          
+
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.TEST_TOKEN }}
+        run: |
+          git push https://x-access-token:${{ secrets.TEST_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
