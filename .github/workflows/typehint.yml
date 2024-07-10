@@ -42,9 +42,7 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git config --global credential.helper 'store --file=.git-credentials'
-        echo "https://${{ secrets.PAT }}@github.com" > ~/.git-credentials
-        # Add both top-level and nested Python files
-        find src -name '*.py' -exec git add {} +
+        git remote set-url origin https://beraltan:${{ secrets.PAT }}@github.com/beraltan/githubactions.git
+        git add $(find src -name '*.py')
         git diff-index --quiet HEAD || git commit -m "Add type hints using MonkeyType"
-        git push origin HEAD:${{ github.ref }}
+        git push origin HEAD:${GITHUB_REF}
