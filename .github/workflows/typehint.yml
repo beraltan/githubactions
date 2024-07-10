@@ -32,7 +32,7 @@ jobs:
       run: |
         for file in $(find src -name '*.py'); do
           module_path=$(echo $file | sed 's|/|.|g' | sed 's|.py||')
-          monkeytype apply $module_path
+          monkeytype apply $module_path || echo "No traces found for module $module_path"
           autoflake --in-place --remove-all-unused-imports --ignore-init-module-imports $file
           mypy --install-types --non-interactive $file
         done
@@ -41,9 +41,8 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add src/*.py
-        git add src/**/*.py
-        git commit -m "Add type hints using MonkeyType" || echo "No changes to commit"
+        git add src/*.py src/**/*.py
+        git diff-index --quiet HEAD || git commit -m "Add type hints using MonkeyType"
         git push origin HEAD:${{ github.ref }}
       env:
         GITHUB_TOKEN: \${{ secrets.PAT }}
