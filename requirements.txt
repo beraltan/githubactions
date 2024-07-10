@@ -1,2 +1,5 @@
 streamlit
-PyYAML
+pyyaml
+requests
+gitpython
+streamlit-file-selector
