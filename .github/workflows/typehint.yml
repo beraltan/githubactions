@@ -10,8 +10,8 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        persist-credentials: false  # otherwise, the token used is the default GITHUB_TOKEN, instead of the PAT
+        token: ${{ secrets.PAT }}
+        persist-credentials: false  # Ensures that we use the provided PAT for authentication
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -25,7 +25,6 @@ jobs:
 
     - name: Run Tests and Collect Type Information
       run: |
-        # Replace 'your_test_script.py' with the actual script to run tests
         monkeytype run your_test_script.py
 
     - name: Apply Type Hints
@@ -38,12 +37,14 @@ jobs:
         done
 
     - name: Commit and Push Changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        # Add both top-level and nested Python files
+        git config --global credential.helper cache
+        echo "https://${{ secrets.PAT }}@github.com" > ~/.git-credentials
+        git config --global credential.helper 'store --file=~/.git-credentials'
         find src -name '*.py' -exec git add {} +
         git diff-index --quiet HEAD || git commit -m "Add type hints using MonkeyType"
-        git push origin HEAD:${{ github.ref }}
-      env:
-        GITHUB_TOKEN: \${{ secrets.PAT }}
+        git push origin HEAD:${GITHUB_REF}
