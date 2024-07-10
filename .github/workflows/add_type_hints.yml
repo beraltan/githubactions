@@ -28,8 +28,8 @@ jobs:
 
       - name: Run MonkeyType to collect type information
         run: |
-          # Replace 'your_script.py' with your entry script
-          monkeytype run your_script.py
+          
+          monkeytype run main.py
 
       - name: Apply type annotations
         run: |
