@@ -1,0 +1,35 @@
+name: Add Type Hints
+
+on: [push, pull_request]
+
+jobs:
+  add_type_hints:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install mypy autoflake monkeytype
+
+    - name: Run Tests and Collect Type Information
+      run: |
+        monkeytype run your_test_script.py
+
+    - name: Apply Type Hints
+      env:
+        GITHUB_TOKEN: \${{ secrets.PAT }}
+      run: |
+        for file in $(find src -name '*.py'); do
+          monkeytype apply $file
+          autoflake --in-place --remove-all-unused-imports --ignore-init-module-imports $file
+          mypy --install-types --non-interactive $file
+        done
