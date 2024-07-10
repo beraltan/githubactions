@@ -24,6 +24,8 @@ jobs:
         pip install mypy autoflake monkeytype
 
     - name: Run Tests and Collect Type Information
+      env:
+        PYTHONPATH: ./src
       run: |
         monkeytype run your_test_script.py
 
@@ -38,9 +40,11 @@ jobs:
         find src -name '*.py' -exec cat {} +
 
     - name: Apply Type Hints
+      env:
+        PYTHONPATH: ./src
       run: |
         for file in $(find src -name '*.py'); do
-          module_path=$(echo $file | sed 's|/|.|g' | sed 's|.py||')
+          module_path=$(echo $file | sed 's|src/||' | sed 's|/|.|g' | sed 's|.py||')
           echo "Applying type hints to $module_path"
           monkeytype apply $module_path || echo "No traces found for module $module_path"
         done
