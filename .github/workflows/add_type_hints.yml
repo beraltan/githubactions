@@ -32,6 +32,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
+        git remote set-url origin https://${{ secrets.PAT }}@github.com/${{ github.repository }}
         git add .
         git commit -m 'Add type hints using MonkeyType'
-        git push
+        git push origin HEAD:main
