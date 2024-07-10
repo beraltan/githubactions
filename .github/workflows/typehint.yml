@@ -54,11 +54,10 @@ jobs:
         echo "Contents of Python files after applying type hints:"
         find src -name '*.py' -exec cat {} +
 
-    - name: Apply Autoflake and Mypy
+    - name: Apply Autoflake
       run: |
         for file in $(find src -name '*.py'); do
           autoflake --in-place --remove-all-unused-imports --ignore-init-module-imports $file
-          mypy --install-types --non-interactive $file
         done
 
     - name: Show Diffs
@@ -76,3 +75,7 @@ jobs:
         git add $(find src -name '*.py')
         git diff-index --quiet HEAD || git commit -m "Add type hints using MonkeyType"
         git push origin HEAD:${GITHUB_REF}
+
+    - name: Run Mypy
+      run: |
+        mypy src
