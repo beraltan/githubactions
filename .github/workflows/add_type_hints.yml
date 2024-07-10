@@ -24,19 +24,15 @@ jobs:
     - name: Run MonkeyType to add type hints
       run: python add_type_hints.py
 
-    - name: Configure Git
+    - name: Commit changes
+      env:
+        GIT_COMMITTER_NAME: GitHub Actions
+        GIT_COMMITTER_EMAIL: actions@github.com
+        GITHUB_TOKEN: ${{ secrets.PAT }}
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-
-    - name: Commit changes
-      run: |
-        git add .
-        git commit -m 'Add type hints using MonkeyType' || echo "No changes to commit"
-
-    - name: Push changes
-      env:
-        PAT: ${{ secrets.PAT }}
-      run: |
         git remote set-url origin https://${{ secrets.PAT }}@github.com/${{ github.repository }}
+        git add .
+        git commit -m 'Add type hints using MonkeyType'
         git push origin HEAD:main
