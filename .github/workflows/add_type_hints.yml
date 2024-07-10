@@ -43,4 +43,4 @@ jobs:
           git commit -m "Add type hints to Python files"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
