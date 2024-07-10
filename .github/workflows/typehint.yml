@@ -32,12 +32,27 @@ jobs:
         echo "MonkeyType SQLite database contents:"
         sqlite3 monkeytype.sqlite3 .dump
 
+    - name: Show Files Before Applying Type Hints
+      run: |
+        echo "Contents of Python files before applying type hints:"
+        find src -name '*.py' -exec cat {} +
+
     - name: Apply Type Hints
       run: |
         for file in $(find src -name '*.py'); do
           module_path=$(echo $file | sed 's|/|.|g' | sed 's|.py||')
           echo "Applying type hints to $module_path"
           monkeytype apply $module_path || echo "No traces found for module $module_path"
+        done
+
+    - name: Show Files After Applying Type Hints
+      run: |
+        echo "Contents of Python files after applying type hints:"
+        find src -name '*.py' -exec cat {} +
+
+    - name: Apply Autoflake and Mypy
+      run: |
+        for file in $(find src -name '*.py'); do
           autoflake --in-place --remove-all-unused-imports --ignore-init-module-imports $file
           mypy --install-types --non-interactive $file
         done
