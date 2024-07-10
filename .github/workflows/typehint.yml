@@ -41,7 +41,8 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add src/*.py src/**/*.py
+        # Add both top-level and nested Python files
+        find src -name '*.py' -exec git add {} +
         git diff-index --quiet HEAD || git commit -m "Add type hints using MonkeyType"
         git push origin HEAD:${{ github.ref }}
       env:
