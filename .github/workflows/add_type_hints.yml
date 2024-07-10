@@ -3,10 +3,10 @@ name: Add Type Hints
 on:
   push:
     branches:
-      - main
+      - '**'
   pull_request:
     branches:
-      - main
+      - '**'
 
 jobs:
   add_type_hints:
@@ -39,8 +39,10 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add src
-          git commit -m "Add type hints to Python files"
-          git push
+          if ! git diff --quiet; then
+            git add src
+            git commit -m "Add type hints to Python files"
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
