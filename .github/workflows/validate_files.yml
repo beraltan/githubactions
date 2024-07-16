@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      MAIN_DIRECTORY: 'data'  # Set your main directory here
+      MAIN_DIRECTORY: './data'  # Set your main directory here
 
     steps:
     - name: Checkout repository
@@ -24,13 +24,15 @@ jobs:
         pip install pandas
 
     - name: Restore checked files list
-      if: exists('checked_files.txt')
-      run: cp checked_files.txt /tmp/checked_files.txt
-
-    - name: Validate CSV and Excel files
       run: |
         if [ -f /tmp/checked_files.txt ]; then
           cp /tmp/checked_files.txt checked_files.txt
+        fi
+
+    - name: Validate CSV and Excel files
+      run: |
+        if [ -f checked_files.txt ]; then
+          cp checked_files.txt /tmp/checked_files.txt
         fi
         python check_files.py $MAIN_DIRECTORY
 
