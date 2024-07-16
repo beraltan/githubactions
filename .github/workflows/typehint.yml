@@ -54,28 +54,11 @@ jobs:
         echo "Contents of Python files after applying type hints:"
         find src -name '*.py' -exec cat {} +
 
-    - name: Apply Autoflake
-      run: |
-        for file in $(find src -name '*.py'); do
-          autoflake --in-place --remove-all-unused-imports --ignore-init-module-imports $file
-        done
-
-    - name: Show Diffs
-      run: |
-        echo "Git diffs:"
-        git diff
-
-    - name: Commit and Push Changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.PAT }}
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git remote set-url origin https://beraltan:${{ secrets.PAT }}@github.com/beraltan/githubactions.git
-        git add $(find src -name '*.py')
-        git diff-index --quiet HEAD || git commit -m "Add type hints using MonkeyType"
-        git push origin HEAD:${GITHUB_REF}
-
     - name: Run Mypy
       run: |
+        mypy src
+
+    - name: Show Mypy Output
+      run: |
+        echo "Mypy output:"
         mypy src
