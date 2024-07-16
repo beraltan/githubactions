@@ -1,0 +1,39 @@
+name: Validate CSV and Excel Files
+
+on: [push, pull_request]
+
+jobs:
+  validate-files:
+    runs-on: ubuntu-latest
+
+    env:
+      MAIN_DIRECTORY: 'data'  # Set your main directory here
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas
+
+    - name: Restore checked files list
+      if: exists('checked_files.txt')
+      run: cp checked_files.txt /tmp/checked_files.txt
+
+    - name: Validate CSV and Excel files
+      run: |
+        if [ -f /tmp/checked_files.txt ]; then
+          cp /tmp/checked_files.txt checked_files.txt
+        fi
+        python check_files.py $MAIN_DIRECTORY
+
+    - name: Save checked files list
+      if: always()
+      run: cp checked_files.txt /tmp/checked_files.txt

@@ -1,0 +1,2104 @@
+Bepaling,Materiaal,REFERENCE_UNIT,LIS,LIS_adjusted,loinc,LONG_COMMON_NAME,lab_naam
+ALAT(SGPT),Bloed,U/L 37C,RPT;BL,RPT-BL,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,LABTRAIN
+ALAT(SGPT),Bloed Veneus,U/L 37C,RPT;BL,RPT-BL,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,LABTRAIN
+ALAT,Bloed,U/L,K_ALAT_HP,K_ALAT_HP,1743-4,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P,VUMC LAB GLIMS
+ALAT,Bloed,U/L,K_ALAT_HP,K_ALAT_HP,1743-4,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P,GLIMS
+ALAT,,U/L,K_ALAT_HP,K_ALAT_HP,1743-4,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P,VUMC LAB GLIMS
+ALAT,Bloed,U/L 37¶C,RPT-BL,RPT-BL,1743-4,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P,AMC LAB LABTRAIN
+ALAT,,U/L 37¶C,RPT-BL,RPT-BL,1743-4,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P,AMC LAB LABTRAIN
+Alb.Chem,Overig,g/L,K_ALBC_OV,K_ALBC_OV,1747-5,Albumin [Mass/volume] in Body fluid,GLIMS
+Albumine (ALBI),Overige,g/L,ALBI;O,ALBI-O,1747-5,Albumin [Mass/volume] in Body fluid,LABTRAIN
+ALBUMINE (OVERIG),Overig,g/L,ALBI-O,ALBI-O,1747-5,Albumin [Mass/volume] in Body fluid,AMC LAB LABTRAIN
+ALBUMINE (OVERIG),Vocht,g/L,ALBI-O,ALBI-O,1747-5,Albumin [Mass/volume] in Body fluid,AMC LAB LABTRAIN
+ALBUMINE VOCHT,Overig,g/L,ALBU-O,ALBU-O,1747-5,Albumin [Mass/volume] in Body fluid,AMC LAB LABTRAIN
+ALB.CHEM,Overig,g/L,K_ALBC_HP,K_ALBC_HP,1747-5,Albumin [Mass/volume] in Body fluid,VUMC LAB GLIMS
+ALB.CHEM (OVERIG),,g/L,K_ALBC_OV,K_ALBC_OV,1747-5,Albumin [Mass/volume] in Body fluid,VUMC LAB GLIMS
+Albumine (imm.),Liquor,mg/L,K_ALBI_LI,K_ALBI_LI,2861-3,Albumin [Mass/volume] in Cerebral spinal fluid by Electrophoresis,GLIMS
+Albumine Liq,Liquor,mg/L,ALBN;L,ALBN-L,2861-3,Albumin [Mass/volume] in Cerebral spinal fluid by Electrophoresis,LABTRAIN
+ALBUMINE (IMM.) (LIQUOR),Bloed,mg/L,K_ALBI_LI,K_ALBI_LI,2861-3,Albumin [Mass/volume] in Cerebral spinal fluid by Electrophoresis,VUMC LAB GLIMS
+ALBUMINE (IMM.) (LIQUOR),Liquor,mg/L,K_ALBI_LI,K_ALBI_LI,2861-3,Albumin [Mass/volume] in Cerebral spinal fluid by Electrophoresis,VUMC LAB GLIMS
+Alb.Chem ascitesvocht,Ascitesvocht,g/L,K_ALBC_AS,K_ALBC_AS,1749-1,Albumin [Mass/volume] in Peritoneal fluid,GLIMS
+ALB.CHEM (ASCITESVOCHT),Bloed,g/L,K_ALBC_AS,K_ALBC_AS,1749-1,Albumin [Mass/volume] in Peritoneal fluid,VUMC LAB GLIMS
+ALB.CHEM (ASCITESVOCHT),Ascitesvocht,g/L,K_ALBC_AS,K_ALBC_AS,1749-1,Albumin [Mass/volume] in Peritoneal fluid,VUMC LAB GLIMS
+ALB.CHEM (ASCITESVOCHT),,g/L,K_ALBC_AS,K_ALBC_AS,1749-1,Albumin [Mass/volume] in Peritoneal fluid,VUMC LAB GLIMS
+Alb.Chem pleuravocht,Pleurapunctaat,g/L,K_ALBC_PP,K_ALBC_PP,1748-3,Albumin [Mass/volume] in Pleural fluid,GLIMS
+ALB.CHEM (PLEURAVOCHT),,g/L,K_ALBC_PP,K_ALBC_PP,1748-3,Albumin [Mass/volume] in Pleural fluid,VUMC LAB GLIMS
+ALB.CHEM (PLEURAVOCHT),Pleurapunctaat,g/L,K_ALBC_PP,K_ALBC_PP,1748-3,Albumin [Mass/volume] in Pleural fluid,VUMC LAB GLIMS
+ALB.CHEM (PLEURAVOCHT),Pleuravocht,g/L,K_ALBC_PP,K_ALBC_PP,1748-3,Albumin [Mass/volume] in Pleural fluid,VUMC LAB GLIMS
+Alb.Chem,Bloed,g/L,K_ALBC_HP,K_ALBC_HP,61152-5,Albumin [Mass/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,GLIMS
+ALBUMINE,Bloed,g/L,ALBI-BL,ALBI-BL,61152-5,Albumin [Mass/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,AMC LAB LABTRAIN
+ALBUMINE,Bloed,g/L,ALBU-BL,ALBU-BL,61152-5,Albumin [Mass/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,AMC LAB LABTRAIN
+Albumine (ALBI),Bloed,g/L,ALBI;BL,ALBI-BL,61152-5,Albumin [Mass/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,LABTRAIN
+Albumine (ALBI),Bloed Nevirapine:,g/L,ALBI;BL,ALBI-BL,61152-5,Albumin [Mass/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,LABTRAIN
+Albumine (ALBI),Bloed Vragen om afname informatie,g/L,ALBI;BL,ALBI-BL,61152-5,Albumin [Mass/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,LABTRAIN
+ALB.CHEM,Bloed,g/L,K_ALBC_HP,K_ALBC_HP,61152-5,Albumin [Mass/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,VUMC LAB GLIMS
+ALB.CHEM,,g/L,K_ALBC_HP,K_ALBC_HP,61152-5,Albumin [Mass/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,VUMC LAB GLIMS
+Album.-stik,Urine,geen,KALS;U,KALS-U,50949-7,Albumin [Presence] in Urine by Test strip,LABTRAIN
+Album.-stik,Urine Vragen om afname informatie,geen,KALS;U,KALS-U,50949-7,Albumin [Presence] in Urine by Test strip,LABTRAIN
+ALBUMINE-KWAL (URINE) POCT AMC,Urine,,DUPRS-U,DUPRS-U,50949-7,Albumin [Presence] in Urine by Test strip,AMC LAB LABTRAIN
+ALBUMINE-KWAL (URINE) POCT AMC,,,DUPRS-U,DUPRS-U,50949-7,Albumin [Presence] in Urine by Test strip,AMC LAB LABTRAIN
+ALBUM.-STIK,Urine,,KALS-U,KALS-U,50949-7,Albumin [Presence] in Urine by Test strip,AMC LAB LABTRAIN
+ALBUMINE RATIO (LIQUOR) VUMC,Liquor,0.01,K_ALBR,K_ALBR,72599-4,Albumin/Protein.total [Pure mass fraction] in Cerebral spinal fluid by Electrophoresis,VUMC LAB GLIMS
+ALBUM.RATIO (LIQUOR),Liquor,0.01,NALR-L,NALR-L,72599-4,Albumin/Protein.total [Pure mass fraction] in Cerebral spinal fluid by Electrophoresis,AMC LAB LABTRAIN
+ALBU-FRACTIE (ALBF),Bloed,g/L,ALBF-BL,ALBF-BL,72598-6,Albumin/Protein.total [Pure mass fraction] in Serum or Plasma by Electrophoresis,AMC LAB LABTRAIN
+ALB-FR,Bloed,g/L,K_ALF_SR,K_ALF_SR,72598-6,Albumin/Protein.total [Pure mass fraction] in Serum or Plasma by Electrophoresis,VUMC LAB GLIMS
+ALB-FR,,g/L,K_ALF_SR,K_ALF_SR,72598-6,Albumin/Protein.total [Pure mass fraction] in Serum or Plasma by Electrophoresis,VUMC LAB GLIMS
+ALK.FOSF.,Bloed,U/L,K_AF_HP,K_AF_HP,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,VUMC LAB GLIMS
+ALK.FOSF.,,U/L,K_AF_HP,K_AF_HP,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,VUMC LAB GLIMS
+ALK.FOSF.,Bloed,U/L 37¶C,RAF-BL,RAF-BL,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,AMC LAB LABTRAIN
+AF GAL FR.,,%,K_GAL_SR,K_GAL_SR,53524-5,Alkaline phosphatase.bile/Alkaline phosphatase.total in Serum or Plasma,VUMC LAB GLIMS
+AF-BOT,Bloed,%,BOAF-BL,BOAF-BL,15013-6,Alkaline phosphatase.bone/Alkaline phosphatase.total in Serum or Plasma,AMC LAB LABTRAIN
+AF BOT FR.,,%,K_BOT_SR,K_BOT_SR,15013-6,Alkaline phosphatase.bone/Alkaline phosphatase.total in Serum or Plasma,VUMC LAB GLIMS
+AF DARM FR.,,%,K_DARM_SR,K_DARM_SR,15014-4,Alkaline phosphatase.intestinal/Alkaline phosphatase.total in Serum or Plasma,VUMC LAB GLIMS
+AF-LEVER1,Bloed,%,L1AF-BL,L1AF-BL,15348-6,Alkaline phosphatase.liver 1/Alkaline phosphatase.total in Serum or Plasma,AMC LAB LABTRAIN
+AF-LEVER2,Bloed,%,L2AF-BL,L2AF-BL,15349-4,Alkaline phosphatase.liver 2/Alkaline phosphatase.total in Serum or Plasma,AMC LAB LABTRAIN
+AF LEVER FR.,,%,K_LEV_SR,K_LEV_SR,15015-1,Alkaline phosphatase.liver/Alkaline phosphatase.total in Serum or Plasma,VUMC LAB GLIMS
+APTT,Bloed,s,H_APTTspec_BL,H_APTTspec_BL,14979-9,aPTT in Platelet poor plasma by Coagulation assay,GLIMS
+APTT,Bloed,s,H_APTTspec_BL,H_APTTspec_BL,14979-9,aPTT in Platelet poor plasma by Coagulation assay,VUMC LAB GLIMS
+APTT,,s,H_APTTspec_BL,H_APTTspec_BL,14979-9,aPTT in Platelet poor plasma by Coagulation assay,VUMC LAB GLIMS
+APTT,Bloed,sec.,SAPT-BL,SAPT-BL,14979-9,aPTT in Platelet poor plasma by Coagulation assay,AMC LAB LABTRAIN
+aPTT,Bloed,Seconde,SAPT;BL,SAPT-BL,14979-9,aPTT in Platelet poor plasma by Coagulation assay,LABTRAIN
+ASAT(SGOT),Bloed,U/L 37C,ROT;BL,ROT-BL,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,LABTRAIN
+ASAT,Bloed,U/L,K_ASAT_HP,K_ASAT_HP,30239-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P,VUMC LAB GLIMS
+ASAT,,U/L,K_ASAT_HP,K_ASAT_HP,30239-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P,VUMC LAB GLIMS
+ASAT,Bloed,U/L,K_ASAT_HP,K_ASAT_HP,30239-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P,GLIMS
+ASAT,Bloed,U/L 37¶C,ROT-BL,ROT-BL,30239-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P,AMC LAB LABTRAIN
+ASAT,,U/L 37¶C,ROT-BL,ROT-BL,30239-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P,AMC LAB LABTRAIN
+BASOFIELE PUNCTERING VUMC,,,H_basofielepunct_beenmerg_EB,H_basofielepunct_beenmerg_EB,703-9,Basophilic stippling [Presence] in Blood by Light microscopy,VUMC LAB GLIMS
+BASOFIELE PUNCTERING,Bloed,,HBPU-BL,HBPU-BL,703-9,Basophilic stippling [Presence] in Blood by Light microscopy,AMC LAB LABTRAIN
+BASOFIELE PUNCTERING VUMC,Bloed,,K_basofielepunct_EB,K_basofielepunct_EB,703-9,Basophilic stippling [Presence] in Blood by Light microscopy,VUMC LAB GLIMS
+BASOFIELE PUNCTERING VUMC,,,K_basofielepunct_EB,K_basofielepunct_EB,703-9,Basophilic stippling [Presence] in Blood by Light microscopy,VUMC LAB GLIMS
+BASOFIELE PUNKTERING (BLOED) AMC,Bloed,,SBPU-BL,SBPU-BL,703-9,Basophilic stippling [Presence] in Blood by Light microscopy,AMC LAB LABTRAIN
+BASO (BLOED) VUMC,,x10e9/L,H_HBAA_beenmerg_EB,H_HBAA_beenmerg_EB,704-7,Basophils [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+#BASOFIELEN,Bloed,10E9/L,HBAA-BL,HBAA-BL,704-7,Basophils [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+BASO,Bloed,x10e9/L,K_ABAA_EB,K_ABAA_EB,704-7,Basophils [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+BASO,,x10e9/L,K_ABAA_EB,K_ABAA_EB,704-7,Basophils [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+#BASOFIELEN,Bloed,10E9/L,HBASA-BL,HBASA-BL,705-4,Basophils [#/volume] in Blood by Manual count,AMC LAB LABTRAIN
+BASO (BEENMERG),,%,H_BA_BE,H_BA_BE,11105-4,Basophils/100 cells in Bone marrow by Manual count,VUMC LAB GLIMS
+BASO (BEENMERG),Beenmerg,%,H_BA_BE,H_BA_BE,11105-4,Basophils/100 cells in Bone marrow by Manual count,VUMC LAB GLIMS
+BASO (BEENMERG),Bloed,%,H_BA_BE,H_BA_BE,11105-4,Basophils/100 cells in Bone marrow by Manual count,VUMC LAB GLIMS
+BASO % VUMC,,%,H_HBA_beenmerg_EB,H_HBA_beenmerg_EB,11105-4,Basophils/100 cells in Bone marrow by Manual count,VUMC LAB GLIMS
+BASOFIELEN,Bloed,%,HBAS-BL,HBAS-BL,706-2,Basophils/100 leukocytes in Blood by Automated count,AMC LAB LABTRAIN
+BICARBONAAT - BLOEDGAS ART. (AMC),Bloed,mmol/L,DBIC-BL_ART,DBIC-BL_ART,1960-4,Bicarbonate [Moles/volume] in Arterial blood,AMC LAB LABTRAIN
+ACT.HCO3 ART. VUMC,Bloed,mmol/L,K_AHCO3_ART,K_AHCO3_ART,1960-4,Bicarbonate [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+ACT.HCO3 ART. VUMC,,mmol/L,P_AHCO3_ART,P_AHCO3_ART,1960-4,Bicarbonate [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+ACT.HCO3 POCT,,mmol/L,P_AHCO3_HB,P_AHCO3_HB,1959-6,Bicarbonate [Moles/volume] in Blood,VUMC LAB GLIMS
+BICARBONAAT - BLOEDGAS CAP. (AMC),Bloed,mmol/L,DBIC-BL_CAP,DBIC-BL_CAP,1961-2,Bicarbonate [Moles/volume] in Capillary blood,AMC LAB LABTRAIN
+BICARBONAAT - BLOEDGAS GEM. VEN. (AMC),Bloed,mmol/L,DBIC-BL_MVEN,DBIC-BL_MVEN,19229-4,Bicarbonate [Moles/volume] in Mixed venous blood,AMC LAB LABTRAIN
+ACT.HCO3 GEM. VEN. VUMC,Bloed,mmol/L,K_AHCO3_GEMVEN,K_AHCO3_GEMVEN,19229-4,Bicarbonate [Moles/volume] in Mixed venous blood,VUMC LAB GLIMS
+ACT.HCO3 GEM. VEN. VUMC,`,mmol/L,P_AHCO3_GEMVEN,P_AHCO3_GEMVEN,19229-4,Bicarbonate [Moles/volume] in Mixed venous blood,VUMC LAB GLIMS
+ACT.HCO3,Bloed,mmol/L,K_AHCO3_HB,K_AHCO3_HB,1963-8,Bicarbonate [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+ACT.HCO3,,,K_AHCO3_HB,K_AHCO3_HB,1963-8,Bicarbonate [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+ACT.HCO3,,mmol/L,K_AHCO3_HB,K_AHCO3_HB,1963-8,Bicarbonate [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+BICARBONAAT (GEMETEN) VUMC,Bloed,mmol/L,K_HCO3_HP,K_HCO3_HP,1963-8,Bicarbonate [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+BICARBONAAT - BLOEDGAS VEN. (AMC),Bloed,mmol/L,CBIC-BL_VEN,CBIC-BL_VEN,14627-4,Bicarbonate [Moles/volume] in Venous blood,AMC LAB LABTRAIN
+BICARBONAAT - BLOEDGAS VEN. (AMC),Bloed,mmol/L,DBIC-BL_VEN,DBIC-BL_VEN,14627-4,Bicarbonate [Moles/volume] in Venous blood,AMC LAB LABTRAIN
+ACT.HCO3 VEN. VUMC,Bloed,mmol/L,K_AHCO3_VEN,K_AHCO3_VEN,14627-4,Bicarbonate [Moles/volume] in Venous blood,VUMC LAB GLIMS
+ACT.HCO3 VEN. VUMC,,mmol/L,P_AHCO3_VEN,P_AHCO3_VEN,14627-4,Bicarbonate [Moles/volume] in Venous blood,VUMC LAB GLIMS
+GECON.BILI,Bloed,umol/L,K_BILD_HP,K_BILD_HP,29760-6,Bilirubin.conjugated [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Gecon.Bili,Bloed,umol/L,K_BILD_HP,K_BILD_HP,29760-6,Bilirubin.conjugated [Moles/volume] in Serum or Plasma,GLIMS
+GECON.BILI,,umol/L,K_BILD_HP,K_BILD_HP,29760-6,Bilirubin.conjugated [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+GECON.BILI,Bloed,umol/L,K_BILD_HP,K_BILD_HP,14629-0,Bilirubin.direct [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+GECON.BILI,,umol/L,K_BILD_HP,K_BILD_HP,14629-0,Bilirubin.direct [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Bili-direct (RBID),Bloed,µmol/L,RBID;BL,RBID-BL,14629-0,Bilirubin.direct [Moles/volume] in Serum or Plasma,LABTRAIN
+BILI-DIRECT (BLOED) AMC,Bloed,¶mol/L,RBID-BL,RBID-BL,14629-0,Bilirubin.direct [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+Bilirubine(Bgs Centraal),Bloed Arterieel,umol/L,K_BIL_HB,K_BIL_HB,89872-6,Bilirubin.total [Moles/volume] in Arterial blood,GLIMS
+Bilirubine(Bgs),Bloed Arterieel,umol/L,P_BIL_HB,P_BIL_HB,89872-6,Bilirubin.total [Moles/volume] in Arterial blood,GLIMS
+Bili-totaal (RBIT),Bloed Arterieel,µmol/L,RBIT;BL,RBIT-BL,89872-6,Bilirubin.total [Moles/volume] in Arterial blood,LABTRAIN
+Bili-totaal (RBIT),Bloed,µmol/L,RBIT;BL,RBIT-BL,54363-7,Bilirubin.total [Moles/volume] in Blood,LABTRAIN
+Bili-totaal (RBIT),Bloed Bloed,µmol/L,RBIT;BL,RBIT-BL,54363-7,Bilirubin.total [Moles/volume] in Blood,LABTRAIN
+BILIRUBINE (OVERIG),,umol/L,K_BILT_OV,K_BILT_OV,29767-1,Bilirubin.total [Moles/volume] in Body fluid,VUMC LAB GLIMS
+Bilirubine,Overig,umol/L,K_BILT_OV,K_BILT_OV,29767-1,Bilirubin.total [Moles/volume] in Body fluid,GLIMS
+BILI-TOTAAL (OVERIG) AMC,Overig,¶mol/L,RBIT-O,RBIT-O,29767-1,Bilirubin.total [Moles/volume] in Body fluid,AMC LAB LABTRAIN
+BILI-TOTAAL (OVERIG) AMC,Overig,umol/L,RBIT-O,RBIT-O,29767-1,Bilirubin.total [Moles/volume] in Body fluid,AMC LAB LABTRAIN
+Bili-totaal (RBIT),Overige,µmol/L,RBIT;O,RBIT-O,29767-1,Bilirubin.total [Moles/volume] in Body fluid,LABTRAIN
+Bili-totaal (ICTO),Bloed Capillair,µmol/L,ICTO;BL,ICTO-BL,97770-2,Bilirubin.total [Moles/volume] in Capillary blood,LABTRAIN
+Bilirubine(Bgs),Bloed Capillair,umol/L,P_BIL_HB,P_BIL_HB,97770-2,Bilirubin.total [Moles/volume] in Capillary blood,GLIMS
+Bili-totaal (RBIT),Bloed Capillair,µmol/L,RBIT;BL,RBIT-BL,97770-2,Bilirubin.total [Moles/volume] in Capillary blood,LABTRAIN
+Bili-totaal (RBIT),Bloed Capillair vinger,µmol/L,RBIT;BL,RBIT-BL,97770-2,Bilirubin.total [Moles/volume] in Capillary blood,LABTRAIN
+BILIRUBINE (ASCITESVOCHT),Ascitesvocht,umol/L,K_BILT_AS,K_BILT_AS,39461-9,Bilirubin.total [Moles/volume] in Peritoneal fluid,VUMC LAB GLIMS
+Bilirubine ascitesvocht,Ascitesvocht,umol/L,K_BILT_AS,K_BILT_AS,39461-9,Bilirubin.total [Moles/volume] in Peritoneal fluid,GLIMS
+BILIRUBINE (ASCITESVOCHT),,umol/L,K_BILT_AS,K_BILT_AS,39461-9,Bilirubin.total [Moles/volume] in Peritoneal fluid,VUMC LAB GLIMS
+Bili-totaal (ICTO),Bloed,µmol/L,ICTO;BL,ICTO-BL,14631-6,Bilirubin.total [Moles/volume] in Serum or Plasma,LABTRAIN
+BILIRUBINE,Bloed,umol/L,K_BILT_HP,K_BILT_HP,14631-6,Bilirubin.total [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Bilirubine,Bloed,umol/L,K_BILT_HP,K_BILT_HP,14631-6,Bilirubin.total [Moles/volume] in Serum or Plasma,GLIMS
+BILIRUBINE,,umol/L,K_BILT_HP,K_BILT_HP,14631-6,Bilirubin.total [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Bilirubine in serum,Bloed,umol/L,K_BILT_SR,K_BILT_SR,14631-6,Bilirubin.total [Moles/volume] in Serum or Plasma,GLIMS
+Bilirubine(Bgs),Bloed,umol/L,P_BIL_HB,P_BIL_HB,14631-6,Bilirubin.total [Moles/volume] in Serum or Plasma,GLIMS
+BILI-TOTAAL (BLOED) AMC,Bloed,¶mol/L,RBIT-BL,RBIT-BL,14631-6,Bilirubin.total [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+Bilirubine(Bgs Centraal),Bloed Veneus,umol/L,K_BIL_HB,K_BIL_HB,89871-8,Bilirubin.total [Moles/volume] in Venous blood,GLIMS
+Bilirubine(Bgs),Bloed Veneus,umol/L,P_BIL_HB,P_BIL_HB,89871-8,Bilirubin.total [Moles/volume] in Venous blood,GLIMS
+Bili-totaal (RBIT),Bloed Centraal veneus,µmol/L,RBIT;BL,RBIT-BL,89871-8,Bilirubin.total [Moles/volume] in Venous blood,LABTRAIN
+Bili-totaal (RBIT),Bloed Veneus,µmol/L,RBIT;BL,RBIT-BL,89871-8,Bilirubin.total [Moles/volume] in Venous blood,LABTRAIN
+Bili-totaal (NBIL),Liquor,geen,NBIL;L,NBIL-L,53415-6,Bilirubin.total [Presence] in Cerebral spinal fluid,LABTRAIN
+Bilirubine,Urine,,P_BIL_UR,P_BIL_UR,1977-8,Bilirubin.total [Presence] in Urine,GLIMS
+Bili.-stik (DBIS),Urine,geen,DBIS;U,DBIS-U,5770-3,Bilirubin.total [Presence] in Urine by Test strip,LABTRAIN
+BILIRUBINE-KWAL (URINE) POCT AMC,Urine,,DBIS-U,DBIS-U,5770-3,Bilirubin.total [Presence] in Urine by Test strip,AMC LAB LABTRAIN
+BILIRUBINE (URINE),,,K_BIL_UR,K_BIL_UR,5770-3,Bilirubin.total [Presence] in Urine by Test strip,VUMC LAB GLIMS
+BILIRUBINE (URINE),Urine,,K_BIL_UR,K_BIL_UR,5770-3,Bilirubin.total [Presence] in Urine by Test strip,VUMC LAB GLIMS
+Bilirubine,Urine,,K_BIL_UR,K_BIL_UR,5770-3,Bilirubin.total [Presence] in Urine by Test strip,GLIMS
+BILI-STIK (DBIS) (URINE) AMC,Urine,,KBIS-U,KBIS-U,5770-3,Bilirubin.total [Presence] in Urine by Test strip,AMC LAB LABTRAIN
+Bili.-stik,Urine,geen,KBIS;U,KBIS-U,5770-3,Bilirubin.total [Presence] in Urine by Test strip,LABTRAIN
+Bili.-stik,Urine Vragen om afname informatie,geen,KBIS;U,KBIS-U,5770-3,Bilirubin.total [Presence] in Urine by Test strip,LABTRAIN
+CRP (CRPR),Overige,mg/L,CRPR;O,CRPR-O,16503-5,C reactive protein [Mass/volume] in Body fluid,LABTRAIN
+CRP (CRPR),Bloed Capillair vinger,mg/L,CRPR;BL,CRPR-BL,48421-2,C reactive protein [Mass/volume] in Capillary blood,LABTRAIN
+CRP (CRPR),Bloed Capillair,mg/L,CRPR;BL,CRPR-BL,48421-2,C reactive protein [Mass/volume] in Capillary blood,LABTRAIN
+CRP,Bloed,mg/L,K_CRP_HP,K_CRP_HP,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,GLIMS
+CRP (CRPR),Bloed Arterieel,mg/L,CRPR;BL,CRPR-BL,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,LABTRAIN
+CRP (CRPR),Bloed,mg/L,CRPR;BL,CRPR-BL,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,LABTRAIN
+CRP (CRPR),Bloed Veneus,mg/L,CRPR;BL,CRPR-BL,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,LABTRAIN
+CRP (CRPR),Bloed Vragen om afname informatie,mg/L,CRPR;BL,CRPR-BL,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,LABTRAIN
+CRP ACN8256,Bloed,mg/L,K_CRP4_HP,K_CRP4_HP,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,GLIMS
+CRP,Bloed,mg/L,CRPR-BL,CRPR-BL,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,AMC LAB LABTRAIN
+CRP,Bloed,mg/L,K_CRP_HP,K_CRP_HP,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,VUMC LAB GLIMS
+CRP,,mg/L,K_CRP_HP,K_CRP_HP,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,VUMC LAB GLIMS
+CALCIUM TOTAAL (URINE VERZAMELD),,mmol/24u,K_CA_UV,K_CA_UV,14637-3,Calcium [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+CALCIUM TOTAAL (URINE VERZAMELD),Urine,mmol/24u,K_CA_UV,K_CA_UV,14637-3,Calcium [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+CA (ALB.CORR.),Bloed,,CAALB-BL,CAALB-BL,29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,AMC LAB LABTRAIN
+Albumine gecorrigeerde calcium,Bloed Veneus,,CAALB;BL,CAALB-BL,29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,LABTRAIN
+Albumine gecorrigeerde calcium,Bloed,,CAALB;BL,CAALB-BL,29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,LABTRAIN
+CA (ALB.CORR.),Bloed,mmol/L,K_CAALB_HP,K_CAALB_HP,29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,VUMC LAB GLIMS
+CA (ALB.CORR.),,mmol/L,K_CAALB_HP,K_CAALB_HP,29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,VUMC LAB GLIMS
+CALCIUM HOEV (U),Urine,mmol/vzm,CALH-U,CALH-U,25362-5,Calcium [Moles/volume] in 24 hour Urine,AMC LAB LABTRAIN
+CALCIUM TOTAAL (URINE),Verzamel Urine,mmol/L,K_CA_UR,K_CA_UR,25362-5,Calcium [Moles/volume] in 24 hour Urine,VUMC LAB GLIMS
+CALCIUM (DIALYSAAT),Dialysaat,mmol/L,K_CA_DI,K_CA_DI,1998-4,Calcium [Moles/volume] in Dialysis fluid,VUMC LAB GLIMS
+CALCIUM TOTAAL,Bloed,mmol/L,K_CA_HP,K_CA_HP,2000-8,Calcium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+CALCIUM TOTAAL,,mmol/L,K_CA_HP,K_CA_HP,2000-8,Calcium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+CALCIUM,Bloed,mmol/L,RCAL-BL,RCAL-BL,2000-8,Calcium [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+CALCIUM TOTAAL (URINE),Urine,mmol/L,K_CA_UR,K_CA_UR,2004-0,Calcium [Moles/volume] in Urine,VUMC LAB GLIMS
+CALCIUM (U),Urine,mmol/L,UCAL-U,UCAL-U,2004-0,Calcium [Moles/volume] in Urine,AMC LAB LABTRAIN
+CAION(7.4) ART. VUMC,Bloed,mmol/L,K_CA_ART,K_CA_ART,53138-4,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Arterial blood,VUMC LAB GLIMS
+CAION(7.4) ART. VUMC,Bloedgas,mmol/L,K_CA_ART,K_CA_ART,53138-4,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Arterial blood,VUMC LAB GLIMS
+CAION(7.4) ART. VUMC,Bloed,mmol/L,P_CA_ART,P_CA_ART,53138-4,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Arterial blood,VUMC LAB GLIMS
+CAION(7.4) ART. VUMC,,mmol/L,P_CA_ART,P_CA_ART,53138-4,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Arterial blood,VUMC LAB GLIMS
+CA-ION(7.4) POCT,Bloed,mmol/L,P_CA_HB,P_CA_HB,47598-8,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Blood,VUMC LAB GLIMS
+CA-ION(7.4) POCT,,mmol/L,P_CA_HB,P_CA_HB,47598-8,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Blood,VUMC LAB GLIMS
+CAION(7.4) CAP. VUMC,,mmol/L,P_CA_CAP,P_CA_CAP,53139-2,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Capillary blood,VUMC LAB GLIMS
+CA-ION (7.4),Bloed,mmol/L,K_CA_HB,K_CA_HB,19072-8,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Serum or Plasma,VUMC LAB GLIMS
+CA-ION (7.4),,mmol/L,K_CA_HB,K_CA_HB,19072-8,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Serum or Plasma,VUMC LAB GLIMS
+CA-ION (7.4) VUMC,Bloed,mmol/L,K_CA_SR,K_CA_SR,19072-8,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Serum or Plasma,VUMC LAB GLIMS
+CA-ION (7.4) VUMC,,mmol/L,K_CA_SR,K_CA_SR,19072-8,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Serum or Plasma,VUMC LAB GLIMS
+CAION(7.4) VEN. VUMC,Bloed,mmol/L,K_CA_VEN,K_CA_VEN,53140-0,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Venous blood,VUMC LAB GLIMS
+CAION(7.4) VEN. VUMC,Bloed,mmol/L,P_CA_VEN,P_CA_VEN,53140-0,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Venous blood,VUMC LAB GLIMS
+CAION(7.4) VEN. VUMC,,mmol/L,P_CA_VEN,P_CA_VEN,53140-0,Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Venous blood,VUMC LAB GLIMS
+PCO2 - BLOEDGAS ART. (AMC),Bloed,kPa,CPCO-BL_ART,CPCO-BL_ART,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,AMC LAB LABTRAIN
+PCO2 - BLOEDGAS NV. ART. (AMC),Bloed,kPa,CPCO-BL_NAR,CPCO-BL_NAR,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,AMC LAB LABTRAIN
+PCO2 - BLOEDGAS ART. (AMC),Bloed,kPa,DPCO-BL_ART,DPCO-BL_ART,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,AMC LAB LABTRAIN
+PCO2 - BLOEDGAS ART. (AMC),,kPa,DPCO-BL_ART,DPCO-BL_ART,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,AMC LAB LABTRAIN
+PCO2 KPA,Bloed,kPa,K_PCO2P_ART,K_PCO2P_ART,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,VUMC LAB GLIMS
+PCO2 KPA,Bloedgas,kPa,K_PCO2P_ART,K_PCO2P_ART,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,VUMC LAB GLIMS
+PCO2 KPA,,kPa,K_PCO2P_ART,K_PCO2P_ART,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,VUMC LAB GLIMS
+PCO2 KPA,Bloed,kPa,P_PCO2P_ART,P_PCO2P_ART,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,VUMC LAB GLIMS
+PCO2 KPA,,kPa,P_PCO2P_ART,P_PCO2P_ART,2019-8,Carbon dioxide [Partial pressure] in Arterial blood,VUMC LAB GLIMS
+PCO2 - BLOEDGAS,Bloed,kPa,CPCO-BL,CPCO-BL,11557-6,Carbon dioxide [Partial pressure] in Blood,AMC LAB LABTRAIN
+PCO2 KPA VUMC,,,K_PCO2P_HB,K_PCO2P_HB,11557-6,Carbon dioxide [Partial pressure] in Blood,VUMC LAB GLIMS
+PCO2 KPA VUMC,,kPa,K_PCO2P_HB,K_PCO2P_HB,11557-6,Carbon dioxide [Partial pressure] in Blood,VUMC LAB GLIMS
+PCO2 KPA VUMC,Bloed,kPa,K_PCO2P_HB,K_PCO2P_HB,11557-6,Carbon dioxide [Partial pressure] in Blood,VUMC LAB GLIMS
+PCO2 KPA POCT VUMC,Bloed,kPa,P_PCO2P_HB,P_PCO2P_HB,11557-6,Carbon dioxide [Partial pressure] in Blood,VUMC LAB GLIMS
+PCO2 KPA POCT VUMC,,kPa,P_PCO2P_HB,P_PCO2P_HB,11557-6,Carbon dioxide [Partial pressure] in Blood,VUMC LAB GLIMS
+PCO2 - BLOEDGAS CAP. (AMC),Bloed,kPa,CPCO-BL_CAP,CPCO-BL_CAP,2020-6,Carbon dioxide [Partial pressure] in Capillary blood,AMC LAB LABTRAIN
+PCO2 - BLOEDGAS CAP. (AMC),,kPa,CPCO-BL_CAP,CPCO-BL_CAP,2020-6,Carbon dioxide [Partial pressure] in Capillary blood,AMC LAB LABTRAIN
+PCO2 - BLOEDGAS CAP. (AMC),Bloed,kPa,DPCO-BL_CAP,DPCO-BL_CAP,2020-6,Carbon dioxide [Partial pressure] in Capillary blood,AMC LAB LABTRAIN
+PCO2 KPA,Bloed,kPa,K_PCO2P_CAP,K_PCO2P_CAP,2020-6,Carbon dioxide [Partial pressure] in Capillary blood,VUMC LAB GLIMS
+PCO2 KPA,,kPa,K_PCO2P_CAP,K_PCO2P_CAP,2020-6,Carbon dioxide [Partial pressure] in Capillary blood,VUMC LAB GLIMS
+PCO2 KPA,,kPa,P_PCO2P_CAP,P_PCO2P_CAP,2020-6,Carbon dioxide [Partial pressure] in Capillary blood,VUMC LAB GLIMS
+PCO2 - BLOEDGAS GEM. VEN. (AMC),Bloed,kPa,CPCO-BL_MVEN,CPCO-BL_MVEN,19212-0,Carbon dioxide [Partial pressure] in Mixed venous blood,AMC LAB LABTRAIN
+PCO2 - BLOEDGAS GEM. VEN. (AMC),Bloed,kPa,DPCO-BL_MVEN,DPCO-BL_MVEN,19212-0,Carbon dioxide [Partial pressure] in Mixed venous blood,AMC LAB LABTRAIN
+PCO2 KPA,Bloed,kPa,K_PCO2P_GEMVEN,K_PCO2P_GEMVEN,19212-0,Carbon dioxide [Partial pressure] in Mixed venous blood,VUMC LAB GLIMS
+PCO2 KPA,,kPa,K_PCO2P_GEMVEN,K_PCO2P_GEMVEN,19212-0,Carbon dioxide [Partial pressure] in Mixed venous blood,VUMC LAB GLIMS
+PCO2 KPA,Bloed,kPa,P_PCO2P_GEMVEN,P_PCO2P_GEMVEN,19212-0,Carbon dioxide [Partial pressure] in Mixed venous blood,VUMC LAB GLIMS
+PCO2 KPA,,kPa,P_PCO2P_GEMVEN,P_PCO2P_GEMVEN,19212-0,Carbon dioxide [Partial pressure] in Mixed venous blood,VUMC LAB GLIMS
+PCO2 - BLOEDGAS NV. VEN. (AMC),Bloed,kPa,CPCO-BL_NVE,CPCO-BL_NVE,2021-4,Carbon dioxide [Partial pressure] in Venous blood,AMC LAB LABTRAIN
+PCO2 - BLOEDGAS VEN. (AMC),Bloed,kPa,CPCO-BL_VEN,CPCO-BL_VEN,2021-4,Carbon dioxide [Partial pressure] in Venous blood,AMC LAB LABTRAIN
+PCO2 - BLOEDGAS VEN. (AMC),Bloed,kPa,DPCO-BL_VEN,DPCO-BL_VEN,2021-4,Carbon dioxide [Partial pressure] in Venous blood,AMC LAB LABTRAIN
+PCO2 - BLOEDGAS VEN. (AMC),,kPa,DPCO-BL_VEN,DPCO-BL_VEN,2021-4,Carbon dioxide [Partial pressure] in Venous blood,AMC LAB LABTRAIN
+PCO2 KPA,Bloed,kPa,K_PCO2P_VEN,K_PCO2P_VEN,2021-4,Carbon dioxide [Partial pressure] in Venous blood,VUMC LAB GLIMS
+PCO2 KPA,Bloedgas,kPa,K_PCO2P_VEN,K_PCO2P_VEN,2021-4,Carbon dioxide [Partial pressure] in Venous blood,VUMC LAB GLIMS
+PCO2 KPA,,kPa,K_PCO2P_VEN,K_PCO2P_VEN,2021-4,Carbon dioxide [Partial pressure] in Venous blood,VUMC LAB GLIMS
+PCO2 KPA,Bloed,kPa,P_PCO2P_VEN,P_PCO2P_VEN,2021-4,Carbon dioxide [Partial pressure] in Venous blood,VUMC LAB GLIMS
+PCO2 KPA,,kPa,P_PCO2P_VEN,P_PCO2P_VEN,2021-4,Carbon dioxide [Partial pressure] in Venous blood,VUMC LAB GLIMS
+Cholesterol,Overig,mmol/L,K_CHOL_OV,K_CHOL_OV,29765-5,Cholesterol [Moles/volume] in Body fluid,GLIMS
+Totaal chol.,Overige,mmol/L,RCHO;O,RCHO-O,29765-5,Cholesterol [Moles/volume] in Body fluid,LABTRAIN
+Cholesterol,Bloed,mmol/L,K_CHOL_HP,K_CHOL_HP,14647-2,Cholesterol [Moles/volume] in Serum or Plasma,GLIMS
+CHOLESTEROL,Bloed,mmol/L,K_CHOL_HP,K_CHOL_HP,14647-2,Cholesterol [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+CHOLESTEROL,,mmol/L,K_CHOL_HP,K_CHOL_HP,14647-2,Cholesterol [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+TOTAAL CHOL.,Bloed,mmol/L,RCHO-BL,RCHO-BL,14647-2,Cholesterol [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+Totaal chol.,Bloed,mmol/L,RCHO;BL,RCHO-BL,14647-2,Cholesterol [Moles/volume] in Serum or Plasma,LABTRAIN
+Hdl-Chol,Bloed,mmol/L,K_HDL_HP,K_HDL_HP,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,GLIMS
+HDL-chol.,Bloed,mmol/L,RHDL;BL,RHDL-BL,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,LABTRAIN
+HDL-CHOL,Bloed,mmol/L,K_HDL_HP,K_HDL_HP,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+HDL-CHOL,,mmol/L,K_HDL_HP,K_HDL_HP,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+HDL-CHOL.,Bloed,mmol/L,RHDL-BL,RHDL-BL,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+LDL (BER.),Bloed,mmol/L,K_LDL_CALC_HP,K_LDL_CALC_HP,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,VUMC LAB GLIMS
+LDL (BER.),,mmol/L,K_LDL_CALC_HP,K_LDL_CALC_HP,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,VUMC LAB GLIMS
+LDL (Ber.),Bloed,mmol/L,K_LDL_CALC_HP,K_LDL_CALC_HP,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,GLIMS
+LDL- berekening,Bloed,mmol/L,LDL- berekening;BL,LDL- berekening-BL,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LABTRAIN
+LDL-chol.,Bloed,mmol/L,RLDL;BL,RLDL-BL,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,LABTRAIN
+LDL-CHOL.BEP,Bloed,mmol/L,RLDL-BL,RLDL-BL,39469-2,Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation,AMC LAB LABTRAIN
+NON-HDL-CHOLESTEROL VUMC,Bloed,mmol/L,K_NHDL_HP,K_NHDL_HP,70204-3,Cholesterol non HDL [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+NON-HDL-CHOLESTEROL VUMC,,mmol/L,K_NHDL_HP,K_NHDL_HP,70204-3,Cholesterol non HDL [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+NON-HDL-CHOLESTEROL AMC,Bloed,mmol/L,nonHDL-BL,nonHDL-BL,70204-3,Cholesterol non HDL [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+CHOL.TOT/HDL,Bloed,,CHHO-BL,CHHO-BL,32309-7,Cholesterol.total/Cholesterol in HDL [Molar ratio] in Serum or Plasma,AMC LAB LABTRAIN
+Chol.tot/HDL,Bloed,,CHHO;BL,CHHO-BL,32309-7,Cholesterol.total/Cholesterol in HDL [Molar ratio] in Serum or Plasma,LABTRAIN
+CK,Bloed,U/L,K_CK_HP,K_CK_HP,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,VUMC LAB GLIMS
+CK,Bloed,U/L,K_CK_HP,K_CK_HP,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,GLIMS
+CK,,U/L,K_CK_HP,K_CK_HP,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,VUMC LAB GLIMS
+CPK,Bloed,U/L 37¶C,RCPK-BL,RCPK-BL,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,AMC LAB LABTRAIN
+CPK,Bloed,U/L 37C,RCPK;BL,RCPK-BL,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,LABTRAIN
+CPK,Bloed Veneus,U/L 37C,RCPK;BL,RCPK-BL,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,LABTRAIN
+CKMB MASSA,Bloed,¶g/L,EMB-BL,EMB-BL,13969-1,Creatine kinase.MB [Mass/volume] in Serum or Plasma,AMC LAB LABTRAIN
+KREATININE (URINE VERZAMELD),Bloed,mmol/24u,K_KR_UV,K_KR_UV,14684-5,Creatinine [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+KREATININE (URINE VERZAMELD),,mmol/24u,K_KR_UV,K_KR_UV,14684-5,Creatinine [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+KREATININE (URINE VERZAMELD),Urine,mmol/24u,K_KR_UV,K_KR_UV,14684-5,Creatinine [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+Kreatinine,Urine,mmol/24u,K_KR_UV,K_KR_UV,14684-5,Creatinine [Moles/time] in 24 hour Urine,GLIMS
+KREATININE  (DIALYSAAT),Dialysaat verzamel,umol/L,K_KR_DI,K_KR_DI,39472-6,Creatinine [Moles/volume] in 24 hour Dialysis fluid,VUMC LAB GLIMS
+KREATININE (URINE),Verzamel Urine,mmol/L,K_KR_UR,K_KR_UR,25886-3,Creatinine [Moles/volume] in 24 hour Urine,VUMC LAB GLIMS
+Kreatinine hoev.,Urine Vragen om afname informatie,mmol/vzm,UKREH;U,UKREH-U,25886-3,Creatinine [Moles/volume] in 24 hour Urine,LABTRAIN
+KREATIN.HOEV (U),Urine,mmol/vzm,KREH-U,KREH-U,25886-3,Creatinine [Moles/volume] in 24 hour Urine,AMC LAB LABTRAIN
+KREATIN.HOEV (U),Verzamel Urine,mmol/vzm,KREH-U,KREH-U,25886-3,Creatinine [Moles/volume] in 24 hour Urine,AMC LAB LABTRAIN
+KREATININE (U),Verzamel Urine,mmol/L,UKRE-U,UKRE-U,25886-3,Creatinine [Moles/volume] in 24 hour Urine,AMC LAB LABTRAIN
+KREATININE (OVERIG),Overig,umol/L,K_KR_OV,K_KR_OV,25386-4,Creatinine [Moles/volume] in Body fluid,VUMC LAB GLIMS
+KREATININE (OVERIG),Vocht,umol/L,K_KR_OV,K_KR_OV,25386-4,Creatinine [Moles/volume] in Body fluid,VUMC LAB GLIMS
+Kreatinine,Overig,umol/L,K_KR_OV,K_KR_OV,25386-4,Creatinine [Moles/volume] in Body fluid,GLIMS
+Kreatinine,Overige,µmol/L,RKRE;O,RKRE-O,25386-4,Creatinine [Moles/volume] in Body fluid,LABTRAIN
+KREATININE (VOCHT) (AMC),Overig,¶mol/L,RKRE-O,RKRE-O,25386-4,Creatinine [Moles/volume] in Body fluid,AMC LAB LABTRAIN
+KREATININE (VOCHT) (AMC),Overig,umol/L,RKRE-O,RKRE-O,25386-4,Creatinine [Moles/volume] in Body fluid,AMC LAB LABTRAIN
+KREATININE  (DIALYSAAT),Dialysaat,umol/L,K_KR_DI,K_KR_DI,15051-6,Creatinine [Moles/volume] in Dialysis fluid,VUMC LAB GLIMS
+Kreatinine dialysaat,Dialysaat,umol/L,K_KR_DI,K_KR_DI,15051-6,Creatinine [Moles/volume] in Dialysis fluid,GLIMS
+Kreatinine,Dialysaat,µmol/L,RKRE;B,RKRE-B,15051-6,Creatinine [Moles/volume] in Dialysis fluid,LABTRAIN
+KREATININE (DIALYSAAT) (AMC),Dialysaat,¶mol/L,RKRE-B,RKRE-B,15051-6,Creatinine [Moles/volume] in Dialysis fluid,AMC LAB LABTRAIN
+Kreatinine,Dialysaat Vragen om afname informatie,µmol/L,RKRE;B,RKRE-B,15051-6,Creatinine [Moles/volume] in Dialysis fluid,LABTRAIN
+KREATININE,Bloed,umol/L,K_KR_HP,K_KR_HP,14682-9,Creatinine [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Kreatinine,Bloed,umol/L,K_KR_HP,K_KR_HP,14682-9,Creatinine [Moles/volume] in Serum or Plasma,GLIMS
+KREATININE,,umol/L,K_KR_HP,K_KR_HP,14682-9,Creatinine [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Kreatinine,Bloed,umol/L,K_KRB_HP,K_KRB_HP,14682-9,Creatinine [Moles/volume] in Serum or Plasma,GLIMS
+Kreatinine,Bloed,µmol/L,RKRE;BL,RKRE-BL,14682-9,Creatinine [Moles/volume] in Serum or Plasma,LABTRAIN
+KREATININE AMC,,¶mol/L,RKRE-BL,RKRE-BL,14682-9,Creatinine [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+KREATININE AMC,Bloed,¶mol/L,RKRE-BL,RKRE-BL,14682-9,Creatinine [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+KREATININE AMC,Bloed,umol/L,RKRE-BL,RKRE-BL,14682-9,Creatinine [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+Kreatinine,Urine,mmol/L,A_KR_UR,A_KR_UR,14683-7,Creatinine [Moles/volume] in Urine,GLIMS
+KREATININE (URINE),Bloed,mmol/L,K_KR_UR,K_KR_UR,14683-7,Creatinine [Moles/volume] in Urine,VUMC LAB GLIMS
+KREATININE (URINE),,mmol/L,K_KR_UR,K_KR_UR,14683-7,Creatinine [Moles/volume] in Urine,VUMC LAB GLIMS
+KREATININE (URINE),Urine,mmol/L,K_KR_UR,K_KR_UR,14683-7,Creatinine [Moles/volume] in Urine,VUMC LAB GLIMS
+Kreatinine,Urine,mmol/L,K_KR_UR,K_KR_UR,14683-7,Creatinine [Moles/volume] in Urine,GLIMS
+Kreatinine (U),Urine,mmol/L,UKRE;U,UKRE-U,14683-7,Creatinine [Moles/volume] in Urine,LABTRAIN
+Kreatinine (U),Urine Vragen om afname informatie,mmol/L,UKRE;U,UKRE-U,14683-7,Creatinine [Moles/volume] in Urine,LABTRAIN
+KREATININE (U),Urine,mmol/L,UKRE-U,UKRE-U,14683-7,Creatinine [Moles/volume] in Urine,AMC LAB LABTRAIN
+Kreatinine (U),"Urine Vragen om afname informatie;Afnemen in medium,verkrijgbaar op B1-209,tst:62429",mmol/L,UKRE;U,UKRE-U,14683-7,Creatinine [Moles/volume] in Urine,LABTRAIN
+Kreatinine (U),Urine Vragen om afname informatie;Arterieel,mmol/L,UKRE;U,UKRE-U,14683-7,Creatinine [Moles/volume] in Urine,LABTRAIN
+Kreatinine (U),Urine Vragen om afname informatie;Arterielijn,mmol/L,UKRE;U,UKRE-U,14683-7,Creatinine [Moles/volume] in Urine,LABTRAIN
+KREAT.KLARING,Verzamel Urine,mL/min,K_KKLBer,K_KKLBer,2164-2,Creatinine renal clearance in 24 hour Urine and Serum or Plasma,VUMC LAB GLIMS
+KREATININEKLARING (URINE) AMC,Verzamel Urine,mL/min,KREAKL-U,KREAKL-U,2164-2,Creatinine renal clearance in 24 hour Urine and Serum or Plasma,AMC LAB LABTRAIN
+KREAT.KLARING,,mL/min,K_KKLBer,K_KKLBer,33558-8,Creatinine renal clearance in Urine and Serum or Plasma collected for unspecified duration,VUMC LAB GLIMS
+KREAT.KLARING,Urine,mL/min,K_KKLBer,K_KKLBer,33558-8,Creatinine renal clearance in Urine and Serum or Plasma collected for unspecified duration,VUMC LAB GLIMS
+Kreat.klaring,Urine,mL/min,K_KKLBer,K_KKLBer,33558-8,Creatinine renal clearance in Urine and Serum or Plasma collected for unspecified duration,GLIMS
+KREATININEKLARING (URINE) AMC,Urine,mL/min,KREAKL-U,KREAKL-U,33558-8,Creatinine renal clearance in Urine and Serum or Plasma collected for unspecified duration,AMC LAB LABTRAIN
+Gered.-Hb,Bloed Arterieel,%,CHBH;BL,CHBH-BL,19225-2,Deoxyhemoglobin/Hemoglobin.total in Arterial blood,LABTRAIN
+GERED.-HB - BLOEDGAS ART. (AMC),Bloed,%,CHBH-BL_ART,CHBH-BL_ART,19225-2,Deoxyhemoglobin/Hemoglobin.total in Arterial blood,AMC LAB LABTRAIN
+Gered.-HB,Bloed Arterieel,%,DHBH;BL,DHBH-BL,19225-2,Deoxyhemoglobin/Hemoglobin.total in Arterial blood,LABTRAIN
+GERED.-HB - BLOEDGAS ART. (AMC),,%,DHBH-BL_ART,DHBH-BL_ART,19225-2,Deoxyhemoglobin/Hemoglobin.total in Arterial blood,AMC LAB LABTRAIN
+GERED.-HB - BLOEDGAS ART. (AMC),Bloed,%,DHBH-BL_ART,DHBH-BL_ART,19225-2,Deoxyhemoglobin/Hemoglobin.total in Arterial blood,AMC LAB LABTRAIN
+Gered.-Hb,Bloed Capillair,%,CHBH;BL,CHBH-BL,19226-0,Deoxyhemoglobin/Hemoglobin.total in Capillary blood,LABTRAIN
+Gered.-HB,Bloed Capillair,%,DHBH;BL,DHBH-BL,19226-0,Deoxyhemoglobin/Hemoglobin.total in Capillary blood,LABTRAIN
+GERED.-HB - BLOEDGAS CAP. (AMC),Bloed,%,DHBH-BL_CAP,DHBH-BL_CAP,19226-0,Deoxyhemoglobin/Hemoglobin.total in Capillary blood,AMC LAB LABTRAIN
+Gered.-HB,Bloed Mixed Veneus,%,DHBH;BL,DHBH-BL,19228-6,Deoxyhemoglobin/Hemoglobin.total in Mixed venous blood,LABTRAIN
+GERED.-HB - BLOEDGAS GEM. VEN. (AMC),Bloed,%,DHBH-BL_MVEN,DHBH-BL_MVEN,19228-6,Deoxyhemoglobin/Hemoglobin.total in Mixed venous blood,AMC LAB LABTRAIN
+Gered.-Hb,Bloed Veneus,%,CHBH;BL,CHBH-BL,19227-8,Deoxyhemoglobin/Hemoglobin.total in Venous blood,LABTRAIN
+GERED.-HB - BLOEDGAS VEN. (AMC),Bloed,%,CHBH-BL_VEN,CHBH-BL_VEN,19227-8,Deoxyhemoglobin/Hemoglobin.total in Venous blood,AMC LAB LABTRAIN
+Gered.-HB,Bloed Veneus,%,DHBH;BL,DHBH-BL,19227-8,Deoxyhemoglobin/Hemoglobin.total in Venous blood,LABTRAIN
+GERED.-HB - BLOEDGAS VEN. (AMC),,%,DHBH-BL_VEN,DHBH-BL_VEN,19227-8,Deoxyhemoglobin/Hemoglobin.total in Venous blood,AMC LAB LABTRAIN
+GERED.-HB - BLOEDGAS VEN. (AMC),Bloed,%,DHBH-BL_VEN,DHBH-BL_VEN,19227-8,Deoxyhemoglobin/Hemoglobin.total in Venous blood,AMC LAB LABTRAIN
+#EOSINOFIELEN,Bloed,10E9/L,HEOA-BL,HEOA-BL,711-2,Eosinophils [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+TOTAAL EO'S,Bloed,10E9/L,HTEO-BL,HTEO-BL,711-2,Eosinophils [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+EO,Bloed,x10e9/L,K_AEOA_EB,K_AEOA_EB,711-2,Eosinophils [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+EO,,x10e9/L,K_AEOA_EB,K_AEOA_EB,711-2,Eosinophils [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+EO (BLOED) VUMC,Bloed,x10e9/L,K_AEOAL_EB,K_AEOAL_EB,711-2,Eosinophils [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+EO (BLOED) VUMC,,x10e9/L,K_AEOAL_EB,K_AEOAL_EB,711-2,Eosinophils [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+#EOSINOFIELEN,Bloed,10E9/L,HEOSA-BL,HEOSA-BL,712-0,Eosinophils [#/volume] in Blood by Manual count,AMC LAB LABTRAIN
+#EOSINOFIEL (OVERIG),Overig,10E9/L,OEOA-O,OEOA-O,35063-7,Eosinophils [#/volume] in Body fluid,AMC LAB LABTRAIN
+#EOSINOFIEL (OVERIG),Vocht,10E9/L,OEOA-O,OEOA-O,35063-7,Eosinophils [#/volume] in Body fluid,AMC LAB LABTRAIN
+#EOSINOFIEL,Liquor,10E9/L,BEOA-L,BEOA-L,34958-9,Eosinophils [#/volume] in Cerebral spinal fluid,AMC LAB LABTRAIN
+EOSINOFIELEN ABS. (LIQUOR) AMC,Liquor,10E6/L,EOAL-L,EOAL-L,34957-1,Eosinophils [#/volume] in Cerebral spinal fluid by Manual count,AMC LAB LABTRAIN
+EOSINOFIELEN,Bloed,%,HEOS-BL,HEOS-BL,713-8,Eosinophils/100 leukocytes in Blood by Automated count,AMC LAB LABTRAIN
+EOSINOFIELE GRANULOCYT (BLOED) AMC,Bloed,%,SEOS-BL,SEOS-BL,713-8,Eosinophils/100 leukocytes in Blood by Automated count,AMC LAB LABTRAIN
+EOSINOFIELE GRANULOCYT % (LIQUOR) AMC,Liquor,%,SEOSOP-L,SEOSOP-L,12208-5,Eosinophils/100 leukocytes in Cerebral spinal fluid by Manual count,AMC LAB LABTRAIN
+RDW-CV,,%,HRDW-BL,HRDW-BL,788-0,Erythrocyte distribution width [Ratio] by Automated count,AMC LAB LABTRAIN
+RDW-CV,Bloed,%,HRDW-BL,HRDW-BL,788-0,Erythrocyte distribution width [Ratio] by Automated count,AMC LAB LABTRAIN
+RDW,,%,K_RDW_EB,K_RDW_EB,788-0,Erythrocyte distribution width [Ratio] by Automated count,VUMC LAB GLIMS
+RDW,Bloed,%,K_RDW_EB,K_RDW_EB,788-0,Erythrocyte distribution width [Ratio] by Automated count,VUMC LAB GLIMS
+BEZINKING,Bloed,mm/uur,K_BSE_EB,K_BSE_EB,4537-7,Erythrocyte sedimentation rate by Westergren method,VUMC LAB GLIMS
+BEZINKING,,mm/uur,K_BSE_EB,K_BSE_EB,4537-7,Erythrocyte sedimentation rate by Westergren method,VUMC LAB GLIMS
+Bezinking,Bloed,mm/uur,K_BSE_EB,K_BSE_EB,4537-7,Erythrocyte sedimentation rate by Westergren method,GLIMS
+MICRO-BSE,,mm/uur,K_BSEM_EB,K_BSEM_EB,4537-7,Erythrocyte sedimentation rate by Westergren method,VUMC LAB GLIMS
+BEZINKING,Bloed,mm/U,RBSE-BL,RBSE-BL,4537-7,Erythrocyte sedimentation rate by Westergren method,AMC LAB LABTRAIN
+Bezinking,Bloed,mm/U,RBSE;BL,RBSE-BL,4537-7,Erythrocyte sedimentation rate by Westergren method,LABTRAIN
+BEZINKING,,mm/U,RBSE-BL,RBSE-BL,4537-7,Erythrocyte sedimentation rate by Westergren method,AMC LAB LABTRAIN
+ERY'S (URINE),,/veld,K_ERY_UR,K_ERY_UR,46419-8,Erythrocytes [#/area] in Urine sediment by Automated count,VUMC LAB GLIMS
+ERY'S (URINE),Urine,/veld,K_ERY_UR,K_ERY_UR,46419-8,Erythrocytes [#/area] in Urine sediment by Automated count,VUMC LAB GLIMS
+ERYTROCYTEN (SED) (URINE)VUMC,,aantal/uL,K_RBC_UR,K_RBC_UR,68902-6,Erythrocytes [#/volume] by Light microscopy in Urine sediment collected for unspecified duration,VUMC LAB GLIMS
+ERYTROCYTEN (SED) (URINE)VUMC,Urine,aantal/uL,K_RBC_UR,K_RBC_UR,68902-6,Erythrocytes [#/volume] by Light microscopy in Urine sediment collected for unspecified duration,VUMC LAB GLIMS
+ERYTROCYTEN (AMC),,10E12/L,HERY-BL,HERY-BL,789-8,Erythrocytes [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+ERYTROCYTEN (AMC),Bloed,10E12/L,HERY-BL,HERY-BL,789-8,Erythrocytes [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+ERY'S,Bloed,x10e12/L,K_ERY_EB,K_ERY_EB,789-8,Erythrocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+ERY'S,,x10e12/L,K_ERY_EB,K_ERY_EB,789-8,Erythrocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+ERYTROCYTEN,Liquor,10E12/L,BERY-L,BERY-L,791-4,Erythrocytes [#/volume] in Cerebral spinal fluid by Automated count,AMC LAB LABTRAIN
+ERYTROCYT (LIQUOR) AMC,Liquor,10E6/L,ERYTL-L,ERYTL-L,791-4,Erythrocytes [#/volume] in Cerebral spinal fluid by Automated count,AMC LAB LABTRAIN
+ERY'S (LIQUOR) (X10E12/L) VUMC,Liquor,x10e12/L,K_ERY_LI,K_ERY_LI,791-4,Erythrocytes [#/volume] in Cerebral spinal fluid by Automated count,VUMC LAB GLIMS
+ERY'S (LIQUOR) (X10E12/L) VUMC,,x10e12/L,K_ERY_LI,K_ERY_LI,791-4,Erythrocytes [#/volume] in Cerebral spinal fluid by Automated count,VUMC LAB GLIMS
+ERY'S (LIQUOR) (X10E6/L) VUMC,Liquor,x10e6/L,K_ERYB_LI,K_ERYB_LI,791-4,Erythrocytes [#/volume] in Cerebral spinal fluid by Automated count,VUMC LAB GLIMS
+ERY'S (LIQUOR) (X10E6/L) VUMC,,x10e6/L,K_ERYB_LI,K_ERYB_LI,791-4,Erythrocytes [#/volume] in Cerebral spinal fluid by Automated count,VUMC LAB GLIMS
+ERYTROCYTEN,Liquor,cellen/3¶L,LERY-L,LERY-L,791-4,Erythrocytes [#/volume] in Cerebral spinal fluid by Automated count,AMC LAB LABTRAIN
+ERY/3UL (LIQUOR),,/3uL,K_ERLI_LI,K_ERLI_LI,792-2,Erythrocytes [#/volume] in Cerebral spinal fluid by Manual count,VUMC LAB GLIMS
+ERY/3UL (LIQUOR),Liquor,/3uL,K_ERLI_LI,K_ERLI_LI,792-2,Erythrocytes [#/volume] in Cerebral spinal fluid by Manual count,VUMC LAB GLIMS
+ERY'S/UL (LIQUOR),,/uL,K_ERLIBer_LI,K_ERLIBer_LI,792-2,Erythrocytes [#/volume] in Cerebral spinal fluid by Manual count,VUMC LAB GLIMS
+ERY'S/UL (LIQUOR),Liquor,/uL,K_ERLIBer_LI,K_ERLIBer_LI,792-2,Erythrocytes [#/volume] in Cerebral spinal fluid by Manual count,VUMC LAB GLIMS
+ERYTROCYTEN,Urine,/¶L,SERY-U,SERY-U,798-9,Erythrocytes [#/volume] in Urine by Automated count,AMC LAB LABTRAIN
+ERYTHROCYTEN GP,Liquor,,M_gp_ery,M_gp_ery,88113-6,Erythrocytes [Presence] in Cerebral spinal fluid by Gram stain,VUMC LAB GLIMS
+Hb/Ery's,Urine,,K_OCB_UR,K_OCB_UR,53292-9,Erythrocytes [Presence] in Urine by Automated,GLIMS
+Hb/Ery's,Urine,,P_OCB_UR,P_OCB_UR,53292-9,Erythrocytes [Presence] in Urine by Automated,GLIMS
+ERYTROCYTEN (KWAL) (URINE) VUMC,Bloed,,K_ERYS_UR,K_ERYS_UR,53292-9,Erythrocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+ERYTROCYTEN (KWAL) (URINE) VUMC,,,K_ERYS_UR,K_ERYS_UR,53292-9,Erythrocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+ERYTROCYTEN (KWAL) (URINE) VUMC,Urine,,K_ERYS_UR,K_ERYS_UR,53292-9,Erythrocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+HB/ERY'S (URINE),Bloed,,K_OCB_UR,K_OCB_UR,53292-9,Erythrocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+HB/ERY'S (URINE),,,K_OCB_UR,K_OCB_UR,53292-9,Erythrocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+HB/ERY'S (URINE),Urine,,K_OCB_UR,K_OCB_UR,53292-9,Erythrocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+GLUCOSE (F),Bloed,mmol/L,GLUF-BL,GLUF-BL,76629-5,Fasting glucose [Moles/volume] in Blood,AMC LAB LABTRAIN
+GLUCOSE (F),,mmol/L,GLUF-BL,GLUF-BL,76629-5,Fasting glucose [Moles/volume] in Blood,AMC LAB LABTRAIN
+GLUCOSE VUMC,Bloed,mmol/L,K_GLUC_FP,K_GLUC_FP,77145-1,"Fasting glucose [Moles/volume] in Serum, Plasma or Blood",VUMC LAB GLIMS
+GLUCOSE VUMC,,mmol/L,K_GLUC_FP,K_GLUC_FP,77145-1,"Fasting glucose [Moles/volume] in Serum, Plasma or Blood",VUMC LAB GLIMS
+Ferritine (EFER),Bloed,µg/L,EFER;BL,EFER-BL,2276-4,Ferritin [Mass/volume] in Serum or Plasma,LABTRAIN
+FERRITINE,Bloed,¶g/L,EFER-BL,EFER-BL,2276-4,Ferritin [Mass/volume] in Serum or Plasma,AMC LAB LABTRAIN
+FERRITINE,Bloed,ug/L,K_FER_HP,K_FER_HP,2276-4,Ferritin [Mass/volume] in Serum or Plasma,VUMC LAB GLIMS
+Ferritine,Bloed,ug/L,K_FER_HP,K_FER_HP,2276-4,Ferritin [Mass/volume] in Serum or Plasma,GLIMS
+FERRITINE,,ug/L,K_FER_HP,K_FER_HP,2276-4,Ferritin [Mass/volume] in Serum or Plasma,VUMC LAB GLIMS
+Ferritine,Bloed,ug/L,K_FER_HP,K_FER_HP,20567-4,Ferritin [Mass/volume] in Serum or Plasma by Immunoassay,GLIMS
+Ferritine (EFER),Bloed,µg/L,EFER;BL,EFER-BL,20567-4,Ferritin [Mass/volume] in Serum or Plasma by Immunoassay,LABTRAIN
+D-dimeren,Bloed,mg/L,K_DDM_CP,K_DDM_CP,48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,GLIMS
+D-dimeren,Bloed,mg/L,SDIM;BL,SDIM-BL,48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,LABTRAIN
+Fibrinogeen,Bloed,g/L,H_FIBspec_BL,H_FIBspec_BL,3255-7,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay,GLIMS
+Fibrinogeen,Bloed,g/L,SFIB;BL,SFIB-BL,3255-7,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay,LABTRAIN
+Y-GT,Bloed,U/L,K_YGT_HP,K_YGT_HP,2324-2,Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma,VUMC LAB GLIMS
+Y-GT,,U/L,K_YGT_HP,K_YGT_HP,2324-2,Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma,VUMC LAB GLIMS
+GAMMA-GT,Bloed,U/L 37¶C,RGGT-BL,RGGT-BL,2324-2,Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma,AMC LAB LABTRAIN
+MACRO TROMBOCYTEN,Bloed,,HMAT-BL,HMAT-BL,5908-9,Giant platelets [Presence] in Blood by Light microscopy,AMC LAB LABTRAIN
+eGFR (CKD-EPI) cysC,Bloed,"mL/min/1,73m≤",EGFRCYSC;BL,EGFRCYSC-BL,94677-2,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine and Cystatin C-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI) cysC,Bloed,mL/min/1.73m2,K_EGFRCYS,K_EGFRCYS,94677-2,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine and Cystatin C-based formula (CKD-EPI)",GLIMS
+EGFR (CKD-EPI) CYSC AMC,Bloed,"mL/min/1,73m¶",EGFRCYSC-BL,EGFRCYSC-BL,94677-2,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine and Cystatin C-based formula (CKD-EPI)",AMC LAB LABTRAIN
+EGFR(CKD-EPI) AMC,Bloed,"mL/min/1,73m¶",CKDEPI-BL,CKDEPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",AMC LAB LABTRAIN
+EGFR(CKD-EPI) AMC,Bloed,"mL/min/1,73m2",CKDEPI-BL,CKDEPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",AMC LAB LABTRAIN
+EGFR(CKD-EPI) AMC,Bloed,mL/min/m¶,CKDEPI-BL,CKDEPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",AMC LAB LABTRAIN
+EGFR(CKD-EPI) AMC,,"mL/min/1,73m¶",CKDEPI-BL,CKDEPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",AMC LAB LABTRAIN
+eGFR (CKD-EPI),Bloed Arterieel,"mL/min/1,73m≤",CKD-EPI;BL,CKD-EPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed Arterielijn,"mL/min/1,73m≤",CKD-EPI;BL,CKD-EPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed Capillair vinger,"mL/min/1,73m≤",CKD-EPI;BL,CKD-EPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed Mixed Veneus,"mL/min/1,73m≤",CKD-EPI;BL,CKD-EPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed Nevirapine:,"mL/min/1,73m≤",CKD-EPI;BL,CKD-EPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed Veneus,"mL/min/1,73m≤",CKD-EPI;BL,CKD-EPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed Arterieel,"mL/min/1,73m≤",eGFR (CKD-EPI);BL,eGFR (CKD-EPI)-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed Arterielijn,"mL/min/1,73m≤",eGFR (CKD-EPI);BL,eGFR (CKD-EPI)-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed Veneus,"mL/min/1,73m≤",eGFR (CKD-EPI);BL,eGFR (CKD-EPI)-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed,"mL/min/1,73m≤",CKD-EPI;BL,CKD-EPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed Vragen om afname informatie,"mL/min/1,73m≤",CKD-EPI;BL,CKD-EPI-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed,"mL/min/1,73m≤",eGFR (CKD-EPI);BL,eGFR (CKD-EPI)-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed Vragen om afname informatie,"mL/min/1,73m≤",eGFR (CKD-EPI);BL,eGFR (CKD-EPI)-BL,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",LABTRAIN
+eGFR (CKD-EPI),Bloed,mL/min/1.73m2,K_EGFRBer,K_EGFRBer,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",GLIMS
+EGFR (CKD-EPI),Bloed,mL/min/1.73m2,K_EGFRBer,K_EGFRBer,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",VUMC LAB GLIMS
+EGFR (CKD-EPI),,mL/min/1.73m2,K_EGFRBer,K_EGFRBer,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",VUMC LAB GLIMS
+eGFR (MDRD),Bloed,,EGFR;BL,EGFR-BL,77147-7,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",LABTRAIN
+eGFR (MDRD),Bloed,mL/min/1.73m2,K_EGFRBer_HP,K_EGFRBer_HP,77147-7,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",GLIMS
+EGFR (MDRD),Bloed,"mL/min/1,73m2",EGFR-BL,EGFR-BL,77147-7,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",AMC LAB LABTRAIN
+EGFR (MDRD),Bloed,ml/min/m,EGFR-BL,EGFR-BL,77147-7,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",AMC LAB LABTRAIN
+EGFR (MDRD),Bloed,mL/min/m¶,EGFR-BL,EGFR-BL,77147-7,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",AMC LAB LABTRAIN
+EGFR (MDRD),Bloed,mL/min/1.73m2,K_EGFRBer_HP,K_EGFRBer_HP,77147-7,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",VUMC LAB GLIMS
+EGFR (MDRD),,mL/min/1.73m2,K_EGFRBer_HP,K_EGFRBer_HP,77147-7,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",VUMC LAB GLIMS
+EGFRKIDS CYSC AMC,Bloed,"mL/min/1,73m¶",FASCYSC-BL,FASCYSC-BL,50210-4,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Cystatin C-based formula",AMC LAB LABTRAIN
+GLUCOSE HOEV (U),Urine,g/vzm,GLUH-U,GLUH-U,2351-5,Glucose [Mass/time] in 24 hour Urine,AMC LAB LABTRAIN
+GLUCOSE HOEV (U),Verzamel Urine,g/vzm,GLUH-U,GLUH-U,2351-5,Glucose [Mass/time] in 24 hour Urine,AMC LAB LABTRAIN
+GLUC.KWAN. (URINE VERZAMELD),Urine,mmol/24u,K_GLUKWA_UV,K_GLUKWA_UV,15077-1,Glucose [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+GLUCOSE (U),Verzamel Urine,mmol/L,UGLU-U,UGLU-U,25916-8,Glucose [Moles/volume] in 24 hour Urine,AMC LAB LABTRAIN
+GLUCOSE - BLOEDGAS ART. (AMC),Bloed,mmol/L,CGLU-BL_ART,CGLU-BL_ART,39481-7,Glucose [Moles/volume] in Arterial blood,AMC LAB LABTRAIN
+GLUCOSE - BLOEDGAS ART. (AMC),Bloed,mmol/L,DGLU-BL_ART,DGLU-BL_ART,39481-7,Glucose [Moles/volume] in Arterial blood,AMC LAB LABTRAIN
+GLUCOSE - BLOEDGAS ART. (AMC),,mmol/L,DGLU-BL_ART,DGLU-BL_ART,39481-7,Glucose [Moles/volume] in Arterial blood,AMC LAB LABTRAIN
+GLUCOSE BLOEDGAS ART. VUMC,Bloed,mmol/L,K_GLUC_ART,K_GLUC_ART,39481-7,Glucose [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+GLUCOSE BLOEDGAS ART. VUMC,Bloedgas,mmol/L,K_GLUC_ART,K_GLUC_ART,39481-7,Glucose [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+GLUCOSE BLOEDGAS ART. VUMC,Bloed,mmol/L,P_GLUC_ART,P_GLUC_ART,39481-7,Glucose [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+GLUCOSE BLOEDGAS ART. VUMC,,mmol/L,P_GLUC_ART,P_GLUC_ART,39481-7,Glucose [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+GLUCOSE POCT,Bloed,mmol/L,P_GLUC_GB,P_GLUC_GB,15074-8,Glucose [Moles/volume] in Blood,VUMC LAB GLIMS
+GLUCOSE POCT,,mmol/L,P_GLUC_GB,P_GLUC_GB,15074-8,Glucose [Moles/volume] in Blood,VUMC LAB GLIMS
+GLUCOSE BLOEDGAS,,mmol/L,P_GLUC_HB,P_GLUC_HB,15074-8,Glucose [Moles/volume] in Blood,VUMC LAB GLIMS
+GLUCOSE BLOEDGAS,Bloed,mmol/L,P_GLUC_HB,P_GLUC_HB,15074-8,Glucose [Moles/volume] in Blood,VUMC LAB GLIMS
+GLUCOSESTATSTRIP AMC,Bloed,mmol/L,GLUCS-BL,GLUCS-BL,72516-8,Glucose [Moles/volume] in Blood by Automated test strip,AMC LAB LABTRAIN
+GLUCOSE,Overig,mmol/L,RGLU-O,RGLU-O,14745-4,Glucose [Moles/volume] in Body fluid,AMC LAB LABTRAIN
+GLUCOSE - BLOEDGAS CAP. (AMC),Bloed,mmol/L,DGLU-BL_CAP,DGLU-BL_CAP,51596-5,Glucose [Moles/volume] in Capillary blood,AMC LAB LABTRAIN
+GLUCOSE BLOEDGAS CAP. VUMC,,mmol/L,P_GLUC_CAP,P_GLUC_CAP,51596-5,Glucose [Moles/volume] in Capillary blood,VUMC LAB GLIMS
+GLUCOSESTRIP,Bloed,mmol/L,GLS-BL,GLS-BL,14743-9,Glucose [Moles/volume] in Capillary blood by Glucometer,AMC LAB LABTRAIN
+GLUCOSESTATSTRIP AMC,Bloed,mmol/L,GLUCS-BL,GLUCS-BL,14743-9,Glucose [Moles/volume] in Capillary blood by Glucometer,AMC LAB LABTRAIN
+GLUCOSESTATSTRIP AMC,,mmol/L,GLUCS-BL,GLUCS-BL,14743-9,Glucose [Moles/volume] in Capillary blood by Glucometer,AMC LAB LABTRAIN
+GLUCOSE POCT,Bloed,mmol/L,P_GLUC_GB,P_GLUC_GB,14743-9,Glucose [Moles/volume] in Capillary blood by Glucometer,VUMC LAB GLIMS
+GLUCOSE POCT,,mmol/L,P_GLUC_GB,P_GLUC_GB,14743-9,Glucose [Moles/volume] in Capillary blood by Glucometer,VUMC LAB GLIMS
+GLUCOSE (LIQUOR),Liquor,mmol/L,K_GLUC_LI,K_GLUC_LI,14744-7,Glucose [Moles/volume] in Cerebral spinal fluid,VUMC LAB GLIMS
+GLUCOSE (LIQUOR),,mmol/L,K_GLUC_LI,K_GLUC_LI,14744-7,Glucose [Moles/volume] in Cerebral spinal fluid,VUMC LAB GLIMS
+GLUCOSE (LIQUOR),Liquor,mmol/L,LGLU-L,LGLU-L,14744-7,Glucose [Moles/volume] in Cerebral spinal fluid,AMC LAB LABTRAIN
+GLUCOSE (DIALYSAAT),Dialysaat,mmol/L,K_GLUC_DI,K_GLUC_DI,15075-5,Glucose [Moles/volume] in Dialysis fluid,VUMC LAB GLIMS
+GLUCOSE (DIALYSAAT) (AMC),Dialysaat,mmol/L,RGLU-B,RGLU-B,15075-5,Glucose [Moles/volume] in Dialysis fluid,AMC LAB LABTRAIN
+GLUCOSE - BLOEDGAS GEM. VEN. (AMC),Bloed,mmol/L,DGLU-BL_MVEN,DGLU-BL_MVEN,100746-7,Glucose [Moles/volume] in Mixed venous blood,AMC LAB LABTRAIN
+GLUCOSE BLOEDGAS GEM. VEN. VUMC,Bloed,mmol/L,K_GLUC_GEMVEN,K_GLUC_GEMVEN,100746-7,Glucose [Moles/volume] in Mixed venous blood,VUMC LAB GLIMS
+GLUCOSE BLOEDGAS GEM. VEN. VUMC,Bloed,mmol/L,P_GLUC_GEMVEN,P_GLUC_GEMVEN,100746-7,Glucose [Moles/volume] in Mixed venous blood,VUMC LAB GLIMS
+GLUCOSE BLOEDGAS GEM. VEN. VUMC,,mmol/L,P_GLUC_GEMVEN,P_GLUC_GEMVEN,100746-7,Glucose [Moles/volume] in Mixed venous blood,VUMC LAB GLIMS
+GLUCOSE (ASCITESVOCHT),Ascitesvocht,mmol/L,K_GLUC_AS,K_GLUC_AS,14748-8,Glucose [Moles/volume] in Peritoneal fluid,VUMC LAB GLIMS
+GLUCOSE (ASCITESVOCHT),,mmol/L,K_GLUC_AS,K_GLUC_AS,14748-8,Glucose [Moles/volume] in Peritoneal fluid,VUMC LAB GLIMS
+GLUCOSE (PLEURAVOCHT),Pleurapunctaat,mmol/L,K_GLUC_PP,K_GLUC_PP,14747-0,Glucose [Moles/volume] in Pleural fluid,VUMC LAB GLIMS
+GLUCOSE (PLEURAVOCHT),Pleuravocht,mmol/L,K_GLUC_PP,K_GLUC_PP,14747-0,Glucose [Moles/volume] in Pleural fluid,VUMC LAB GLIMS
+GLUCOSE VUMC,Bloed,mmol/L,K_GLUC_HB,K_GLUC_HB,14749-6,Glucose [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+GLUCOSE VUMC,,mmol/L,K_GLUC_HB,K_GLUC_HB,14749-6,Glucose [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+GLUCOSE VUMC,,,K_GLUC_HB,K_GLUC_HB,14749-6,Glucose [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+GLUCOSE,Bloed,mmol/L,K_GLUC_HP,K_GLUC_HP,14749-6,Glucose [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+GLUCOSE,,mmol/L,K_GLUC_HP,K_GLUC_HP,14749-6,Glucose [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+GLUCOSE,Bloed,mmol/L,RGLU-BL,RGLU-BL,14749-6,Glucose [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+GLUCOSE,,mmol/L,RGLU-BL,RGLU-BL,14749-6,Glucose [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+GLUC.KWAN. (URINE),Urine,mmol/L,K_GLUKWA_UR,K_GLUKWA_UR,59156-0,Glucose [Moles/volume] in Urine by Automated test strip,VUMC LAB GLIMS
+GLUCOSE (U),Urine,mmol/L,UGLU-U,UGLU-U,59156-0,Glucose [Moles/volume] in Urine by Automated test strip,AMC LAB LABTRAIN
+GLUCOSE - BLOEDGAS VEN. (AMC),Bloed,mmol/L,CGLU-BL_VEN,CGLU-BL_VEN,39480-9,Glucose [Moles/volume] in Venous blood,AMC LAB LABTRAIN
+GLUCOSE - BLOEDGAS VEN. (AMC),Bloed,mmol/L,DGLU-BL_VEN,DGLU-BL_VEN,39480-9,Glucose [Moles/volume] in Venous blood,AMC LAB LABTRAIN
+GLUCOSE - BLOEDGAS VEN. (AMC),,mmol/L,DGLU-BL_VEN,DGLU-BL_VEN,39480-9,Glucose [Moles/volume] in Venous blood,AMC LAB LABTRAIN
+GLUCOSE BLOEDGAS VEN. VUMC,Bloed,mmol/L,K_GLUC_VEN,K_GLUC_VEN,39480-9,Glucose [Moles/volume] in Venous blood,VUMC LAB GLIMS
+GLUCOSE BLOEDGAS VEN. VUMC,Bloed,mmol/L,P_GLUC_VEN,P_GLUC_VEN,39480-9,Glucose [Moles/volume] in Venous blood,VUMC LAB GLIMS
+GLUCOSE BLOEDGAS VEN. VUMC,,mmol/L,P_GLUC_VEN,P_GLUC_VEN,39480-9,Glucose [Moles/volume] in Venous blood,VUMC LAB GLIMS
+GLUCOSE-KWAL (URINE) POCT AMC,,,DUGLS-U,DUGLS-U,50555-2,Glucose [Presence] in Urine by Automated test strip,AMC LAB LABTRAIN
+GLUCOSE-KWAL (URINE) POCT AMC,Urine,,DUGLS-U,DUGLS-U,50555-2,Glucose [Presence] in Urine by Automated test strip,AMC LAB LABTRAIN
+GLUC.KWAL. (URINE),Bloed,,K_GLUC_UR,K_GLUC_UR,50555-2,Glucose [Presence] in Urine by Automated test strip,VUMC LAB GLIMS
+GLUC.KWAL. (URINE),,,K_GLUC_UR,K_GLUC_UR,50555-2,Glucose [Presence] in Urine by Automated test strip,VUMC LAB GLIMS
+GLUC.KWAL. (URINE),Urine,,K_GLUC_UR,K_GLUC_UR,50555-2,Glucose [Presence] in Urine by Automated test strip,VUMC LAB GLIMS
+GLUCOSE (URINE) POCT VUMC,,,P_GLUC_UR,P_GLUC_UR,50555-2,Glucose [Presence] in Urine by Automated test strip,VUMC LAB GLIMS
+GLUCOSE (URINE) POCT VUMC,Urine,,P_GLUC_UR,P_GLUC_UR,50555-2,Glucose [Presence] in Urine by Automated test strip,VUMC LAB GLIMS
+GLUCOSE-STIK,Urine,,KGLS-U,KGLS-U,25428-4,Glucose [Presence] in Urine by Test strip,AMC LAB LABTRAIN
+Hematocriet (HHT),Bloed Arterieel,L/L,HHT;BL,HHT-BL,71832-0,Hematocrit [Pure volume fraction] of Arterial blood,LABTRAIN
+HT(V.BGS) ART. VUMC,Bloed,L/L,K_HCT_ART,K_HCT_ART,71832-0,Hematocrit [Pure volume fraction] of Arterial blood,VUMC LAB GLIMS
+HT(V.BGS) ART. VUMC,Bloedgas,L/L,K_HCT_ART,K_HCT_ART,71832-0,Hematocrit [Pure volume fraction] of Arterial blood,VUMC LAB GLIMS
+HT(V.BGS) ART. VUMC,Bloed,L/L,P_HCT_ART,P_HCT_ART,71832-0,Hematocrit [Pure volume fraction] of Arterial blood,VUMC LAB GLIMS
+HT(V.BGS) ART. VUMC,,L/L,P_HCT_ART,P_HCT_ART,71832-0,Hematocrit [Pure volume fraction] of Arterial blood,VUMC LAB GLIMS
+Hematocriet (HHT),Bloed,L/L,HHT;BL,HHT-BL,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,LABTRAIN
+HEMATOCRIET,Bloed,L/L,HHT-BL,HHT-BL,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,AMC LAB LABTRAIN
+HT(V.BGS),Bloed,L/L,K_HCT_HB,K_HCT_HB,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,VUMC LAB GLIMS
+Ht(v.Bgs),Bloed,L/L,K_HCT_HB,K_HCT_HB,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,GLIMS
+HT(V.BGS),,L/L,K_HCT_HB,K_HCT_HB,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,VUMC LAB GLIMS
+HT(V.BGS),,,K_HCT_HB,K_HCT_HB,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,VUMC LAB GLIMS
+HT,Bloed,L/L,K_HT_EB,K_HT_EB,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,VUMC LAB GLIMS
+Ht,Bloed,L/L,K_HT_EB,K_HT_EB,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,GLIMS
+HT,,L/L,K_HT_EB,K_HT_EB,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,VUMC LAB GLIMS
+HT(V.BGS) POCT,Bloed,L/L,P_HCT_HB,P_HCT_HB,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,VUMC LAB GLIMS
+HT(V.BGS) POCT,,L/L,P_HCT_HB,P_HCT_HB,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,VUMC LAB GLIMS
+Ht(v.Bgs),Bloed,L/L,P_HCT_HB,P_HCT_HB,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,GLIMS
+Hematocriet (HHT),Bloed Capillair,L/L,HHT;BL,HHT-BL,71831-2,Hematocrit [Pure volume fraction] of Capillary blood,LABTRAIN
+Hematocriet (HHT),Bloed Capillair vinger,L/L,HHT;BL,HHT-BL,71831-2,Hematocrit [Pure volume fraction] of Capillary blood,LABTRAIN
+Ht(v.Bgs),Bloed Capillair,L/L,K_HCT_HB,K_HCT_HB,71831-2,Hematocrit [Pure volume fraction] of Capillary blood,GLIMS
+HT(V.BGS) CAP. VUMC,,L/L,P_HCT_CAP,P_HCT_CAP,71831-2,Hematocrit [Pure volume fraction] of Capillary blood,VUMC LAB GLIMS
+Ht(v.Bgs),Bloed Capillair,L/L,P_HCT_HB,P_HCT_HB,71831-2,Hematocrit [Pure volume fraction] of Capillary blood,GLIMS
+Ht(v.Bgs),Bloed Navel arterieel,L/L,K_HCT_HB,K_HCT_HB,98998-8,Hematocrit [Pure volume fraction] of Cord blood by Automated count,GLIMS
+Ht(v.Bgs),Bloed Navel veneus,L/L,K_HCT_HB,K_HCT_HB,98998-8,Hematocrit [Pure volume fraction] of Cord blood by Automated count,GLIMS
+Ht(v.Bgs),Bloed navelarterie,L/L,K_HCT_HB,K_HCT_HB,98998-8,Hematocrit [Pure volume fraction] of Cord blood by Automated count,GLIMS
+Ht(v.Bgs),Bloed Navel arterieel,L/L,P_HCT_HB,P_HCT_HB,98998-8,Hematocrit [Pure volume fraction] of Cord blood by Automated count,GLIMS
+Ht(v.Bgs),Bloed Navel veneus,L/L,P_HCT_HB,P_HCT_HB,98998-8,Hematocrit [Pure volume fraction] of Cord blood by Automated count,GLIMS
+HT(V.BGS) GEM. VEN. VUMC,Bloed,L/L,K_HCT_GEMVEN,K_HCT_GEMVEN,71830-4,Hematocrit [Pure volume fraction] of Mixed venous blood,VUMC LAB GLIMS
+Ht(v.Bgs),Bloed Gemengd veneus,L/L,K_HCT_HB,K_HCT_HB,71830-4,Hematocrit [Pure volume fraction] of Mixed venous blood,GLIMS
+HT(V.BGS) GEM. VEN. VUMC,Bloed,L/L,P_HCT_GEMVEN,P_HCT_GEMVEN,71830-4,Hematocrit [Pure volume fraction] of Mixed venous blood,VUMC LAB GLIMS
+HT(V.BGS) GEM. VEN. VUMC,,L/L,P_HCT_GEMVEN,P_HCT_GEMVEN,71830-4,Hematocrit [Pure volume fraction] of Mixed venous blood,VUMC LAB GLIMS
+Ht(v.Bgs),Bloed Gemengd veneus,L/L,P_HCT_HB,P_HCT_HB,71830-4,Hematocrit [Pure volume fraction] of Mixed venous blood,GLIMS
+Ht(v.Bgs),Bloed gem veneus,L/L,P_HCT_HB,P_HCT_HB,71830-4,Hematocrit [Pure volume fraction] of Mixed venous blood,GLIMS
+Ht(v.Bgs),Bloed gem.ven,L/L,P_HCT_HB,P_HCT_HB,71830-4,Hematocrit [Pure volume fraction] of Mixed venous blood,GLIMS
+Ht(v.Bgs),Bloed gemend veneus,L/L,P_HCT_HB,P_HCT_HB,71830-4,Hematocrit [Pure volume fraction] of Mixed venous blood,GLIMS
+Hematocriet (HHT),Bloed Veneus,L/L,HHT;BL,HHT-BL,71829-6,Hematocrit [Pure volume fraction] of Venous blood,LABTRAIN
+Ht(v.Bgs),Bloed Veneus,L/L,K_HCT_HB,K_HCT_HB,71829-6,Hematocrit [Pure volume fraction] of Venous blood,GLIMS
+HT(V.BGS) VEN. VUMC,Bloed,L/L,K_HCT_VEN,K_HCT_VEN,71829-6,Hematocrit [Pure volume fraction] of Venous blood,VUMC LAB GLIMS
+Ht(v.Bgs),Bloed Veneus,L/L,P_HCT_HB,P_HCT_HB,71829-6,Hematocrit [Pure volume fraction] of Venous blood,GLIMS
+HT(V.BGS) VEN. VUMC,Bloed,L/L,P_HCT_VEN,P_HCT_VEN,71829-6,Hematocrit [Pure volume fraction] of Venous blood,VUMC LAB GLIMS
+HT(V.BGS) VEN. VUMC,,L/L,P_HCT_VEN,P_HCT_VEN,71829-6,Hematocrit [Pure volume fraction] of Venous blood,VUMC LAB GLIMS
+Ht(v.Bgs),Bloed Arterieel,L/L,K_HCT_HB,K_HCT_HB,32354-3,Hematocrit [Volume Fraction] of Arterial blood,GLIMS
+Ht(v.Bgs),Bloed Arterieel,L/L,P_HCT_HB,P_HCT_HB,32354-3,Hematocrit [Volume Fraction] of Arterial blood,GLIMS
+Ht(v.Bgs),Bloed arteriel,L/L,P_HCT_HB,P_HCT_HB,32354-3,Hematocrit [Volume Fraction] of Arterial blood,GLIMS
+Ht(v.Bgs),Bloed Onbekend,L/L,K_HCT_HB,K_HCT_HB,20570-8,Hematocrit [Volume Fraction] of Blood,GLIMS
+Ht(v.Bgs),Bloed Onbekend,L/L,P_HCT_HB,P_HCT_HB,20570-8,Hematocrit [Volume Fraction] of Blood,GLIMS
+Hb(v.Bgs),Bloed Navel veneus,mmol/L,K_HB_HB,K_HB_HB,40719-7,Hemoglobin [Mass/volume] in Cord blood,GLIMS
+Hb(v.Bgs),Bloed Navel veneus,mmol/L,P_HB_HB,P_HB_HB,40719-7,Hemoglobin [Mass/volume] in Cord blood,GLIMS
+Hb(v.Bgs),Bloed Arterieel,mmol/L,K_HB_HB,K_HB_HB,75928-2,Hemoglobin [Moles/volume] in Arterial blood,GLIMS
+Hb(v.Bgs),Bloed Arterieel,mmol/L,P_HB_HB,P_HB_HB,75928-2,Hemoglobin [Moles/volume] in Arterial blood,GLIMS
+Hemoglob. nc,Bloed Arterieel,mmol/L,CIHB;BL,CIHB-BL,75928-2,Hemoglobin [Moles/volume] in Arterial blood,LABTRAIN
+Hemoglob. nc (DEHB),Bloed Arterieel,mmol/L,DEHB;BL,DEHB-BL,75928-2,Hemoglobin [Moles/volume] in Arterial blood,LABTRAIN
+Hemoglobine (HHB),Bloed Arterieel,mmol/L,HHB;BL,HHB-BL,75928-2,Hemoglobin [Moles/volume] in Arterial blood,LABTRAIN
+HB(V.BGS) ART. VUMC,Bloed,mmol/L,K_HB_ART,K_HB_ART,75928-2,Hemoglobin [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+HB(V.BGS) ART. VUMC,Bloedgas,mmol/L,K_HB_ART,K_HB_ART,75928-2,Hemoglobin [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+Hb(v.Bgs),Bloed {<ART},mmol/L,K_HB_HB,K_HB_HB,75928-2,Hemoglobin [Moles/volume] in Arterial blood,GLIMS
+HB(V.BGS) ART. VUMC,Bloed,mmol/L,P_HB_ART,P_HB_ART,75928-2,Hemoglobin [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+HB(V.BGS) ART. VUMC,,mmol/L,P_HB_ART,P_HB_ART,75928-2,Hemoglobin [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+Hb(v.Bgs),Bloed {<ART},mmol/L,P_HB_HB,P_HB_HB,75928-2,Hemoglobin [Moles/volume] in Arterial blood,GLIMS
+Hb,Bloed,mmol/L,K_HB_EB,K_HB_EB,59260-0,Hemoglobin [Moles/volume] in Blood,GLIMS
+Hb in plasma,Bloed,mmol/L,HBPL;BL,HBPL-BL,59260-0,Hemoglobin [Moles/volume] in Blood,LABTRAIN
+Hb poct,Bloed,mmol/L,P_HB_GB,P_HB_GB,59260-0,Hemoglobin [Moles/volume] in Blood,GLIMS
+Hb(v.Bgs),Bloed,mmol/L,K_HB_HB,K_HB_HB,59260-0,Hemoglobin [Moles/volume] in Blood,GLIMS
+Hb(v.Bgs),Bloed Onbekend,mmol/L,K_HB_HB,K_HB_HB,59260-0,Hemoglobin [Moles/volume] in Blood,GLIMS
+Hb(v.Bgs),Bloed,mmol/L,P_HB_HB,P_HB_HB,59260-0,Hemoglobin [Moles/volume] in Blood,GLIMS
+Hb(v.Bgs),Bloed Onbekend,mmol/L,P_HB_HB,P_HB_HB,59260-0,Hemoglobin [Moles/volume] in Blood,GLIMS
+HEMOGLOBINE,Bloed,mmol/L,HHB-BL,HHB-BL,59260-0,Hemoglobin [Moles/volume] in Blood,
+HEMOGLOBINE,,mmol/L,HHB-BL,HHB-BL,59260-0,Hemoglobin [Moles/volume] in Blood,
+Hemoglob. nc,Bloed,mmol/L,CIHB;BL,CIHB-BL,59260-0,Hemoglobin [Moles/volume] in Blood,LABTRAIN
+Hemoglob. nc (DEHB),Bloed,mmol/L,DEHB;BL,DEHB-BL,59260-0,Hemoglobin [Moles/volume] in Blood,LABTRAIN
+Hemoglobine (HHB),Bloed,mmol/L,HHB;BL,HHB-BL,59260-0,Hemoglobin [Moles/volume] in Blood,LABTRAIN
+Hemoglobine (HHB),Bloed Nevirapine:,mmol/L,HHB;BL,HHB-BL,59260-0,Hemoglobin [Moles/volume] in Blood,LABTRAIN
+HB,Bloed,mmol/L,K_HB_EB,K_HB_EB,59260-0,Hemoglobin [Moles/volume] in Blood,VUMC LAB GLIMS
+HB,,mmol/L,K_HB_EB,K_HB_EB,59260-0,Hemoglobin [Moles/volume] in Blood,VUMC LAB GLIMS
+HB(V.BGS),Bloed,mmol/L,K_HB_HB,K_HB_HB,59260-0,Hemoglobin [Moles/volume] in Blood,VUMC LAB GLIMS
+HB(V.BGS),,mmol/L,K_HB_HB,K_HB_HB,59260-0,Hemoglobin [Moles/volume] in Blood,VUMC LAB GLIMS
+HB(V.BGS) POCT,Bloed,mmol/L,P_HB_HB,P_HB_HB,59260-0,Hemoglobin [Moles/volume] in Blood,VUMC LAB GLIMS
+HB(V.BGS) POCT,,mmol/L,P_HB_HB,P_HB_HB,59260-0,Hemoglobin [Moles/volume] in Blood,VUMC LAB GLIMS
+Hb(v.Bgs),Bloed Veneus,mmol/L,K_HB_HB,K_HB_HB,93846-4,Hemoglobin [Moles/volume] in Venous blood,GLIMS
+Hb(v.Bgs),Bloed Veneus,mmol/L,P_HB_HB,P_HB_HB,93846-4,Hemoglobin [Moles/volume] in Venous blood,GLIMS
+Hemoglob. nc,Bloed Veneus,mmol/L,CIHB;BL,CIHB-BL,93846-4,Hemoglobin [Moles/volume] in Venous blood,LABTRAIN
+Hemoglob. nc (DEHB),Bloed Veneus,mmol/L,DEHB;BL,DEHB-BL,93846-4,Hemoglobin [Moles/volume] in Venous blood,LABTRAIN
+Hemoglobine (HHB),Bloed Veneus,mmol/L,HHB;BL,HHB-BL,93846-4,Hemoglobin [Moles/volume] in Venous blood,LABTRAIN
+HB(V.BGS) VEN. VUMC,Bloed,mmol/L,K_HB_VEN,K_HB_VEN,93846-4,Hemoglobin [Moles/volume] in Venous blood,VUMC LAB GLIMS
+HB(V.BGS) VEN. VUMC,Bloed,mmol/L,P_HB_VEN,P_HB_VEN,93846-4,Hemoglobin [Moles/volume] in Venous blood,VUMC LAB GLIMS
+HB(V.BGS) VEN. VUMC,,mmol/L,P_HB_VEN,P_HB_VEN,93846-4,Hemoglobin [Moles/volume] in Venous blood,VUMC LAB GLIMS
+Hemoglobine,Liquor,geen,NHEM;L,NHEM-L,48035-0,Hemoglobin [Presence] in Cerebral spinal fluid,LABTRAIN
+HEMOGLOBINE (HEMN),Liquor,,NHEM-L,NHEM-L,48035-0,Hemoglobin [Presence] in Cerebral spinal fluid,
+Hemogl.-stik,Urine,geen,KHES;U,KHES-U,57751-0,Hemoglobin [Presence] in Urine by Automated test strip,LABTRAIN
+Hemogl.-stik,Urine Vragen om afname informatie,geen,KHES;U,KHES-U,57751-0,Hemoglobin [Presence] in Urine by Automated test strip,LABTRAIN
+HEMOGL.-STIK,Urine,,KHES-U,KHES-U,57751-0,Hemoglobin [Presence] in Urine by Automated test strip,
+HbA1c,Bloed,%,K_HBA1cp_EB,K_HBA1cp_EB,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,GLIMS
+HBA1C,,%,K_HBA1cp_EB,K_HBA1cp_EB,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,VUMC LAB GLIMS
+HBA1C,Bloed,%,K_HBA1cp_EB,K_HBA1cp_EB,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,VUMC LAB GLIMS
+HB-A1-C IFCC,Bloed,mmol/mol,H1CI-BL,H1CI-BL,59261-8,Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol,AMC LAB LABTRAIN
+Hb-A1-c IFCC,Bloed,mmol/mol,H1CI;BL,H1CI-BL,59261-8,Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol,LABTRAIN
+HbA1c IFCC,Bloed,mmol/mol,K_HbA1c_EB,K_HbA1c_EB,59261-8,Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol,GLIMS
+HbA1c thuisproject (THbA1c),Bloed,mmol/mol,THBA;BL,THBA-BL,59261-8,Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol,LABTRAIN
+HBA1C,Bloed,mmol/mol,K_HbA1c_EB,K_HbA1c_EB,59261-8,Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol,VUMC LAB GLIMS
+HBA1C,,mmol/mol,K_HbA1c_EB,K_HbA1c_EB,59261-8,Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol,VUMC LAB GLIMS
+HBA1C THUISPROJECT,Bloed,mmol/mol,THBA-BL,THBA-BL,59261-8,Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol,AMC LAB LABTRAIN
+PROTHROMBINETIJD,,I.N.R.,H_PTspec_BL,H_PTspec_BL,6301-6,INR in Platelet poor plasma by Coagulation assay,VUMC LAB GLIMS
+PROTHROMBINETIJD,Bloed,I.N.R.,H_PTspec_BL,H_PTspec_BL,6301-6,INR in Platelet poor plasma by Coagulation assay,VUMC LAB GLIMS
+Prothrombinetijd INR,Bloed,I.N.R.,H_PTspec_BL,H_PTspec_BL,6301-6,INR in Platelet poor plasma by Coagulation assay,GLIMS
+INR dec.,Bloed,geen,INRD;BL,INRD-BL,6301-6,INR in Platelet poor plasma by Coagulation assay,LABTRAIN
+INR POCT,Bloed,,P_INR_GB,P_INR_GB,6301-6,INR in Platelet poor plasma by Coagulation assay,GLIMS
+INR,Bloed,geen,SINR;BL,SINR-BL,6301-6,INR in Platelet poor plasma by Coagulation assay,LABTRAIN
+INR,Bloed,,SINR-BL,SINR-BL,6301-6,INR in Platelet poor plasma by Coagulation assay,AMC LAB LABTRAIN
+Fe,Bloed,umol/L,K_FE_HP,K_FE_HP,14798-3,Iron [Moles/volume] in Serum or Plasma,GLIMS
+FE,Bloed,umol/L,K_FE_HP,K_FE_HP,14798-3,Iron [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+FE,,umol/L,K_FE_HP,K_FE_HP,14798-3,Iron [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+YZER,Bloed,¶mol/L,RYZE-BL,RYZE-BL,14798-3,Iron [Moles/volume] in Serum or Plasma,
+Fe,Urine,umol/L,K_FE_UR,K_FE_UR,33824-4,Iron [Moles/volume] in Urine,GLIMS
+IJZER VERZ%,,%,K_FEVZ_HP,K_FEVZ_HP,14801-5,Iron saturation [Molar fraction] in Serum or Plasma,VUMC LAB GLIMS
+IJZER VERZ%,Bloed,%,K_FEVZ_HP,K_FEVZ_HP,14801-5,Iron saturation [Molar fraction] in Serum or Plasma,VUMC LAB GLIMS
+IJzer Verz%,Bloed,%,K_FEVZ_HP,K_FEVZ_HP,14801-5,Iron saturation [Molar fraction] in Serum or Plasma,GLIMS
+YZERVERZ. (OTYV),Bloed,,RYZV-BL,RYZV-BL,14801-5,Iron saturation [Molar fraction] in Serum or Plasma,
+Yzerverz.%,Bloed,,RYZV%;BL,RYZV%-BL,14801-5,Iron saturation [Molar fraction] in Serum or Plasma,LABTRAIN
+IJZER VERZ% AMC,Bloed,%,YZERVERZ%-BL,YZERVERZ%-BL,14801-5,Iron saturation [Molar fraction] in Serum or Plasma,AMC LAB LABTRAIN
+IJZER VERZ% AMC,Bloed,,YZERVERZ%-BL,YZERVERZ%-BL,14801-5,Iron saturation [Molar fraction] in Serum or Plasma,AMC LAB LABTRAIN
+Lactaat DC.,Bloed Arterieel,mmol/L,CLAC;BL,CLAC-BL,2518-9,Lactate [Moles/volume] in Arterial blood,LABTRAIN
+Lactaat DC. (DLAC),Bloed Arterieel,mmol/L,DLAC;BL,DLAC-BL,2518-9,Lactate [Moles/volume] in Arterial blood,LABTRAIN
+Lactaat,Bloed Arterieel,mmol/L,K_LACT_HB,K_LACT_HB,2518-9,Lactate [Moles/volume] in Arterial blood,GLIMS
+Lactaat,Bloed Arterieel,mmol/L,P_LACT_HB,P_LACT_HB,2518-9,Lactate [Moles/volume] in Arterial blood,GLIMS
+Lactaat,Bloed arteriel,mmol/L,P_LACT_HB,P_LACT_HB,2518-9,Lactate [Moles/volume] in Arterial blood,GLIMS
+Lactaat (RLAK),Bloed Arterieel,mmol/L,RLAK;BL,RLAK-BL,2518-9,Lactate [Moles/volume] in Arterial blood,LABTRAIN
+Lactaat,Bloed {<VVE},mmol/L,K_LACT_HB,K_LACT_HB,32693-4,Lactate [Moles/volume] in Blood,GLIMS
+Lactaat,Bloed Onbekend,mmol/L,K_LACT_HB,K_LACT_HB,32693-4,Lactate [Moles/volume] in Blood,GLIMS
+Lactaat (LCT),Bloed,mmol/L,LCT;BL,LCT-BL,32693-4,Lactate [Moles/volume] in Blood,LABTRAIN
+Lactaat,Bloed {<VVE},mmol/L,P_LACT_HB,P_LACT_HB,32693-4,Lactate [Moles/volume] in Blood,GLIMS
+Lactaat,Bloed Onbekend,mmol/L,P_LACT_HB,P_LACT_HB,32693-4,Lactate [Moles/volume] in Blood,GLIMS
+Lactaat DC.,Bloed Capillair,mmol/L,CLAC;BL,CLAC-BL,19239-3,Lactate [Moles/volume] in Capillary blood,LABTRAIN
+Lactaat DC.,Bloed Capillair vinger,mmol/L,CLAC;BL,CLAC-BL,19239-3,Lactate [Moles/volume] in Capillary blood,LABTRAIN
+Lactaat DC. (DLAC),Bloed Capillair,mmol/L,DLAC;BL,DLAC-BL,19239-3,Lactate [Moles/volume] in Capillary blood,LABTRAIN
+Lactaat,Bloed Capillair,mmol/L,K_LACT_HB,K_LACT_HB,19239-3,Lactate [Moles/volume] in Capillary blood,GLIMS
+Lactaat,Bloed Capillair,mmol/L,P_LACT_HB,P_LACT_HB,19239-3,Lactate [Moles/volume] in Capillary blood,GLIMS
+Lactaat (RLAK),Bloed Capillair,mmol/L,RLAK;BL,RLAK-BL,19239-3,Lactate [Moles/volume] in Capillary blood,LABTRAIN
+Lactaat (RLAK),Bloed Capillair vinger,mmol/L,RLAK;BL,RLAK-BL,19239-3,Lactate [Moles/volume] in Capillary blood,LABTRAIN
+Lactaat,Bloed Navel arterieel,mmol/L,K_LACT_HB,K_LACT_HB,55932-8,Lactate [Moles/volume] in Cord blood,GLIMS
+Lactaat,Bloed Navel veneus,mmol/L,K_LACT_HB,K_LACT_HB,55932-8,Lactate [Moles/volume] in Cord blood,GLIMS
+Lactaat,Bloed Navel arterieel,mmol/L,P_LACT_HB,P_LACT_HB,55932-8,Lactate [Moles/volume] in Cord blood,GLIMS
+Lactaat,Bloed Navel veneus,mmol/L,P_LACT_HB,P_LACT_HB,55932-8,Lactate [Moles/volume] in Cord blood,GLIMS
+Lactaat DC.,Bloed Mixed Veneus,mmol/L,CLAC;BL,CLAC-BL,19240-1,Lactate [Moles/volume] in Mixed venous blood,LABTRAIN
+Lactaat DC. (DLAC),Bloed Mixed Veneus,mmol/L,DLAC;BL,DLAC-BL,19240-1,Lactate [Moles/volume] in Mixed venous blood,LABTRAIN
+Lactaat,Bloed Gemengd veneus,mmol/L,K_LACT_HB,K_LACT_HB,19240-1,Lactate [Moles/volume] in Mixed venous blood,GLIMS
+Lactaat,Bloed Gemengd veneus,mmol/L,P_LACT_HB,P_LACT_HB,19240-1,Lactate [Moles/volume] in Mixed venous blood,GLIMS
+Lactaat,Bloed gem veneus,mmol/L,P_LACT_HB,P_LACT_HB,19240-1,Lactate [Moles/volume] in Mixed venous blood,GLIMS
+Lactaat,Bloed gem.ven,mmol/L,P_LACT_HB,P_LACT_HB,19240-1,Lactate [Moles/volume] in Mixed venous blood,GLIMS
+Lactaat,Bloed gemend veneus,mmol/L,P_LACT_HB,P_LACT_HB,19240-1,Lactate [Moles/volume] in Mixed venous blood,GLIMS
+Lactaat (RLAK),Bloed Mixed Veneus,mmol/L,RLAK;BL,RLAK-BL,19240-1,Lactate [Moles/volume] in Mixed venous blood,LABTRAIN
+Lactaat DC.,Bloed,mmol/L,CLAC;BL,CLAC-BL,2524-7,Lactate [Moles/volume] in Serum or Plasma,LABTRAIN
+Lactaat DC. (DLAC),Bloed,mmol/L,DLAC;BL,DLAC-BL,2524-7,Lactate [Moles/volume] in Serum or Plasma,LABTRAIN
+Lactaat,Bloed,mmol/L,K_LACT_FP,K_LACT_FP,2524-7,Lactate [Moles/volume] in Serum or Plasma,GLIMS
+Lactaat,Bloed,mmol/L,K_LACT_HB,K_LACT_HB,2524-7,Lactate [Moles/volume] in Serum or Plasma,GLIMS
+Lactaat,Bloed,mmol/L,P_LACT_HB,P_LACT_HB,2524-7,Lactate [Moles/volume] in Serum or Plasma,GLIMS
+Lactaat (RLAK),Bloed,mmol/L,RLAK;BL,RLAK-BL,2524-7,Lactate [Moles/volume] in Serum or Plasma,LABTRAIN
+Lactaat DC.,Bloed Veneus,mmol/L,CLAC;BL,CLAC-BL,2519-7,Lactate [Moles/volume] in Venous blood,LABTRAIN
+Lactaat DC. (DLAC),Bloed Veneus,mmol/L,DLAC;BL,DLAC-BL,2519-7,Lactate [Moles/volume] in Venous blood,LABTRAIN
+Lactaat,Bloed Veneus,mmol/L,K_LACT_HB,K_LACT_HB,2519-7,Lactate [Moles/volume] in Venous blood,GLIMS
+Lactaat (LCT),Bloed Veneus,mmol/L,LCT;BL,LCT-BL,2519-7,Lactate [Moles/volume] in Venous blood,LABTRAIN
+Lactaat,Bloed Veneus,mmol/L,P_LACT_HB,P_LACT_HB,2519-7,Lactate [Moles/volume] in Venous blood,GLIMS
+Lactaat (RLAK),Bloed Veneus,mmol/L,RLAK;BL,RLAK-BL,2519-7,Lactate [Moles/volume] in Venous blood,LABTRAIN
+LDH (VOCHT) (AMC),Overig,U/L 37¶C,RLDH-O,RLDH-O,14803-1,Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid by Lactate to pyruvate reaction,AMC LAB LABTRAIN
+LD (ASCITESVOCHT),Ascitesvocht,U/L,K_LD_AS,K_LD_AS,68387-0,Lactate dehydrogenase [Enzymatic activity/volume] in Peritoneal fluid by Lactate to pyruvate reaction,VUMC LAB GLIMS
+LD (ASCITESVOCHT),Bloed,U/L,K_LD_AS,K_LD_AS,68387-0,Lactate dehydrogenase [Enzymatic activity/volume] in Peritoneal fluid by Lactate to pyruvate reaction,VUMC LAB GLIMS
+LD (PLEURAVOCHT),Pleuravocht,U/L,K_LD_PP,K_LD_PP,60022-1,Lactate dehydrogenase [Enzymatic activity/volume] in Pleural fluid by Lactate to pyruvate reaction,VUMC LAB GLIMS
+LD,Bloed,U/L,K_LD_HP,K_LD_HP,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,VUMC LAB GLIMS
+LD,,U/L,K_LD_HP,K_LD_HP,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,VUMC LAB GLIMS
+LDH Corr.,Bloed,U/L,K_LDCORR_HP,K_LDCORR_HP,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,GLIMS
+LDH CORR. VUMC,Bloed,U/L,K_LDCORR_HP,K_LDCORR_HP,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,VUMC LAB GLIMS
+LDH CORR. VUMC,,U/L,K_LDCORR_HP,K_LDCORR_HP,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,VUMC LAB GLIMS
+LDH (RLDH),Bloed,U/L 37C,RLDH;BL,RLDH-BL,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,LABTRAIN
+LDH,Bloed,U/L 37¶C,RLDH-BL,RLDH-BL,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,AMC LAB LABTRAIN
+LEUCO SED (URINE),,/veld,K_LEU_UR,K_LEU_UR,5821-4,Leukocytes [#/area] in Urine sediment by Microscopy high power field,VUMC LAB GLIMS
+LEUCO SED (URINE),Urine,/veld,K_LEU_UR,K_LEU_UR,5821-4,Leukocytes [#/area] in Urine sediment by Microscopy high power field,VUMC LAB GLIMS
+LEUKOCYTEN (SED) (URINE) VUMC,,aantal/uL,K_WBC_UR,K_WBC_UR,63555-7,Leukocytes [#/volume] by Microscopy high power field in Urine sediment collected for unspecified duration,VUMC LAB GLIMS
+LEUKOCYTEN (SED) (URINE) VUMC,Urine,aantal/uL,K_WBC_UR,K_WBC_UR,63555-7,Leukocytes [#/volume] by Microscopy high power field in Urine sediment collected for unspecified duration,VUMC LAB GLIMS
+LEUKOCYTEN (AMC),,10E9/L,HLEU-BL,HLEU-BL,6690-2,Leukocytes [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+LEUKOCYTEN (AMC),Bloed,10E9/L,HLEU-BL,HLEU-BL,6690-2,Leukocytes [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+Leukocyten (HLEU),Bloed,10E9/L,HLEU;BL,HLEU-BL,6690-2,Leukocytes [#/volume] in Blood by Automated count,LABTRAIN
+Leuco's,Bloed,x10e9/L,K_LEU_EB,K_LEU_EB,6690-2,Leukocytes [#/volume] in Blood by Automated count,GLIMS
+LEUCO'S,Bloed,x10e9/L,K_LEU_EB,K_LEU_EB,6690-2,Leukocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+LEUCO'S,,x10e9/L,K_LEU_EB,K_LEU_EB,6690-2,Leukocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+LEUCO'S,Bloed,,K_LEU_EB,K_LEU_EB,6690-2,Leukocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+LEUCO'S,,,K_LEU_EB,K_LEU_EB,6690-2,Leukocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+Leuco's,Overig,x10e9/L,K_LEU_OV,K_LEU_OV,57845-0,Leukocytes [#/volume] in Body fluid by Automated count,GLIMS
+Leukocyten (RLEU),Overige,10E9/L,RLEU;O,RLEU-O,57845-0,Leukocytes [#/volume] in Body fluid by Automated count,LABTRAIN
+LEUKOCYTEN (VOCHT) (AMC),Overig,10E9/L,RLEU-O,RLEU-O,57845-0,Leukocytes [#/volume] in Body fluid by Automated count,AMC LAB LABTRAIN
+LEUKOCYTEN (VOCHT) (AMC),Vocht,10E9/L,RLEU-O,RLEU-O,57845-0,Leukocytes [#/volume] in Body fluid by Automated count,AMC LAB LABTRAIN
+LEUKOCYTEN (BLEU),Liquor,10E9/L,BLEU-L,BLEU-L,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,AMC LAB LABTRAIN
+Leuco's Liquor,Liquor,x10e9/L,K_LEU_LI,K_LEU_LI,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,GLIMS
+LEUCO∆S (LIQUOR) ( X10E9/L) VUMC,Liquor,x10e9/L,K_LEU_LI,K_LEU_LI,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,VUMC LAB GLIMS
+LEUCO∆S (LIQUOR) ( X10E9/L) VUMC,,x10e9/L,K_LEU_LI,K_LEU_LI,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,VUMC LAB GLIMS
+Leuco's Liquor,Liquor,x10e6/L,K_LEUB_LI,K_LEUB_LI,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,GLIMS
+LEUCO∆S (LIQUOR) ( X10E6/L) VUMC,Liquor,x10e6/L,K_LEUB_LI,K_LEUB_LI,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,VUMC LAB GLIMS
+LEUCO∆S (LIQUOR) ( X10E6/L) VUMC,,x10e6/L,K_LEUB_LI,K_LEUB_LI,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,VUMC LAB GLIMS
+LEUCOCYTEN (LIQUOR) AMC,Liquor,10E6/L,LEUCL-L,LEUCL-L,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,AMC LAB LABTRAIN
+Leukocyten (liquor),Liquor,10E6/L,LEUCL;L,LEUCL-L,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LABTRAIN
+Leukocyten (liquor),Liquor Vragen om afname informatie,10E6/L,LEUCL;L,LEUCL-L,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LABTRAIN
+LEUKOCYTEN (LLEU),Liquor,cellen/3¶L,LLEU-L,LLEU-L,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,AMC LAB LABTRAIN
+Leukocyten (LLEU),Liquor,cellen/3 uL,LLEU;L,LLEU-L,805-2,Leukocytes [#/volume] in Cerebral spinal fluid by Automated count,LABTRAIN
+Leukocyten (RLEU),Dialysaat,10E9/L,RLEU;B,RLEU-B,53518-7,Leukocytes [#/volume] in Dialysis fluid,LABTRAIN
+LEUCO'S (DIALYSAAT),Dialysaat,x10e9/L,K_LEU_DI,K_LEU_DI,68368-0,Leukocytes [#/volume] in Dialysis fluid by Automated count,VUMC LAB GLIMS
+Leuco's dialysaat,Dialysaat,x10e9/L,K_LEU_DI,K_LEU_DI,68368-0,Leukocytes [#/volume] in Dialysis fluid by Automated count,GLIMS
+LEUKOCYTEN (DIALYSAAT) (AMC),Dialysaat,10E9/L,RLEU-B,RLEU-B,68368-0,Leukocytes [#/volume] in Dialysis fluid by Automated count,AMC LAB LABTRAIN
+LEUCO'S (ASCITESVOCHT),Ascitesvocht,x10e9/L,K_LEU_AS,K_LEU_AS,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,VUMC LAB GLIMS
+LEUCO'S (ASCITESVOCHT),,,K_LEU_AS,K_LEU_AS,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,VUMC LAB GLIMS
+LEUCO'S (ASCITESVOCHT),,x10e9/L,K_LEU_AS,K_LEU_AS,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,VUMC LAB GLIMS
+Leuco's ascitesvocht,Ascitesvocht,x10e9/L,K_LEU_AS,K_LEU_AS,809-4,Leukocytes [#/volume] in Peritoneal fluid by Automated count,GLIMS
+Leuco's pleuravocht,Pleurapunctaat,x10e9/L,K_LEU_PP,K_LEU_PP,26467-1,Leukocytes [#/volume] in Pleural fluid,GLIMS
+LEUCO'S (PLEURAVOCHT),Pleuravocht,x10e9/L,K_LEU_PP,K_LEU_PP,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,VUMC LAB GLIMS
+LEUCO'S (PLEURAVOCHT),Pleurapunctaat,x10e9/L,K_LEU_PP,K_LEU_PP,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,VUMC LAB GLIMS
+LEUCO'S (PLEURAVOCHT),,x10e9/L,K_LEU_PP,K_LEU_PP,807-8,Leukocytes [#/volume] in Pleural fluid by Automated count,VUMC LAB GLIMS
+Leukocyten,Urine,aantal/uL,K_WBC_UR,K_WBC_UR,51487-7,Leukocytes [#/volume] in Urine by Automated count,GLIMS
+Leukocyten FlowC,Urine,aantal/uL,K_WBCF_UR,K_WBCF_UR,51487-7,Leukocytes [#/volume] in Urine by Automated count,GLIMS
+Leukocyten (U),Urine,/µL,SLEU;U,SLEU-U,51487-7,Leukocytes [#/volume] in Urine by Automated count,LABTRAIN
+LEUKOCYTEN URINE,Urine,/¶L,SLEU-U,SLEU-U,51487-7,Leukocytes [#/volume] in Urine by Automated count,AMC LAB LABTRAIN
+Leukocyten (U),Urine Vragen om afname informatie,/µL,SLEU;U,SLEU-U,51487-7,Leukocytes [#/volume] in Urine by Automated count,LABTRAIN
+leucocyten,Gal,,M_gp_leuco,M_gp_leuco,34469-7,Leukocytes [Presence] in Bile fluid by Light microscopy,GLIMS
+LEUCOCYTEN GP,Liquor,,M_gp_leuco,M_gp_leuco,88114-4,Leukocytes [Presence] in Cerebral spinal fluid by Gram stain,VUMC LAB GLIMS
+leucocyten,Liquor,,M_gp_leuco,M_gp_leuco,88114-4,Leukocytes [Presence] in Cerebral spinal fluid by Gram stain,GLIMS
+leucocyten,Sputum,,M_gp_leuco,M_gp_leuco,14328-9,Leukocytes [Presence] in Sputum by Light microscopy,GLIMS
+leucocyten,Gewrichtspunctaat,,M_gp_leuco,M_gp_leuco,32142-2,Leukocytes [Presence] in Synovial fluid by Light microscopy,GLIMS
+leucocyten,Urine,,M_gp_leuco,M_gp_leuco,33052-2,Leukocytes [Presence] in Urine,GLIMS
+LEUCOCYTEN-KWAL (URINE) POCT AMC,,,DULES-U,DULES-U,53316-6,Leukocytes [Presence] in Urine by Automated,AMC LAB LABTRAIN
+LEUCOCYTEN-KWAL (URINE) POCT AMC,Urine,,DULES-U,DULES-U,53316-6,Leukocytes [Presence] in Urine by Automated,AMC LAB LABTRAIN
+LEUCO KWAL (URINE),Bloed,,K_LEUS_UR,K_LEUS_UR,53316-6,Leukocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+LEUCO KWAL (URINE),,,K_LEUS_UR,K_LEUS_UR,53316-6,Leukocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+LEUCO KWAL (URINE),Urine,,K_LEUS_UR,K_LEUS_UR,53316-6,Leukocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+LEUKO.-STIK,Urine,,KLES-U,KLES-U,53316-6,Leukocytes [Presence] in Urine by Automated,AMC LAB LABTRAIN
+LEUCOCYTEN GP,Urine,,M_gp_leuco,M_gp_leuco,53316-6,Leukocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+LEUCO-KWAL (URINE) POCT,,,P_LEUS_UR,P_LEUS_UR,53316-6,Leukocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+LEUCO-KWAL (URINE) POCT,Urine,,P_LEUS_UR,P_LEUS_UR,53316-6,Leukocytes [Presence] in Urine by Automated,VUMC LAB GLIMS
+LYMFOCYT (LIQUOR) AMC,Liquor,,SLYMO-L,SLYMO-L,55787-6,Lymphocytes [#] in Cerebral spinal fluid by Manual count,AMC LAB LABTRAIN
+#LYMFOCYTEN,Bloed,10E9/L,HLYA-BL,HLYA-BL,731-0,Lymphocytes [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+LYMFOCYTEN,Bloed,x10e9/L,K_ALYA_EB,K_ALYA_EB,731-0,Lymphocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+LYMFOCYTEN,,x10e9/L,K_ALYA_EB,K_ALYA_EB,731-0,Lymphocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+LYMFOCYTEN (BLOED) VUMC,Bloed,x10e9/L,K_ALYAL_EB,K_ALYAL_EB,731-0,Lymphocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+LYMFOCYTEN (BLOED) VUMC,,x10e9/L,K_ALYAL_EB,K_ALYAL_EB,731-0,Lymphocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+AANTAL LYMFOCYTEN VUMC,Bloed,miljoen/mL,K_LYMFMI_HB,K_LYMFMI_HB,731-0,Lymphocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+AANTAL LYMFOCYTEN VUMC,,miljoen/mL,K_LYMFMI_HB,K_LYMFMI_HB,731-0,Lymphocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+#LYMFOCYTEN,Bloed,10E9/L,HLYMA-BL,HLYMA-BL,732-8,Lymphocytes [#/volume] in Blood by Manual count,AMC LAB LABTRAIN
+LYMFOCYTEN,Bloed,%,HLYM-BL,HLYM-BL,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,AMC LAB LABTRAIN
+LYMFOCYT (BLOED) AMC,Bloed,%,SLYM-BL,SLYM-BL,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,AMC LAB LABTRAIN
+LYMFOCYT % (LIQUOR) AMC,Liquor,%,SLYMOP-L,SLYMOP-L,10328-3,Lymphocytes/100 leukocytes in Cerebral spinal fluid by Manual count,AMC LAB LABTRAIN
+MAGNESIUM (URINE VERZAMELD),,mmol/24u,K_MAGN_UV,K_MAGN_UV,2599-9,Magnesium [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+MAGNESIUM (URINE),Verzamel Urine,mmol/L,K_MAGN_UR,K_MAGN_UR,25954-9,Magnesium [Moles/volume] in 24 hour Urine,VUMC LAB GLIMS
+MAGNESIUM,Bloed,mmol/L,K_MAGN_HP,K_MAGN_HP,2601-3,Magnesium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+MAGNESIUM,,mmol/L,K_MAGN_HP,K_MAGN_HP,2601-3,Magnesium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+MAGNESIUM (RMAG),Bloed,mmol/L,RMAG-BL,RMAG-BL,2601-3,Magnesium [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+MAGNESIUM (URINE),,mmol/L,K_MAGN_UR,K_MAGN_UR,2598-1,Magnesium [Moles/volume] in Urine,VUMC LAB GLIMS
+MAGNESIUM (URINE),Urine,mmol/L,K_MAGN_UR,K_MAGN_UR,2598-1,Magnesium [Moles/volume] in Urine,VUMC LAB GLIMS
+MAGNESIUM (U),Urine,mmol/L,UMAG-U,UMAG-U,2598-1,Magnesium [Moles/volume] in Urine,AMC LAB LABTRAIN
+LEUKODIFF,Bloed,,DIFA-BL,DIFA-BL,50957-0,Manual differential performed [Presence] in Blood,AMC LAB LABTRAIN
+Leukodiff,Bloed,geen,DIFA;BL,DIFA-BL,50957-0,Manual differential performed [Presence] in Blood,LABTRAIN
+MCH,Bloed,fmol,HMCH-BL,HMCH-BL,59468-9,MCH [Entitic substance],AMC LAB LABTRAIN
+MCH,,fmol,HMCH-BL,HMCH-BL,59468-9,MCH [Entitic substance],AMC LAB LABTRAIN
+MCH,,amol,K_MCH_EB,K_MCH_EB,59468-9,MCH [Entitic substance],VUMC LAB GLIMS
+MCH,Bloed,amol,K_MCH_EB,K_MCH_EB,59468-9,MCH [Entitic substance],VUMC LAB GLIMS
+MCHC,Bloed,mmol/L,HMCC-BL,HMCC-BL,59467-1,MCHC [Moles/volume],AMC LAB LABTRAIN
+MCHC,,mmol/L,HMCC-BL,HMCC-BL,59467-1,MCHC [Moles/volume],AMC LAB LABTRAIN
+MCHC,Bloed,mmol/L,K_MCHC_EB,K_MCHC_EB,59467-1,MCHC [Moles/volume],VUMC LAB GLIMS
+MCHC,,mmol/L,K_MCHC_EB,K_MCHC_EB,59467-1,MCHC [Moles/volume],VUMC LAB GLIMS
+MCV,Bloed,fL,HMCV-BL,HMCV-BL,787-2,MCV [Entitic volume] by Automated count,AMC LAB LABTRAIN
+MCV,,fL,HMCV-BL,HMCV-BL,787-2,MCV [Entitic volume] by Automated count,AMC LAB LABTRAIN
+MCV,Bloed,fL,K_MCV_EB,K_MCV_EB,787-2,MCV [Entitic volume] by Automated count,VUMC LAB GLIMS
+MCV,,fL,K_MCV_EB,K_MCV_EB,787-2,MCV [Entitic volume] by Automated count,VUMC LAB GLIMS
+MICRO-ALBUMINE (URINE VERZAMELD),,mg/24u,K_MALB_UV,K_MALB_UV,14956-7,Microalbumin [Mass/time] in 24 hour Urine,VUMC LAB GLIMS
+MICRO-ALBUMINE (URINE VERZAMELD),Urine,mg/24u,K_MALB_UV,K_MALB_UV,14956-7,Microalbumin [Mass/time] in 24 hour Urine,VUMC LAB GLIMS
+MICRO-ALBUMINE (URINE VERZAMELD),Bloed,mg/24u,K_MALB_UV,K_MALB_UV,14956-7,Microalbumin [Mass/time] in 24 hour Urine,VUMC LAB GLIMS
+Micro-albumine,Urine,mg/24u,K_MALB_UV,K_MALB_UV,14956-7,Microalbumin [Mass/time] in 24 hour Urine,GLIMS
+Microalb. hoev.,Urine Vragen om afname informatie,mg/vzm,UMALH;U,UMALH-U,14956-7,Microalbumin [Mass/time] in 24 hour Urine,LABTRAIN
+MICRO-ALBUMINE (URINE),Bloed,mg/L,K_MALB_UR,K_MALB_UR,100158-5,Microalbumin [Mass/volume] in Urine collected for unspecified duration,VUMC LAB GLIMS
+MICRO-ALBUMINE (URINE),,mg/L,K_MALB_UR,K_MALB_UR,100158-5,Microalbumin [Mass/volume] in Urine collected for unspecified duration,VUMC LAB GLIMS
+MICRO-ALBUMINE (URINE),Urine,mg/L,K_MALB_UR,K_MALB_UR,100158-5,Microalbumin [Mass/volume] in Urine collected for unspecified duration,VUMC LAB GLIMS
+MICRO-ALBUMINE (URINE),Verzamel Urine,mg/L,K_MALB_UR,K_MALB_UR,100158-5,Microalbumin [Mass/volume] in Urine collected for unspecified duration,VUMC LAB GLIMS
+Micro-albumine,Urine,mg/L,K_MALB_UR,K_MALB_UR,100158-5,Microalbumin [Mass/volume] in Urine collected for unspecified duration,GLIMS
+Microalb. (U),Urine,mg/L,UMAL;U,UMAL-U,100158-5,Microalbumin [Mass/volume] in Urine collected for unspecified duration,LABTRAIN
+Microalb. (U),Urine Vragen om afname informatie,mg/L,UMAL;U,UMAL-U,100158-5,Microalbumin [Mass/volume] in Urine collected for unspecified duration,LABTRAIN
+MICR.ALB/KRE,Verzamel Urine,mg/mmol,MIKR-U,MIKR-U,59159-4,Microalbumin/Creatinine [Ratio] in 24 hour Urine,AMC LAB LABTRAIN
+Micr.alb/kre berekening,Urine Vragen om afname informatie,mg/mmol,Micr.alb/kre berekening;U,Micr.alb/kre berekening-U,30000-4,Microalbumin/Creatinine [Ratio] in Urine,LABTRAIN
+Micr.alb/kre berekening,Urine,mg/mmol,Micr.alb/kre berekening;U,Micr.alb/kre berekening-U,30000-4,Microalbumin/Creatinine [Ratio] in Urine,LABTRAIN
+MICR.ALB/KRE,Urine,mg/mmol,MIKR-U,MIKR-U,30000-4,Microalbumin/Creatinine [Ratio] in Urine,AMC LAB LABTRAIN
+Micro-albumine/Kreat ratio,Urine,mg/mmol Kreat,K_MALBKR,K_MALBKR,30000-4,Microalbumin/Creatinine [Ratio] in Urine,GLIMS
+#MONOCYTEN,Bloed,10E9/L,HMOA-BL,HMOA-BL,742-7,Monocytes [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+MONOCYTEN,Bloed,x10e9/L,K_AMOA_EB,K_AMOA_EB,742-7,Monocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+MONOCYTEN,,x10e9/L,K_AMOA_EB,K_AMOA_EB,742-7,Monocytes [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+#MONOCYTEN,Bloed,10E9/L,HMONA-BL,HMONA-BL,743-5,Monocytes [#/volume] in Blood by Manual count,AMC LAB LABTRAIN
+MONOCYTEN % VUMC,,%,H_HMO_beenmerg_EB,H_HMO_beenmerg_EB,11112-0,Monocytes/100 cells in Bone marrow by Manual count,VUMC LAB GLIMS
+MONOCYTEN (BEENMERG),,%,H_Mono_BE,H_Mono_BE,11112-0,Monocytes/100 cells in Bone marrow by Manual count,VUMC LAB GLIMS
+MONOCYTEN (BEENMERG),Beenmerg,%,H_Mono_BE,H_Mono_BE,11112-0,Monocytes/100 cells in Bone marrow by Manual count,VUMC LAB GLIMS
+MONOCYTEN (BEENMERG),Bloed,%,H_Mono_BE,H_Mono_BE,11112-0,Monocytes/100 cells in Bone marrow by Manual count,VUMC LAB GLIMS
+MONOCYTEN % (BEENMERG) (BEENMERG),Beenmerg,%,SMONBMP-BM,SMONBMP-BM,11112-0,Monocytes/100 cells in Bone marrow by Manual count,AMC LAB LABTRAIN
+MONOCYTEN,Bloed,%,HMON-BL,HMON-BL,5905-5,Monocytes/100 leukocytes in Blood by Automated count,AMC LAB LABTRAIN
+MONOCYT (BLOED) AMC,Bloed,%,SMON-BL,SMON-BL,5905-5,Monocytes/100 leukocytes in Blood by Automated count,AMC LAB LABTRAIN
+MONOCYT % (LIQUOR) AMC,Liquor,%,SMONOP-L,SMONOP-L,10329-1,Monocytes/100 leukocytes in Cerebral spinal fluid by Manual count,AMC LAB LABTRAIN
+NT-proBNP pleuravocht,Pleurapunctaat,ng/L,K_BNP_PP,K_BNP_PP,77621-1,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Pleural fluid by Immunoassay,GLIMS
+NT-PROBNP (AMC),Bloed,ng/L,EBNP-BL,EBNP-BL,83107-3,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay,AMC LAB LABTRAIN
+NT-PROBNP (AMC),,ng/L,EBNP-BL,EBNP-BL,83107-3,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay,AMC LAB LABTRAIN
+NT-PROBNP,Bloed,ng/L,K_BNP_HP,K_BNP_HP,83107-3,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay,VUMC LAB GLIMS
+NT-PROBNP,,ng/L,K_BNP_HP,K_BNP_HP,83107-3,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay,VUMC LAB GLIMS
+NT-Pro BNP (EBNP),Bloed Arterieel,ng/L,EBNP;BL,EBNP-BL,83107-3,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay,LABTRAIN
+NT-Pro BNP (EBNP),Bloed Capillair vinger,ng/L,EBNP;BL,EBNP-BL,83107-3,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay,LABTRAIN
+NT-Pro BNP (EBNP),Bloed Veneus,ng/L,EBNP;BL,EBNP-BL,83107-3,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay,LABTRAIN
+NT-Pro BNP (EBNP),Bloed,ng/L,EBNP;BL,EBNP-BL,83107-3,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay,LABTRAIN
+NT-Pro BNP (EBNP),Bloed Vragen om afname informatie,ng/L,EBNP;BL,EBNP-BL,83107-3,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay,LABTRAIN
+NT-proBNP,Bloed,ng/L,K_BNP_HP,K_BNP_HP,83107-3,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay,GLIMS
+#NEUTROFIELEN,Bloed,10E9/L,HNEA-BL,HNEA-BL,751-8,Neutrophils [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+Neutro's,Bloed,x10e9/L,K_ANEUA_EB,K_ANEUA_EB,751-8,Neutrophils [#/volume] in Blood by Automated count,GLIMS
+NEUTRO'S,Bloed,x10e9/L,K_ANEUA_EB,K_ANEUA_EB,751-8,Neutrophils [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+NEUTRO'S,,x10e9/L,K_ANEUA_EB,K_ANEUA_EB,751-8,Neutrophils [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+Neutro's,Bloed,x10e9/L,K_ANEUAL_EB,K_ANEUAL_EB,751-8,Neutrophils [#/volume] in Blood by Automated count,GLIMS
+NEUTRO'S (BLOED) VUMC,Bloed,x10e9/L,K_ANEUAL_EB,K_ANEUAL_EB,751-8,Neutrophils [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+NEUTRO'S (BLOED) VUMC,,x10e9/L,K_ANEUAL_EB,K_ANEUAL_EB,751-8,Neutrophils [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+ERYTHROBLASTEN,,/100Leuc,K_AERB_EB,K_AERB_EB,33990-3,Normoblasts/100 leukocytes in Blood,VUMC LAB GLIMS
+ERYTHROBLASTEN,Bloed,/100Leuc,K_AERB_EB,K_AERB_EB,33990-3,Normoblasts/100 leukocytes in Blood,VUMC LAB GLIMS
+PO2 - BLOEDGAS ART. (AMC),Bloed,kPa,CPO2-BL_ART,CPO2-BL_ART,2703-7,Oxygen [Partial pressure] in Arterial blood,AMC LAB LABTRAIN
+PO2 - BLOEDGAS NV. ART. (AMC),Bloed,kPa,CPO2-BL_NAR,CPO2-BL_NAR,2703-7,Oxygen [Partial pressure] in Arterial blood,AMC LAB LABTRAIN
+PO2 - BLOEDGAS ART. (AMC),Bloed,kPa,DPO2-BL_ART,DPO2-BL_ART,2703-7,Oxygen [Partial pressure] in Arterial blood,AMC LAB LABTRAIN
+PO2 - BLOEDGAS ART. (AMC),,kPa,DPO2-BL_ART,DPO2-BL_ART,2703-7,Oxygen [Partial pressure] in Arterial blood,AMC LAB LABTRAIN
+PO2 KPA,Bloed,kPa,K_PO2P_ART,K_PO2P_ART,2703-7,Oxygen [Partial pressure] in Arterial blood,VUMC LAB GLIMS
+PO2 KPA,Bloedgas,kPa,K_PO2P_ART,K_PO2P_ART,2703-7,Oxygen [Partial pressure] in Arterial blood,VUMC LAB GLIMS
+PO2 KPA,,kPa,K_PO2P_ART,K_PO2P_ART,2703-7,Oxygen [Partial pressure] in Arterial blood,VUMC LAB GLIMS
+PO2 KPA,Bloed,kPa,P_PO2P_ART,P_PO2P_ART,2703-7,Oxygen [Partial pressure] in Arterial blood,VUMC LAB GLIMS
+PO2 KPA,,kPa,P_PO2P_ART,P_PO2P_ART,2703-7,Oxygen [Partial pressure] in Arterial blood,VUMC LAB GLIMS
+PO2 - BLOEDGAS,Bloed,kPa,CPO2-BL,CPO2-BL,11556-8,Oxygen [Partial pressure] in Blood,AMC LAB LABTRAIN
+PO2 KPA VUMC,Bloed,kPa,K_PO2P_HB,K_PO2P_HB,11556-8,Oxygen [Partial pressure] in Blood,VUMC LAB GLIMS
+PO2 KPA VUMC,,,K_PO2P_HB,K_PO2P_HB,11556-8,Oxygen [Partial pressure] in Blood,VUMC LAB GLIMS
+PO2 KPA VUMC,,kPa,K_PO2P_HB,K_PO2P_HB,11556-8,Oxygen [Partial pressure] in Blood,VUMC LAB GLIMS
+PO2 KPA POCT VUMC,Bloed,kPa,P_PO2P_HB,P_PO2P_HB,11556-8,Oxygen [Partial pressure] in Blood,VUMC LAB GLIMS
+PO2 KPA POCT VUMC,,kPa,P_PO2P_HB,P_PO2P_HB,11556-8,Oxygen [Partial pressure] in Blood,VUMC LAB GLIMS
+PO2 - BLOEDGAS CAP. (AMC),Bloed,kPa,CPO2-BL_CAP,CPO2-BL_CAP,2704-5,Oxygen [Partial pressure] in Capillary blood,AMC LAB LABTRAIN
+PO2 - BLOEDGAS CAP. (AMC),,kPa,CPO2-BL_CAP,CPO2-BL_CAP,2704-5,Oxygen [Partial pressure] in Capillary blood,AMC LAB LABTRAIN
+PO2 - BLOEDGAS CAP. (AMC),Bloed,kPa,DPO2-BL_CAP,DPO2-BL_CAP,2704-5,Oxygen [Partial pressure] in Capillary blood,AMC LAB LABTRAIN
+PO2 KPA,Bloed,kPa,K_PO2P_CAP,K_PO2P_CAP,2704-5,Oxygen [Partial pressure] in Capillary blood,VUMC LAB GLIMS
+PO2 KPA,,kPa,P_PO2P_CAP,P_PO2P_CAP,2704-5,Oxygen [Partial pressure] in Capillary blood,VUMC LAB GLIMS
+PO2 - BLOEDGAS GEM. VEN. (AMC),Bloed,kPa,CPO2-BL_MVEN,CPO2-BL_MVEN,19211-2,Oxygen [Partial pressure] in Mixed venous blood,AMC LAB LABTRAIN
+PO2 - BLOEDGAS GEM. VEN. (AMC),Bloed,kPa,DPO2-BL_MVEN,DPO2-BL_MVEN,19211-2,Oxygen [Partial pressure] in Mixed venous blood,AMC LAB LABTRAIN
+PO2 KPA,Bloed,kPa,K_PO2P_GEMVEN,K_PO2P_GEMVEN,19211-2,Oxygen [Partial pressure] in Mixed venous blood,VUMC LAB GLIMS
+PO2 KPA,,kPa,K_PO2P_GEMVEN,K_PO2P_GEMVEN,19211-2,Oxygen [Partial pressure] in Mixed venous blood,VUMC LAB GLIMS
+PO2 KPA,Bloed,kPa,P_PO2P_GEMVEN,P_PO2P_GEMVEN,19211-2,Oxygen [Partial pressure] in Mixed venous blood,VUMC LAB GLIMS
+PO2 KPA,,kPa,P_PO2P_GEMVEN,P_PO2P_GEMVEN,19211-2,Oxygen [Partial pressure] in Mixed venous blood,VUMC LAB GLIMS
+PO2 - BLOEDGAS NV. VEN. (AMC),Bloed,kPa,CPO2-BL_NVE,CPO2-BL_NVE,2705-2,Oxygen [Partial pressure] in Venous blood,AMC LAB LABTRAIN
+PO2 - BLOEDGAS VEN. (AMC),Bloed,kPa,CPO2-BL_VEN,CPO2-BL_VEN,2705-2,Oxygen [Partial pressure] in Venous blood,AMC LAB LABTRAIN
+PO2 - BLOEDGAS VEN. (AMC),Bloed,kPa,DPO2-BL_VEN,DPO2-BL_VEN,2705-2,Oxygen [Partial pressure] in Venous blood,AMC LAB LABTRAIN
+PO2 - BLOEDGAS VEN. (AMC),,kPa,DPO2-BL_VEN,DPO2-BL_VEN,2705-2,Oxygen [Partial pressure] in Venous blood,AMC LAB LABTRAIN
+PO2 KPA,Bloed,kPa,K_PO2P_VEN,K_PO2P_VEN,2705-2,Oxygen [Partial pressure] in Venous blood,VUMC LAB GLIMS
+PO2 KPA,Bloedgas,kPa,K_PO2P_VEN,K_PO2P_VEN,2705-2,Oxygen [Partial pressure] in Venous blood,VUMC LAB GLIMS
+PO2 KPA,,kPa,K_PO2P_VEN,K_PO2P_VEN,2705-2,Oxygen [Partial pressure] in Venous blood,VUMC LAB GLIMS
+PO2 KPA,Bloed,kPa,P_PO2P_VEN,P_PO2P_VEN,2705-2,Oxygen [Partial pressure] in Venous blood,VUMC LAB GLIMS
+PO2 KPA,,kPa,P_PO2P_VEN,P_PO2P_VEN,2705-2,Oxygen [Partial pressure] in Venous blood,VUMC LAB GLIMS
+O2-CONTENT ART. VUMC,Bloed,mL/dL,K_O2CO_ART,K_O2CO_ART,59274-1,Oxygen content in Arterial blood by calculation,VUMC LAB GLIMS
+O2-CONTENT ART. VUMC,Bloedgas,mL/dL,K_O2CO_ART,K_O2CO_ART,59274-1,Oxygen content in Arterial blood by calculation,VUMC LAB GLIMS
+O2-CONTENT ART. VUMC,Bloed,mL/dL,P_O2CO_ART,P_O2CO_ART,59274-1,Oxygen content in Arterial blood by calculation,VUMC LAB GLIMS
+O2-CONTENT ART. VUMC,,mL/dL,P_O2CO_ART,P_O2CO_ART,59274-1,Oxygen content in Arterial blood by calculation,VUMC LAB GLIMS
+O2-CONTENT,Bloed,mL/dL,K_O2CO_HB,K_O2CO_HB,57800-5,Oxygen content in Blood by calculation,VUMC LAB GLIMS
+O2-CONTENT,,mL/dL,K_O2CO_HB,K_O2CO_HB,57800-5,Oxygen content in Blood by calculation,VUMC LAB GLIMS
+O2-CONTENT POCT,Bloed,mL/dL,P_O2CO_HB,P_O2CO_HB,57800-5,Oxygen content in Blood by calculation,VUMC LAB GLIMS
+O2-CONTENT POCT,,mL/dL,P_O2CO_HB,P_O2CO_HB,57800-5,Oxygen content in Blood by calculation,VUMC LAB GLIMS
+O2-CONTENT CAP. VUMC,,mL/dL,P_O2CO_CAP,P_O2CO_CAP,64799-0,Oxygen content in Capillary blood by calculation,VUMC LAB GLIMS
+O2-CONTENT GEM. VEN. VUMC,Bloed,mL/dL,K_O2CO_GEMVEN,K_O2CO_GEMVEN,64798-2,Oxygen content in Mixed venous blood by calculation,VUMC LAB GLIMS
+O2-CONTENT GEM. VEN. VUMC,Bloed,mL/dL,P_O2CO_GEMVEN,P_O2CO_GEMVEN,64798-2,Oxygen content in Mixed venous blood by calculation,VUMC LAB GLIMS
+O2-CONTENT GEM. VEN. VUMC,,mL/dL,P_O2CO_GEMVEN,P_O2CO_GEMVEN,64798-2,Oxygen content in Mixed venous blood by calculation,VUMC LAB GLIMS
+O2-CONTENT VEN. VUMC,Bloed,mL/dL,K_O2CO_VEN,K_O2CO_VEN,60841-4,Oxygen content in Venous blood by calculation,VUMC LAB GLIMS
+O2-CONTENT VEN. VUMC,Bloed,mL/dL,P_O2CO_VEN,P_O2CO_VEN,60841-4,Oxygen content in Venous blood by calculation,VUMC LAB GLIMS
+O2-CONTENT VEN. VUMC,,mL/dL,P_O2CO_VEN,P_O2CO_VEN,60841-4,Oxygen content in Venous blood by calculation,VUMC LAB GLIMS
+PH - BLOEDGAS ART. (AMC),Bloed,,DPH-BL_ART,DPH-BL_ART,2744-1,pH of Arterial blood,AMC LAB LABTRAIN
+PH ART. VUMC,Bloed,,K_PH_ART,K_PH_ART,2744-1,pH of Arterial blood,VUMC LAB GLIMS
+PH ART. VUMC,,,P_PH_ART,P_PH_ART,2744-1,pH of Arterial blood,VUMC LAB GLIMS
+PH POCT,,,P_PH_HB,P_PH_HB,11558-4,pH of Blood,VUMC LAB GLIMS
+PH - BLOEDGAS CAP. (AMC),Bloed,,DPH-BL_CAP,DPH-BL_CAP,2745-8,pH of Capillary blood,AMC LAB LABTRAIN
+PH - BLOEDGAS GEM. VEN. (AMC),Bloed,,DPH-BL_MVEN,DPH-BL_MVEN,19213-8,pH of Mixed venous blood,AMC LAB LABTRAIN
+PH GEM. VEN. VUMC,Bloed,,K_PH_GEMVEN,K_PH_GEMVEN,19213-8,pH of Mixed venous blood,VUMC LAB GLIMS
+PH GEM. VEN. VUMC,,,P_PH_GEMVEN,P_PH_GEMVEN,19213-8,pH of Mixed venous blood,VUMC LAB GLIMS
+PH,Bloed,,K_PH_HB,K_PH_HB,2753-2,pH of Serum or Plasma,VUMC LAB GLIMS
+PH,,,K_PH_HB,K_PH_HB,2753-2,pH of Serum or Plasma,VUMC LAB GLIMS
+PH - BLOEDGAS VEN. (AMC),Bloed,,CPH-BL_VEN,CPH-BL_VEN,2746-6,pH of Venous blood,AMC LAB LABTRAIN
+PH - DECENTRAAL,Bloed,,DPH-BL,DPH-BL,2746-6,pH of Venous blood,AMC LAB LABTRAIN
+PH - BLOEDGAS VEN. (AMC),Bloed,,DPH-BL_VEN,DPH-BL_VEN,2746-6,pH of Venous blood,AMC LAB LABTRAIN
+PH VEN. VUMC,Bloed,,K_PH_VEN,K_PH_VEN,2746-6,pH of Venous blood,VUMC LAB GLIMS
+PH VEN. VUMC,,,P_PH_VEN,P_PH_VEN,2746-6,pH of Venous blood,VUMC LAB GLIMS
+FOSFAAT HOEV (U),Urine,mmol/vzm,FOSH-U,FOSH-U,14881-7,Phosphate [Moles/time] in 24 hour Urine,AMC LAB LABTRAIN
+FOSFAAT (URINE VERZAMELD),,mmol/24u,K_PHOS_UV,K_PHOS_UV,14881-7,Phosphate [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+FOSFAAT (URINE),Verzamel Urine,mmol/L,K_PHOS_UR,K_PHOS_UR,25973-9,Phosphate [Moles/volume] in 24 hour Urine,VUMC LAB GLIMS
+FOSFAAT (DIALYSAAT),Dialysaat,mmol/L,K_PHOS_DI,K_PHOS_DI,34938-1,Phosphate [Moles/volume] in Dialysis fluid,VUMC LAB GLIMS
+FOSFAAT,Bloed,mmol/L,K_PHOS_HP,K_PHOS_HP,14879-1,Phosphate [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+FOSFAAT,,mmol/L,K_PHOS_HP,K_PHOS_HP,14879-1,Phosphate [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+FOSFAAT,Bloed,mmol/L,RFOS-BL,RFOS-BL,14879-1,Phosphate [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+FOSFAAT (URINE),,mmol/L,K_PHOS_UR,K_PHOS_UR,13539-2,Phosphate [Moles/volume] in Urine,VUMC LAB GLIMS
+FOSFAAT (URINE),Urine,mmol/L,K_PHOS_UR,K_PHOS_UR,13539-2,Phosphate [Moles/volume] in Urine,VUMC LAB GLIMS
+FOSFAAT (U),Urine,mmol/L,UFOS-U,UFOS-U,13539-2,Phosphate [Moles/volume] in Urine,AMC LAB LABTRAIN
+Thrombo's,Bloed,,H_ThromKwal_beenmerg_BL,H_ThromKwal_beenmerg_BL,9317-9,Platelet adequacy [Presence] in Blood by Light microscopy,GLIMS
+Aantal trombocyten,Bloed,geen,SPLT;BL,SPLT-BL,9317-9,Platelet adequacy [Presence] in Blood by Light microscopy,LABTRAIN
+AANTAL TROMBOCYTEN (BLOED) AMC,Bloed,,SPLT-BL,SPLT-BL,9317-9,Platelet adequacy [Presence] in Blood by Light microscopy,AMC LAB LABTRAIN
+TROMBOCYTENKLONTJES (HTKL),Bloed,,HTKL-BL,HTKL-BL,7796-6,Platelet clump [Presence] in Blood by Light microscopy,AMC LAB LABTRAIN
+Trombocyten (HTRO),Bloed Vragen om afname informatie;Darunavir:,10E9/L,HTRO;BL,HTRO-BL,26515-7,Platelets [#/volume] in Blood,LABTRAIN
+Trombocyten (HTRO),Bloed Vragen om afname informatie,10E9/L,HTRO;BL,HTRO-BL,26515-7,Platelets [#/volume] in Blood,LABTRAIN
+Aantal trombocyten,Bloed Centraal veneus,geen,SPLT;BL,SPLT-BL,26515-7,Platelets [#/volume] in Blood,LABTRAIN
+Trombocyten (HTRO),Bloed,10E9/L,HTRO;BL,HTRO-BL,777-3,Platelets [#/volume] in Blood by Automated count,LABTRAIN
+TROMBOCYTEN,,10E9/L,HTRO-BL,HTRO-BL,777-3,Platelets [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+TROMBOCYTEN,Bloed,10E9/L,HTRO-BL,HTRO-BL,777-3,Platelets [#/volume] in Blood by Automated count,AMC LAB LABTRAIN
+Thrombo's,Bloed,x10e9/L,K_THR_EB,K_THR_EB,777-3,Platelets [#/volume] in Blood by Automated count,GLIMS
+THROMBO'S,Bloed,x10e9/L,K_THR_EB,K_THR_EB,777-3,Platelets [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+THROMBO'S,,x10e9/L,K_THR_EB,K_THR_EB,777-3,Platelets [#/volume] in Blood by Automated count,VUMC LAB GLIMS
+Thrombo's citr. bloed,Bloed,x10e9/L,K_THRBer_CI,K_THRBer_CI,777-3,Platelets [#/volume] in Blood by Automated count,GLIMS
+Trombocyten (HTRO),Bloed Capillair,10E9/L,HTRO;BL,HTRO-BL,74464-9,Platelets [#/volume] in Capillary blood by Manual count,LABTRAIN
+Trombocyten (HTRO),Bloed Capillair vinger,10E9/L,HTRO;BL,HTRO-BL,74464-9,Platelets [#/volume] in Capillary blood by Manual count,LABTRAIN
+Aantal trombocyten,Bloed Capillair,geen,SPLT;BL,SPLT-BL,74464-9,Platelets [#/volume] in Capillary blood by Manual count,LABTRAIN
+Trombo PRP,Bloed,10^9/L,PRPT;BL,PRPT-BL,74775-8,Platelets [#/volume] in Platelet rich plasma by Automated count,LABTRAIN
+TROMBO PRP AMC,Bloed,10E9/L,PRPT-BL,PRPT-BL,74775-8,Platelets [#/volume] in Platelet rich plasma by Automated count,AMC LAB LABTRAIN
+THROMBOMORFOLOGIE,,,H_ThromKwal_beenmerg_BL,H_ThromKwal_beenmerg_BL,11126-0,Platelets [Morphology] in Bone marrow,VUMC LAB GLIMS
+Kalium,Feces,mmol/24u,K_KA_FV,K_KA_FV,6792-6,Potassium [Moles/time] in 24 hour Stool,GLIMS
+Kalium,Urine,mmol/24u,K_KA_UV,K_KA_UV,2829-0,Potassium [Moles/time] in 24 hour Urine,GLIMS
+Kalium hoev.,Urine Vragen om afname informatie,mmol/vzm,UKALH;U,UKALH-U,2829-0,Potassium [Moles/time] in 24 hour Urine,LABTRAIN
+KALIUM (URINE VERZAMELD),,mmol/24u,K_KA_UV,K_KA_UV,2829-0,Potassium [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+KALIUM HOEV (U),Urine,mmol/vzm,KALH-U,KALH-U,2829-0,Potassium [Moles/time] in 24 hour Urine,AMC LAB LABTRAIN
+Kalium hoev.,"Urine Vragen om afname informatie;Afnemen in medium,verkrijgbaar op B1-209,tst:62429",mmol/vzm,UKALH;U,UKALH-U,2829-0,Potassium [Moles/time] in 24 hour Urine,LABTRAIN
+KALIUM (URINE),Verzamel Urine,mmol/L,K_KA_UR,K_KA_UR,21476-7,Potassium [Moles/volume] in 24 hour Urine,VUMC LAB GLIMS
+Kalium de.,Bloed Arterieel,mmol/L,CKAL;BL,CKAL-BL,32713-0,Potassium [Moles/volume] in Arterial blood,LABTRAIN
+KALIUM - BLOEDGAS ART. (AMC),Bloed,mmol/L,CKAL-BL_ART,CKAL-BL_ART,32713-0,Potassium [Moles/volume] in Arterial blood,AMC LAB LABTRAIN
+Kalium DE.,Bloed Arterieel,mmol/L,DKAL;BL,DKAL-BL,32713-0,Potassium [Moles/volume] in Arterial blood,LABTRAIN
+KALIUM - BLOEDGAS ART. (AMC),Bloed,mmol/L,DKAL-BL_ART,DKAL-BL_ART,32713-0,Potassium [Moles/volume] in Arterial blood,AMC LAB LABTRAIN
+KALIUM - BLOEDGAS ART. (AMC),,mmol/L,DKAL-BL_ART,DKAL-BL_ART,32713-0,Potassium [Moles/volume] in Arterial blood,AMC LAB LABTRAIN
+K (ONV.ISE) ART. VUMC,Bloed,mmol/L,K_KA_ART,K_KA_ART,32713-0,Potassium [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+K (ONV.ISE) ART. VUMC,Bloedgas,mmol/L,K_KA_ART,K_KA_ART,32713-0,Potassium [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+K (onv.ISE),Bloed Arterieel,mmol/L,K_KA_HB,K_KA_HB,32713-0,Potassium [Moles/volume] in Arterial blood,GLIMS
+K (onv.ISE),Bloed Arterieel,mmol/L,P_KA_HB,P_KA_HB,32713-0,Potassium [Moles/volume] in Arterial blood,GLIMS
+Kalium (RKAL),Bloed Arterieel,mmol/L,RKAL;BL,RKAL-BL,32713-0,Potassium [Moles/volume] in Arterial blood,LABTRAIN
+K (ONV.ISE) ART. VUMC,Bloed,mmol/L,P_KA_ART,P_KA_ART,32713-0,Potassium [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+K (ONV.ISE) ART. VUMC,,mmol/L,P_KA_ART,P_KA_ART,32713-0,Potassium [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+K (onv.ISE),Bloed arteriel,mmol/L,P_KA_HB,P_KA_HB,32713-0,Potassium [Moles/volume] in Arterial blood,GLIMS
+K (onv.ISE),Bloed {<VVE},mmol/L,K_KA_HB,K_KA_HB,6298-4,Potassium [Moles/volume] in Blood,GLIMS
+K (onv.ISE),Bloed Onbekend,mmol/L,K_KA_HB,K_KA_HB,6298-4,Potassium [Moles/volume] in Blood,GLIMS
+K (onv.ISE),Bloed {<VVE},mmol/L,P_KA_HB,P_KA_HB,6298-4,Potassium [Moles/volume] in Blood,GLIMS
+K (onv.ISE),Bloed Onbekend,mmol/L,P_KA_HB,P_KA_HB,6298-4,Potassium [Moles/volume] in Blood,GLIMS
+K (ONV.ISE),,mmol/L,K_KA_HB,K_KA_HB,6298-4,Potassium [Moles/volume] in Blood,VUMC LAB GLIMS
+K (ONV.ISE) POCT,Bloed,mmol/L,P_KA_HB,P_KA_HB,6298-4,Potassium [Moles/volume] in Blood,VUMC LAB GLIMS
+K (ONV.ISE) POCT,,mmol/L,P_KA_HB,P_KA_HB,6298-4,Potassium [Moles/volume] in Blood,VUMC LAB GLIMS
+Kalium,Overig,mmol/L,K_KA_OV,K_KA_OV,2821-7,Potassium [Moles/volume] in Body fluid,GLIMS
+Kalium (RKAL),Overige,mmol/L,RKAL;O,RKAL-O,2821-7,Potassium [Moles/volume] in Body fluid,LABTRAIN
+KALIUM (OVERIG),Overig,mmol/L,K_KA_OV,K_KA_OV,2821-7,Potassium [Moles/volume] in Body fluid,VUMC LAB GLIMS
+KALIUM (OVERIG),,mmol/L,K_KA_OV,K_KA_OV,2821-7,Potassium [Moles/volume] in Body fluid,VUMC LAB GLIMS
+Kalium de.,Bloed Capillair,mmol/L,CKAL;BL,CKAL-BL,39790-1,Potassium [Moles/volume] in Capillary blood,LABTRAIN
+Kalium de.,Bloed Capillair vinger,mmol/L,CKAL;BL,CKAL-BL,39790-1,Potassium [Moles/volume] in Capillary blood,LABTRAIN
+Kalium DE.,Bloed Capillair,mmol/L,DKAL;BL,DKAL-BL,39790-1,Potassium [Moles/volume] in Capillary blood,LABTRAIN
+KALIUM - BLOEDGAS CAP. (AMC),Bloed,mmol/L,DKAL-BL_CAP,DKAL-BL_CAP,39790-1,Potassium [Moles/volume] in Capillary blood,AMC LAB LABTRAIN
+K (onv.ISE),Bloed Capillair,mmol/L,K_KA_HB,K_KA_HB,39790-1,Potassium [Moles/volume] in Capillary blood,GLIMS
+K (onv.ISE),Bloed Capillair,mmol/L,P_KA_HB,P_KA_HB,39790-1,Potassium [Moles/volume] in Capillary blood,GLIMS
+Kalium (RKAL),Bloed Capillair vinger,mmol/L,RKAL;BL,RKAL-BL,39790-1,Potassium [Moles/volume] in Capillary blood,LABTRAIN
+K (ONV.ISE) CAP. VUMC,,mmol/L,P_KA_CAP,P_KA_CAP,39790-1,Potassium [Moles/volume] in Capillary blood,VUMC LAB GLIMS
+Kalium (RKAL),Bloed Capillair,mmol/L,RKAL;BL,RKAL-BL,39790-1,Potassium [Moles/volume] in Capillary blood,LABTRAIN
+Kalium,Liquor,mmol/L,K_KA_LI,K_KA_LI,2819-1,Potassium [Moles/volume] in Cerebral spinal fluid,GLIMS
+Kalium de.,Bloed Mixed Veneus,mmol/L,CKAL;BL,CKAL-BL,41656-0,Potassium [Moles/volume] in Mixed venous blood,LABTRAIN
+Kalium DE.,Bloed Mixed Veneus,mmol/L,DKAL;BL,DKAL-BL,41656-0,Potassium [Moles/volume] in Mixed venous blood,LABTRAIN
+KALIUM - BLOEDGAS GEM. VEN. (AMC),Bloed,mmol/L,DKAL-BL_MVEN,DKAL-BL_MVEN,41656-0,Potassium [Moles/volume] in Mixed venous blood,AMC LAB LABTRAIN
+K (ONV.ISE) GEM. VEN. VUMC,Bloed,mmol/L,K_KA_GEMVEN,K_KA_GEMVEN,41656-0,Potassium [Moles/volume] in Mixed venous blood,VUMC LAB GLIMS
+K (onv.ISE),Bloed Gemengd veneus,mmol/L,K_KA_HB,K_KA_HB,41656-0,Potassium [Moles/volume] in Mixed venous blood,GLIMS
+K (onv.ISE),Bloed gem veneus,mmol/L,P_KA_HB,P_KA_HB,41656-0,Potassium [Moles/volume] in Mixed venous blood,GLIMS
+K (onv.ISE),Bloed gem.ven,mmol/L,P_KA_HB,P_KA_HB,41656-0,Potassium [Moles/volume] in Mixed venous blood,GLIMS
+K (onv.ISE),Bloed Gemengd veneus,mmol/L,P_KA_HB,P_KA_HB,41656-0,Potassium [Moles/volume] in Mixed venous blood,GLIMS
+Kalium (RKAL),Bloed Mixed Veneus,mmol/L,RKAL;BL,RKAL-BL,41656-0,Potassium [Moles/volume] in Mixed venous blood,LABTRAIN
+K (ONV.ISE) GEM. VEN. VUMC,Bloed,mmol/L,P_KA_GEMVEN,P_KA_GEMVEN,41656-0,Potassium [Moles/volume] in Mixed venous blood,VUMC LAB GLIMS
+K (ONV.ISE) GEM. VEN. VUMC,,mmol/L,P_KA_GEMVEN,P_KA_GEMVEN,41656-0,Potassium [Moles/volume] in Mixed venous blood,VUMC LAB GLIMS
+K (onv.ISE),Bloed gemend veneus,mmol/L,P_KA_HB,P_KA_HB,41656-0,Potassium [Moles/volume] in Mixed venous blood,GLIMS
+KALIUM   CCA,Bloed,mmol/L,CKAL-BL,CKAL-BL,2823-3,Potassium [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+Kalium de.,Bloed,mmol/L,CKAL;BL,CKAL-BL,2823-3,Potassium [Moles/volume] in Serum or Plasma,LABTRAIN
+Kalium DE.,Bloed,mmol/L,DKAL;BL,DKAL-BL,2823-3,Potassium [Moles/volume] in Serum or Plasma,LABTRAIN
+K (ONV.ISE),Bloed,mmol/L,K_KA_HB,K_KA_HB,2823-3,Potassium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+K (onv.ISE),Bloed,mmol/L,K_KA_HB,K_KA_HB,2823-3,Potassium [Moles/volume] in Serum or Plasma,GLIMS
+K (ONV.ISE),,,K_KA_HB,K_KA_HB,2823-3,Potassium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+KALIUM,Bloed,mmol/L,K_KA_HP,K_KA_HP,2823-3,Potassium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Kalium,Bloed,mmol/L,K_KA_HP,K_KA_HP,2823-3,Potassium [Moles/volume] in Serum or Plasma,GLIMS
+KALIUM,,mmol/L,K_KA_HP,K_KA_HP,2823-3,Potassium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+KALIUM,Bloed,,K_KA_HP,K_KA_HP,2823-3,Potassium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+K (onv.ISE),Bloed,mmol/L,P_KA_HB,P_KA_HB,2823-3,Potassium [Moles/volume] in Serum or Plasma,GLIMS
+Kalium (RKAL),Bloed,mmol/L,RKAL;BL,RKAL-BL,2823-3,Potassium [Moles/volume] in Serum or Plasma,LABTRAIN
+Kalium (RKAL),Bloed Vragen om afname informatie,mmol/L,RKAL;BL,RKAL-BL,2823-3,Potassium [Moles/volume] in Serum or Plasma,LABTRAIN
+KALIUM,Bloed,mmol/L,RKAL-BL,RKAL-BL,2823-3,Potassium [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+Kalium (RKAL),Bloed Vragen om afname informatie;Capillair,mmol/L,RKAL;BL,RKAL-BL,2823-3,Potassium [Moles/volume] in Serum or Plasma,LABTRAIN
+KALIUM,,mmol/L,RKAL-BL,RKAL-BL,2823-3,Potassium [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+Kalium,Faeces,mmol/L,FKAL;F,FKAL-F,15202-5,Potassium [Moles/volume] in Stool,LABTRAIN
+Kalium,Feces,mmol/L,K_KA_FA,K_KA_FA,15202-5,Potassium [Moles/volume] in Stool,GLIMS
+KALIUM (URINE),Bloed,mmol/L,K_KA_UR,K_KA_UR,2828-2,Potassium [Moles/volume] in Urine,VUMC LAB GLIMS
+KALIUM (URINE),,mmol/L,K_KA_UR,K_KA_UR,2828-2,Potassium [Moles/volume] in Urine,VUMC LAB GLIMS
+KALIUM (URINE),Urine,mmol/L,K_KA_UR,K_KA_UR,2828-2,Potassium [Moles/volume] in Urine,VUMC LAB GLIMS
+Kalium,Urine,mmol/L,K_KA_UR,K_KA_UR,2828-2,Potassium [Moles/volume] in Urine,GLIMS
+Kalium (U),Urine,mmol/L,UKAL;U,UKAL-U,2828-2,Potassium [Moles/volume] in Urine,LABTRAIN
+Kalium (U),Urine Vragen om afname informatie,mmol/L,UKAL;U,UKAL-U,2828-2,Potassium [Moles/volume] in Urine,LABTRAIN
+KALIUM (U),Urine,mmol/L,UKAL-U,UKAL-U,2828-2,Potassium [Moles/volume] in Urine,AMC LAB LABTRAIN
+Kalium (U),"Urine Vragen om afname informatie;Afnemen in medium,verkrijgbaar op B1-209,tst:62429",mmol/L,UKAL;U,UKAL-U,2828-2,Potassium [Moles/volume] in Urine,LABTRAIN
+Kalium de.,Bloed Veneus,mmol/L,CKAL;BL,CKAL-BL,39789-3,Potassium [Moles/volume] in Venous blood,LABTRAIN
+KALIUM - BLOEDGAS VEN. (AMC),Bloed,mmol/L,CKAL-BL_VEN,CKAL-BL_VEN,39789-3,Potassium [Moles/volume] in Venous blood,AMC LAB LABTRAIN
+Kalium DE.,Bloed Veneus,mmol/L,DKAL;BL,DKAL-BL,39789-3,Potassium [Moles/volume] in Venous blood,LABTRAIN
+KALIUM - BLOEDGAS VEN. (AMC),Bloed,mmol/L,DKAL-BL_VEN,DKAL-BL_VEN,39789-3,Potassium [Moles/volume] in Venous blood,AMC LAB LABTRAIN
+KALIUM - BLOEDGAS VEN. (AMC),,mmol/L,DKAL-BL_VEN,DKAL-BL_VEN,39789-3,Potassium [Moles/volume] in Venous blood,AMC LAB LABTRAIN
+K (onv.ISE),Bloed Veneus,mmol/L,K_KA_HB,K_KA_HB,39789-3,Potassium [Moles/volume] in Venous blood,GLIMS
+K (ONV.ISE) VEN. VUMC,Bloed,mmol/L,K_KA_VEN,K_KA_VEN,39789-3,Potassium [Moles/volume] in Venous blood,VUMC LAB GLIMS
+K (onv.ISE),Bloed Veneus,mmol/L,P_KA_HB,P_KA_HB,39789-3,Potassium [Moles/volume] in Venous blood,GLIMS
+Kalium (RKAL),Bloed Veneus,mmol/L,RKAL;BL,RKAL-BL,39789-3,Potassium [Moles/volume] in Venous blood,LABTRAIN
+K (ONV.ISE) VEN. VUMC,Bloed,mmol/L,P_KA_VEN,P_KA_VEN,39789-3,Potassium [Moles/volume] in Venous blood,VUMC LAB GLIMS
+K (ONV.ISE) VEN. VUMC,,mmol/L,P_KA_VEN,P_KA_VEN,39789-3,Potassium [Moles/volume] in Venous blood,VUMC LAB GLIMS
+Procalcitoni,Bloed,µg/L,CCTP;BL,CCTP-BL,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,LABTRAIN
+Procalcitonine,Bloed,ug/L,K_PCT_HP,K_PCT_HP,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,GLIMS
+Procalcitonine,Bloed,µg/L,PCCT;BL,PCCT-BL,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,LABTRAIN
+PRO - MONOCYTEN % (BEENMERG) AMC,Beenmerg,%,SPMONBMP-BM,SPMONBMP-BM,11122-9,Promonocytes/100 cells in Bone marrow by Manual count,AMC LAB LABTRAIN
+TOTAAL EIWIT (URINE VERZAMELD),,g/24u,K_TE_UV,K_TE_UV,2889-4,Protein [Mass/time] in 24 hour Urine,VUMC LAB GLIMS
+TOTAAL EIWIT (URINE VERZAMELD),Urine,g/24u,K_TE_UV,K_TE_UV,2889-4,Protein [Mass/time] in 24 hour Urine,VUMC LAB GLIMS
+TOT.EIW.HOEV (U),Urine,g/vzm,TOEH-U,TOEH-U,2889-4,Protein [Mass/time] in 24 hour Urine,AMC LAB LABTRAIN
+TOT.EIW.HOEV (U),Verzamel Urine,g/vzm,TOEH-U,TOEH-U,2889-4,Protein [Mass/time] in 24 hour Urine,AMC LAB LABTRAIN
+TOTAAL EIWIT (URINE),Verzamel Urine,g/L,K_TE_UR,K_TE_UR,21482-5,Protein [Mass/volume] in 24 hour Urine,VUMC LAB GLIMS
+TOT.EIWIT (U),Verzamel Urine,g/L,UTE-U,UTE-U,21482-5,Protein [Mass/volume] in 24 hour Urine,AMC LAB LABTRAIN
+EIWIT TOTAAL (VOCHT) (AMC),Overig,g/L,RTE-O,RTE-O,2881-1,Protein [Mass/volume] in Body fluid,AMC LAB LABTRAIN
+EIWIT MG/L (LIQUOR),Bloed,mg/L,K_CFP_LI,K_CFP_LI,2880-3,Protein [Mass/volume] in Cerebral spinal fluid,VUMC LAB GLIMS
+EIWIT MG/L (LIQUOR),Liquor,mg/L,K_CFP_LI,K_CFP_LI,2880-3,Protein [Mass/volume] in Cerebral spinal fluid,VUMC LAB GLIMS
+EIWIT MG/L (LIQUOR),,mg/L,K_CFP_LI,K_CFP_LI,2880-3,Protein [Mass/volume] in Cerebral spinal fluid,VUMC LAB GLIMS
+EIWIT G/L (LIQUOR),,g/L,K_CFPBer_LI,K_CFPBer_LI,2880-3,Protein [Mass/volume] in Cerebral spinal fluid,VUMC LAB GLIMS
+EIWIT G/L (LIQUOR),Liquor,g/L,K_CFPBer_LI,K_CFPBer_LI,2880-3,Protein [Mass/volume] in Cerebral spinal fluid,VUMC LAB GLIMS
+TOT.EIWIT,Liquor,g/L,LTE-L,LTE-L,2880-3,Protein [Mass/volume] in Cerebral spinal fluid,AMC LAB LABTRAIN
+TOTAAL EIWIT (LIQUOR) AMC,Liquor,mg/L,TOEIL-L,TOEIL-L,2880-3,Protein [Mass/volume] in Cerebral spinal fluid,AMC LAB LABTRAIN
+TOTAAL EIWIT (DIALYSAAT),Dialysaat,g/L,K_TE_DI,K_TE_DI,5920-4,Protein [Mass/volume] in Dialysis fluid,VUMC LAB GLIMS
+TOTAAL EIWIT (DIALYSAAT),Dialysaat verzamel,g/L,K_TE_DI,K_TE_DI,5920-4,Protein [Mass/volume] in Dialysis fluid,VUMC LAB GLIMS
+TOT.EIWIT (U),Dialysaat,g/L,UTE-B,UTE-B,5920-4,Protein [Mass/volume] in Dialysis fluid,AMC LAB LABTRAIN
+TOTAAL EIWIT (ASCITESVOCHT),Ascitesvocht,g/L,K_TE_AS,K_TE_AS,2883-7,Protein [Mass/volume] in Peritoneal fluid,VUMC LAB GLIMS
+TOTAAL EIWIT (ASCITESVOCHT),,g/L,K_TE_AS,K_TE_AS,2883-7,Protein [Mass/volume] in Peritoneal fluid,VUMC LAB GLIMS
+TOTAAL EIWIT (PLEURAVOCHT),Pleurapunctaat,g/L,K_TE_PP,K_TE_PP,2882-9,Protein [Mass/volume] in Pleural fluid,VUMC LAB GLIMS
+SERUM TOTAAL EIWIT,Bloed,g/L,K_STE_SR,K_STE_SR,2885-2,Protein [Mass/volume] in Serum or Plasma,VUMC LAB GLIMS
+SERUM TOTAAL EIWIT,,g/L,K_STE_SR,K_STE_SR,2885-2,Protein [Mass/volume] in Serum or Plasma,VUMC LAB GLIMS
+PLS.TOTAAL EIWIT,Bloed,g/L,K_TE_HP,K_TE_HP,2885-2,Protein [Mass/volume] in Serum or Plasma,VUMC LAB GLIMS
+PLS.TOTAAL EIWIT,,g/L,K_TE_HP,K_TE_HP,2885-2,Protein [Mass/volume] in Serum or Plasma,VUMC LAB GLIMS
+EIWIT TOTAAL (PLASMA) (AMC),Bloed,g/L,RTE-BL,RTE-BL,2885-2,Protein [Mass/volume] in Serum or Plasma,AMC LAB LABTRAIN
+TOTAAL EIWIT (URINE),,g/L,K_TE_UR,K_TE_UR,2888-6,Protein [Mass/volume] in Urine,VUMC LAB GLIMS
+TOTAAL EIWIT (URINE),Urine,g/L,K_TE_UR,K_TE_UR,2888-6,Protein [Mass/volume] in Urine,VUMC LAB GLIMS
+TOT.EIWIT (U),Urine,g/L,UTE-U,UTE-U,2888-6,Protein [Mass/volume] in Urine,AMC LAB LABTRAIN
+EIWIT KWAL (URINE),Bloed,,K_EIW_UR,K_EIW_UR,57735-3,Protein [Presence] in Urine by Automated test strip,VUMC LAB GLIMS
+EIWIT KWAL (URINE),,,K_EIW_UR,K_EIW_UR,57735-3,Protein [Presence] in Urine by Automated test strip,VUMC LAB GLIMS
+EIWIT KWAL (URINE),Urine,,K_EIW_UR,K_EIW_UR,57735-3,Protein [Presence] in Urine by Automated test strip,VUMC LAB GLIMS
+EIWIT KWAL (URINE) POCT,,,P_EIW_UR,P_EIW_UR,57735-3,Protein [Presence] in Urine by Automated test strip,VUMC LAB GLIMS
+EIWIT KWAL (URINE) POCT,Urine,,P_EIW_UR,P_EIW_UR,57735-3,Protein [Presence] in Urine by Automated test strip,VUMC LAB GLIMS
+TOTAAL EIWIT/KREATININE RATIO (URINE) VUMC,Verzamel Urine,mg/mmol,K_TEKR,K_TEKR,40486-3,Protein/Creatinine [Ratio] in 24 hour Urine,VUMC LAB GLIMS
+TOTAAL EIWIT/KREATININE RATIO (URINE) VUMC,,mg/mmol,K_TEKR,K_TEKR,34366-5,Protein/Creatinine [Ratio] in Urine,VUMC LAB GLIMS
+TOTAAL EIWIT/KREATININE RATIO (URINE) VUMC,Urine,mg/mmol,K_TEKR,K_TEKR,34366-5,Protein/Creatinine [Ratio] in Urine,VUMC LAB GLIMS
+TotEiw/Kreat berekening,Urine,mg/mmol kreat,TotEiw/Kreat berekening;U,TotEiw/Kreat berekening-U,34366-5,Protein/Creatinine [Ratio] in Urine,LABTRAIN
+TotEiw/Kreat berekening,Urine Vragen om afname informatie,mg/mmol kreat,TotEiw/Kreat berekening;U,TotEiw/Kreat berekening-U,34366-5,Protein/Creatinine [Ratio] in Urine,LABTRAIN
+TotEiwit/Kreat ratio,Urine,mg/mmol,K_TEKR,K_TEKR,34366-5,Protein/Creatinine [Ratio] in Urine,GLIMS
+Prothrombinetijd sec,Bloed,s,H_PT_BL,H_PT_BL,5902-2,Prothrombin time (PT),GLIMS
+PT VUMC,Bloed,s,H_PT_BL,H_PT_BL,5902-2,Prothrombin time (PT),VUMC LAB GLIMS
+PT VUMC,,s,H_PT_BL,H_PT_BL,5902-2,Prothrombin time (PT),VUMC LAB GLIMS
+PT,Bloed,sec.,SPT-BL,SPT-BL,5902-2,Prothrombin time (PT),AMC LAB LABTRAIN
+PT,Bloed,Seconde,SPT;BL,SPT-BL,5902-2,Prothrombin time (PT),LABTRAIN
+Segmenten,Bloed,x10e9/L,H_HSGA_beenmerg_EB,H_HSGA_beenmerg_EB,30451-9,Segmented neutrophils [#/volume] in Blood,GLIMS
+Segmenten#,Bloed,10E9/L,HSEG#;BL,HSEG#-BL,30451-9,Segmented neutrophils [#/volume] in Blood,LABTRAIN
+Segmenten,Bloed,x10e9/L,K_HSGA_EB,K_HSGA_EB,30451-9,Segmented neutrophils [#/volume] in Blood,GLIMS
+Segmenten %,Bloed,%,H_HSG_beenmerg_EB,H_HSG_beenmerg_EB,26505-8,Segmented neutrophils/100 leukocytes in Blood,GLIMS
+Segmenten (HSEG),Bloed,%,HSEG;BL,HSEG-BL,26505-8,Segmented neutrophils/100 leukocytes in Blood,LABTRAIN
+Segmenten,Bloed,%,SSEG;BL,SSEG-BL,26505-8,Segmented neutrophils/100 leukocytes in Blood,LABTRAIN
+Natrium,Feces verzameld,mmol/L,K_NA_FA,K_NA_FA,27419-1,Sodium [Moles/time] in 24 hour Stool,GLIMS
+Natrium,Feces,mmol/24u,K_NA_FV,K_NA_FV,27419-1,Sodium [Moles/time] in 24 hour Stool,GLIMS
+NATRIUM (URINE VERZAMELD),,mmol/24u,K_NA_UV,K_NA_UV,2956-1,Sodium [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+NATRIUM (URINE VERZAMELD),Urine,mmol/24u,K_NA_UV,K_NA_UV,2956-1,Sodium [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+Natrium,Urine,mmol/24u,K_NA_UV,K_NA_UV,2956-1,Sodium [Moles/time] in 24 hour Urine,GLIMS
+NATRIUM HOEV (U),Urine,mmol/vzm,NATH-U,NATH-U,2956-1,Sodium [Moles/time] in 24 hour Urine,AMC LAB LABTRAIN
+NATRIUM HOEV (U),Verzamel Urine,mmol/vzm,NATH-U,NATH-U,2956-1,Sodium [Moles/time] in 24 hour Urine,AMC LAB LABTRAIN
+Natrium hoev.,Urine Vragen om afname informatie,mmol/vzm,UNATH;U,UNATH-U,2956-1,Sodium [Moles/time] in 24 hour Urine,LABTRAIN
+NATRIUM (URINE),Verzamel Urine,mmol/L,K_NA_UR,K_NA_UR,21525-1,Sodium [Moles/volume] in 24 hour Urine,VUMC LAB GLIMS
+NATRIUM (U),Verzamel Urine,mmol/L,UNAT-U,UNAT-U,21525-1,Sodium [Moles/volume] in 24 hour Urine,AMC LAB LABTRAIN
+Natrium DE.,Bloed Arterieel,mmol/L,CNAT;BL,CNAT-BL,32717-1,Sodium [Moles/volume] in Arterial blood,LABTRAIN
+NATRIUM - BLOEDGAS ART. (AMC),Bloed,mmol/L,CNAT-BL_ART,CNAT-BL_ART,32717-1,Sodium [Moles/volume] in Arterial blood,AMC LAB LABTRAIN
+Natrium DE.,Bloed Arterieel,mmol/L,DNAT;BL,DNAT-BL,32717-1,Sodium [Moles/volume] in Arterial blood,LABTRAIN
+NATRIUM - BLOEDGAS ART. (AMC),Bloed,mmol/L,DNAT-BL_ART,DNAT-BL_ART,32717-1,Sodium [Moles/volume] in Arterial blood,AMC LAB LABTRAIN
+NATRIUM - BLOEDGAS ART. (AMC),,mmol/L,DNAT-BL_ART,DNAT-BL_ART,32717-1,Sodium [Moles/volume] in Arterial blood,AMC LAB LABTRAIN
+NA (ONV.ISE) ART. VUMC,Bloed,mmol/L,K_NA_ART,K_NA_ART,32717-1,Sodium [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+NA (ONV.ISE) ART. VUMC,Bloedgas,mmol/L,K_NA_ART,K_NA_ART,32717-1,Sodium [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+Na (onv.ISE),Bloed Arterieel,mmol/L,K_NA_HB,K_NA_HB,32717-1,Sodium [Moles/volume] in Arterial blood,GLIMS
+Na (onv.ISE),Bloed Arterieel,mmol/L,P_NA_HB,P_NA_HB,32717-1,Sodium [Moles/volume] in Arterial blood,GLIMS
+Natrium (RNAT),Bloed Arterieel,mmol/L,RNAT;BL,RNAT-BL,32717-1,Sodium [Moles/volume] in Arterial blood,LABTRAIN
+NA (ONV.ISE) ART. VUMC,Bloed,mmol/L,P_NA_ART,P_NA_ART,32717-1,Sodium [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+NA (ONV.ISE) ART. VUMC,,mmol/L,P_NA_ART,P_NA_ART,32717-1,Sodium [Moles/volume] in Arterial blood,VUMC LAB GLIMS
+NATRIUM - BLOEDGAS,Bloed,mmol/L,CNAT-BL,CNAT-BL,2947-0,Sodium [Moles/volume] in Blood,AMC LAB LABTRAIN
+Na (onv.ISE),Bloed {<VVE},mmol/L,K_NA_HB,K_NA_HB,2947-0,Sodium [Moles/volume] in Blood,GLIMS
+Na (onv.ISE),Bloed Onbekend,mmol/L,K_NA_HB,K_NA_HB,2947-0,Sodium [Moles/volume] in Blood,GLIMS
+Na (onv.ISE),Bloed {<VVE},mmol/L,P_NA_HB,P_NA_HB,2947-0,Sodium [Moles/volume] in Blood,GLIMS
+Na (onv.ISE),Bloed Onbekend,mmol/L,P_NA_HB,P_NA_HB,2947-0,Sodium [Moles/volume] in Blood,GLIMS
+NA (ONV.ISE) POCT,,mmol/L,P_NA_HB,P_NA_HB,2947-0,Sodium [Moles/volume] in Blood,VUMC LAB GLIMS
+NA (ONV.ISE) POCT,Bloed,mmol/L,P_NA_HB,P_NA_HB,2947-0,Sodium [Moles/volume] in Blood,VUMC LAB GLIMS
+Natrium DE.,Bloed Capillair,mmol/L,CNAT;BL,CNAT-BL,39792-7,Sodium [Moles/volume] in Capillary blood,LABTRAIN
+Natrium DE.,Bloed Capillair vinger,mmol/L,CNAT;BL,CNAT-BL,39792-7,Sodium [Moles/volume] in Capillary blood,LABTRAIN
+Natrium DE.,Bloed Capillair,mmol/L,DNAT;BL,DNAT-BL,39792-7,Sodium [Moles/volume] in Capillary blood,LABTRAIN
+NATRIUM - BLOEDGAS CAP. (AMC),Bloed,mmol/L,DNAT-BL_CAP,DNAT-BL_CAP,39792-7,Sodium [Moles/volume] in Capillary blood,AMC LAB LABTRAIN
+Na (onv.ISE),Bloed Capillair,mmol/L,K_NA_HB,K_NA_HB,39792-7,Sodium [Moles/volume] in Capillary blood,GLIMS
+Na (onv.ISE),Bloed Capillair,mmol/L,P_NA_HB,P_NA_HB,39792-7,Sodium [Moles/volume] in Capillary blood,GLIMS
+Natrium (RNAT),Bloed Capillair vinger,mmol/L,RNAT;BL,RNAT-BL,39792-7,Sodium [Moles/volume] in Capillary blood,LABTRAIN
+NA (ONV.ISE) CAP. VUMC,,mmol/L,P_NA_CAP,P_NA_CAP,39792-7,Sodium [Moles/volume] in Capillary blood,VUMC LAB GLIMS
+Natrium (RNAT),Bloed Capillair,mmol/L,RNAT;BL,RNAT-BL,39792-7,Sodium [Moles/volume] in Capillary blood,LABTRAIN
+NATRIUM (DIALYSAAT),Dialysaat,mmol/L,K_NA_DI,K_NA_DI,2949-6,Sodium [Moles/volume] in Dialysis fluid,VUMC LAB GLIMS
+NATRIUM (DIALYSAAT),Dialysaat verzamel,mmol/L,K_NA_DI,K_NA_DI,2949-6,Sodium [Moles/volume] in Dialysis fluid,VUMC LAB GLIMS
+Natrium dialysaat,Dialysaat,mmol/L,K_NA_DI,K_NA_DI,2949-6,Sodium [Moles/volume] in Dialysis fluid,GLIMS
+Natrium (RNAT),Dialysaat,mmol/L,RNAT;B,RNAT-B,2949-6,Sodium [Moles/volume] in Dialysis fluid,LABTRAIN
+NATRIUM,Dialysaat,mmol/L,RNAT-B,RNAT-B,2949-6,Sodium [Moles/volume] in Dialysis fluid,AMC LAB LABTRAIN
+Natrium DE.,Bloed Mixed Veneus,mmol/L,CNAT;BL,CNAT-BL,41657-8,Sodium [Moles/volume] in Mixed venous blood,LABTRAIN
+Natrium DE.,Bloed Mixed Veneus,mmol/L,DNAT;BL,DNAT-BL,41657-8,Sodium [Moles/volume] in Mixed venous blood,LABTRAIN
+NATRIUM - BLOEDGAS GEM. VEN. (AMC),Bloed,mmol/L,DNAT-BL_MVEN,DNAT-BL_MVEN,41657-8,Sodium [Moles/volume] in Mixed venous blood,AMC LAB LABTRAIN
+NA (ONV.ISE) GEM. VEN. VUMC,Bloed,mmol/L,K_NA_GEMVEN,K_NA_GEMVEN,41657-8,Sodium [Moles/volume] in Mixed venous blood,VUMC LAB GLIMS
+Na (onv.ISE),Bloed Gemengd veneus,mmol/L,K_NA_HB,K_NA_HB,41657-8,Sodium [Moles/volume] in Mixed venous blood,GLIMS
+NA (ONV.ISE) GEM. VEN. VUMC,Bloed,mmol/L,P_NA_GEMVEN,P_NA_GEMVEN,41657-8,Sodium [Moles/volume] in Mixed venous blood,VUMC LAB GLIMS
+NA (ONV.ISE) GEM. VEN. VUMC,,mmol/L,P_NA_GEMVEN,P_NA_GEMVEN,41657-8,Sodium [Moles/volume] in Mixed venous blood,VUMC LAB GLIMS
+Na (onv.ISE),Bloed gem veneus,mmol/L,P_NA_HB,P_NA_HB,41657-8,Sodium [Moles/volume] in Mixed venous blood,GLIMS
+Na (onv.ISE),Bloed gem.ven,mmol/L,P_NA_HB,P_NA_HB,41657-8,Sodium [Moles/volume] in Mixed venous blood,GLIMS
+Na (onv.ISE),Bloed Gemengd veneus,mmol/L,P_NA_HB,P_NA_HB,41657-8,Sodium [Moles/volume] in Mixed venous blood,GLIMS
+Natrium (RNAT),Bloed Mixed Veneus,mmol/L,RNAT;BL,RNAT-BL,41657-8,Sodium [Moles/volume] in Mixed venous blood,LABTRAIN
+Na (onv.ISE),Bloed gemend veneus,mmol/L,P_NA_HB,P_NA_HB,41657-8,Sodium [Moles/volume] in Mixed venous blood,GLIMS
+Natrium DE.,Bloed,mmol/L,CNAT;BL,CNAT-BL,2951-2,Sodium [Moles/volume] in Serum or Plasma,LABTRAIN
+Natrium DE.,Bloed,mmol/L,DNAT;BL,DNAT-BL,2951-2,Sodium [Moles/volume] in Serum or Plasma,LABTRAIN
+NA (ONV.ISE),Bloed,mmol/L,K_NA_HB,K_NA_HB,2951-2,Sodium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Na (onv.ISE),Bloed,mmol/L,K_NA_HB,K_NA_HB,2951-2,Sodium [Moles/volume] in Serum or Plasma,GLIMS
+NA (ONV.ISE),,,K_NA_HB,K_NA_HB,2951-2,Sodium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+NA (ONV.ISE),,mmol/L,K_NA_HB,K_NA_HB,2951-2,Sodium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+NATRIUM,Bloed,mmol/L,K_NA_HP,K_NA_HP,2951-2,Sodium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Natrium,Bloed,mmol/L,K_NA_HP,K_NA_HP,2951-2,Sodium [Moles/volume] in Serum or Plasma,GLIMS
+NATRIUM,Bloed,,K_NA_HP,K_NA_HP,2951-2,Sodium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+NATRIUM,,mmol/L,K_NA_HP,K_NA_HP,2951-2,Sodium [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Na (onv.ISE),Bloed,mmol/L,P_NA_HB,P_NA_HB,2951-2,Sodium [Moles/volume] in Serum or Plasma,GLIMS
+Natrium (RNAT),Bloed,mmol/L,RNAT;BL,RNAT-BL,2951-2,Sodium [Moles/volume] in Serum or Plasma,LABTRAIN
+Natrium (RNAT),Bloed Vragen om afname informatie,mmol/L,RNAT;BL,RNAT-BL,2951-2,Sodium [Moles/volume] in Serum or Plasma,LABTRAIN
+Natrium (RNAT),Bloed Vragen om afname informatie;Capillair,mmol/L,RNAT;BL,RNAT-BL,2951-2,Sodium [Moles/volume] in Serum or Plasma,LABTRAIN
+NATRIUM,Bloed,mmol/L,RNAT-BL,RNAT-BL,2951-2,Sodium [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+Natrium,Faeces,mmol/L,FNAT;F,FNAT-F,15207-4,Sodium [Moles/volume] in Stool,LABTRAIN
+NATRIUM,Feces,mmol/L,FNAT-F,FNAT-F,15207-4,Sodium [Moles/volume] in Stool,AMC LAB LABTRAIN
+Natrium,Feces,mmol/L,K_NA_FA,K_NA_FA,15207-4,Sodium [Moles/volume] in Stool,GLIMS
+NATRIUM (URINE),Bloed,mmol/L,K_NA_UR,K_NA_UR,2955-3,Sodium [Moles/volume] in Urine,VUMC LAB GLIMS
+NATRIUM (URINE),,mmol/L,K_NA_UR,K_NA_UR,2955-3,Sodium [Moles/volume] in Urine,VUMC LAB GLIMS
+NATRIUM (URINE),Urine,mmol/L,K_NA_UR,K_NA_UR,2955-3,Sodium [Moles/volume] in Urine,VUMC LAB GLIMS
+Natrium,Urine,mmol/L,K_NA_UR,K_NA_UR,2955-3,Sodium [Moles/volume] in Urine,GLIMS
+Natrium (U),Urine,mmol/L,UNAT;U,UNAT-U,2955-3,Sodium [Moles/volume] in Urine,LABTRAIN
+Natrium (U),Urine Vragen om afname informatie,mmol/L,UNAT;U,UNAT-U,2955-3,Sodium [Moles/volume] in Urine,LABTRAIN
+NATRIUM (U),Urine,mmol/L,UNAT-U,UNAT-U,2955-3,Sodium [Moles/volume] in Urine,AMC LAB LABTRAIN
+Natrium (U),"Urine Vragen om afname informatie;Afnemen in medium,verkrijgbaar op B1-209,tst:62429",mmol/L,UNAT;U,UNAT-U,2955-3,Sodium [Moles/volume] in Urine,LABTRAIN
+Natrium (U),Urine Vragen om afname informatie;Arterieel,mmol/L,UNAT;U,UNAT-U,2955-3,Sodium [Moles/volume] in Urine,LABTRAIN
+Natrium (U),Urine Vragen om afname informatie;Arterielijn,mmol/L,UNAT;U,UNAT-U,2955-3,Sodium [Moles/volume] in Urine,LABTRAIN
+Natrium DE.,Bloed Veneus,mmol/L,CNAT;BL,CNAT-BL,39791-9,Sodium [Moles/volume] in Venous blood,LABTRAIN
+NATRIUM - BLOEDGAS VEN. (AMC),Bloed,mmol/L,CNAT-BL_VEN,CNAT-BL_VEN,39791-9,Sodium [Moles/volume] in Venous blood,AMC LAB LABTRAIN
+Natrium DE.,Bloed Veneus,mmol/L,DNAT;BL,DNAT-BL,39791-9,Sodium [Moles/volume] in Venous blood,LABTRAIN
+NATRIUM - BLOEDGAS VEN. (AMC),Bloed,mmol/L,DNAT-BL_VEN,DNAT-BL_VEN,39791-9,Sodium [Moles/volume] in Venous blood,AMC LAB LABTRAIN
+NATRIUM - BLOEDGAS VEN. (AMC),,mmol/L,DNAT-BL_VEN,DNAT-BL_VEN,39791-9,Sodium [Moles/volume] in Venous blood,AMC LAB LABTRAIN
+Na (onv.ISE),Bloed Veneus,mmol/L,K_NA_HB,K_NA_HB,39791-9,Sodium [Moles/volume] in Venous blood,GLIMS
+NA (ONV.ISE) VEN. VUMC,Bloed,mmol/L,K_NA_VEN,K_NA_VEN,39791-9,Sodium [Moles/volume] in Venous blood,VUMC LAB GLIMS
+Na (onv.ISE),Bloed Veneus,mmol/L,P_NA_HB,P_NA_HB,39791-9,Sodium [Moles/volume] in Venous blood,GLIMS
+Natrium (RNAT),Bloed Veneus,mmol/L,RNAT;BL,RNAT-BL,39791-9,Sodium [Moles/volume] in Venous blood,LABTRAIN
+NA (ONV.ISE) VEN. VUMC,Bloed,mmol/L,P_NA_VEN,P_NA_VEN,39791-9,Sodium [Moles/volume] in Venous blood,VUMC LAB GLIMS
+NA (ONV.ISE) VEN. VUMC,,mmol/L,P_NA_VEN,P_NA_VEN,39791-9,Sodium [Moles/volume] in Venous blood,VUMC LAB GLIMS
+THYREOGLOBULINE,Bloed,pmol/L,K_TG_SR,K_TG_SR,14918-7,Thyroglobulin [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+THYREOGLOBULINE,,pmol/L,K_TG_SR,K_TG_SR,14918-7,Thyroglobulin [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+THYREOGLOB.,Bloed,pmol/L,TG-BL,TG-BL,14918-7,Thyroglobulin [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+THYREOGLOBULINE (BLOED) AMC,Bloed,pmol/L,THYG-BL,THYG-BL,14918-7,Thyroglobulin [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+TSH,Bloed,mU/L,K_TSH_HP,K_TSH_HP,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,VUMC LAB GLIMS
+TSH,,mU/L,K_TSH_HP,K_TSH_HP,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,VUMC LAB GLIMS
+TSH VUMC,Bloed,mU/L,K_TSHD_HP,K_TSHD_HP,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,VUMC LAB GLIMS
+TSH,Bloed,mU/L,K_TSH_HP,K_TSH_HP,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,GLIMS
+TSH,Bloed,mE/L,TSHR;BL,TSHR-BL,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,LABTRAIN
+TSH (TSHD),Bloed,mE/L,TSHD;BL,TSHD-BL,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,LABTRAIN
+TSH alternatief,Bloed,mU/L,K_TSHa_SR,K_TSHa_SR,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,GLIMS
+TSH Diagnostisch (Indien afwijkend volgt FT4),Bloed,mU/L,K_TSHD_HP,K_TSHD_HP,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,GLIMS
+TSH oud,Bloed,mE/L,TSH1;BL,TSH1-BL,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,LABTRAIN
+TSH (TSH),Bloed,mE/L,TSH-BL,TSH-BL,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,AMC LAB LABTRAIN
+TSH (TSH),,mE/L,TSH-BL,TSH-BL,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,AMC LAB LABTRAIN
+TSH RECEPTOR ANTISTOFFEN VUMC,Bloed,IU/mL,K_TBII_SR,K_TBII_SR,40673-6,Thyrotropin binding inhibitory immunoglobulins [Units/volume] in Serum,VUMC LAB GLIMS
+TSH RECEPTOR ANTISTOF (BLOED) AMC,Bloed,E/L,TBII-BL,TBII-BL,40673-6,Thyrotropin binding inhibitory immunoglobulins [Units/volume] in Serum,AMC LAB LABTRAIN
+TSH RECEPTOR ANTISTOF (BLOED) AMC,Bloed,U/L,TBII-BL,TBII-BL,40673-6,Thyrotropin binding inhibitory immunoglobulins [Units/volume] in Serum,AMC LAB LABTRAIN
+TSH Receptor antistoffen,Bloed,IU/mL,K_TBII_SR,K_TBII_SR,40673-6,Thyrotropin binding inhibitory immunoglobulins [Units/volume] in Serum,GLIMS
+T4,Bloed,nmol/L,K_T4_HP,K_T4_HP,14921-1,Thyroxine (T4) [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+T4,,nmol/L,K_T4_HP,K_T4_HP,14921-1,Thyroxine (T4) [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+T4 VUMC,Bloed,nmol/L,K_T4TH_SR,K_T4TH_SR,14921-1,Thyroxine (T4) [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+THYROXINE (T4) AMC,Bloed,nmol/L,T4_totaal-BL,T4_totaal-BL,14921-1,Thyroxine (T4) [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+THYROXIN(T4),Bloed,nmol/L,T4-BL,T4-BL,14921-1,Thyroxine (T4) [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+T4,Bloed,nmol/L,K_T4_HP,K_T4_HP,83120-6,Thyroxine (T4) [Moles/volume] in Serum or Plasma by Immunoassay,GLIMS
+T4,Bloed,nmol/L,K_T4TH_SR,K_T4TH_SR,83120-6,Thyroxine (T4) [Moles/volume] in Serum or Plasma by Immunoassay,GLIMS
+Thyroxin (T4),Bloed,nmol/L,T4;BL,T4-BL,83120-6,Thyroxine (T4) [Moles/volume] in Serum or Plasma by Immunoassay,LABTRAIN
+VRIJ-T4,Bloed,pmol/L,K_FT4_HP,K_FT4_HP,14920-3,Thyroxine (T4) free [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+VRIJ-T4,,pmol/L,K_FT4_HP,K_FT4_HP,14920-3,Thyroxine (T4) free [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+VRIJ-T4 (ALT),Bloed,pmol/L,K_FT4a_HP,K_FT4a_HP,14920-3,Thyroxine (T4) free [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+VRIJ-T4 (ALT),,pmol/L,K_FT4a_HP,K_FT4a_HP,14920-3,Thyroxine (T4) free [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+VRIJ-T4 (ALT),,pmol/L,K_FT4a_SR,K_FT4a_SR,14920-3,Thyroxine (T4) free [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Vrij-T4,Bloed,pmol/L,K_FT4_HP,K_FT4_HP,14920-3,Thyroxine (T4) free [Moles/volume] in Serum or Plasma,GLIMS
+Vrij-T4 (alt),Bloed,pmol/L,K_FT4a_HP,K_FT4a_HP,14920-3,Thyroxine (T4) free [Moles/volume] in Serum or Plasma,GLIMS
+Free T4,Bloed,pmol/L,EFT4;BL,EFT4-BL,83121-4,Thyroxine (T4) free [Moles/volume] in Serum or Plasma by Immunoassay,LABTRAIN
+Free T4,Bloed,pmol/L,FT4;BL,FT4-BL,83121-4,Thyroxine (T4) free [Moles/volume] in Serum or Plasma by Immunoassay,LABTRAIN
+FREE T4,Bloed,pmol/L,FT4-BL,FT4-BL,83121-4,Thyroxine (T4) free [Moles/volume] in Serum or Plasma by Immunoassay,AMC LAB LABTRAIN
+Vrij-T4 (alt),Bloed,pmol/L,K_FT4a_SR,K_FT4a_SR,83121-4,Thyroxine (T4) free [Moles/volume] in Serum or Plasma by Immunoassay,GLIMS
+Transferrine,Bloed,g/L,K_TRF_HP,K_TRF_HP,98996-2,Transferrin [Mass/volume] in Serum or Plasma by Electrophoresis,GLIMS
+Transferrine,Bloed,g/L,K_TRF_SR,K_TRF_SR,98996-2,Transferrin [Mass/volume] in Serum or Plasma by Electrophoresis,GLIMS
+Transferrine (TRAR),Bloed,g/L,TRAR;BL,TRAR-BL,98996-2,Transferrin [Mass/volume] in Serum or Plasma by Electrophoresis,LABTRAIN
+TRIGLYCERIDE,Feces,g/24uur,ITRI-F,ITRI-F,77361-4,Triglyceride [Mass/time] in 24 hour Stool,AMC LAB LABTRAIN
+Triglyceride (ITRI),Faeces,g/24Uur,ITRI;F,ITRI-F,77361-4,Triglyceride [Mass/time] in 24 hour Stool,LABTRAIN
+Triglyceriden,Overig,mmol/L,K_TRGL_OV,K_TRGL_OV,29766-3,Triglyceride [Moles/volume] in Body fluid,GLIMS
+Triglyceride,Overige,mmol/L,RTRI;O,RTRI-O,29766-3,Triglyceride [Moles/volume] in Body fluid,LABTRAIN
+TRIGLYCERIDE,Overig,mmol/L,RTRI-O,RTRI-O,29766-3,Triglyceride [Moles/volume] in Body fluid,AMC LAB LABTRAIN
+Triglyceriden ascitesvocht,Ascitesvocht,mmol/L,K_TRGL_AS,K_TRGL_AS,66769-1,Triglyceride [Moles/volume] in Peritoneal fluid,GLIMS
+TRIGLYCERIDEN,Bloed,mmol/L,K_TRGL_HP,K_TRGL_HP,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+TRIGLYCERIDEN,,mmol/L,K_TRGL_HP,K_TRGL_HP,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Triglyceride,Bloed,mmol/L,RTRI;BL,RTRI-BL,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,LABTRAIN
+Triglyceriden,Bloed,mmol/L,K_TRGL_HP,K_TRGL_HP,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,GLIMS
+TRIGLYCERIDE,Bloed,mmol/L,RTRI-BL,RTRI-BL,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+T3 (TRI-JOODTHYRONINE) VUMC,Bloed,nmol/L,K_TJT3_SR,K_TJT3_SR,14930-2,Triiodothyronine (T3) [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+FREE T3,Bloed,pmol/L,FT3-BL,FT3-BL,14928-6,Triiodothyronine (T3) Free [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+VRIJ-T3,Bloed,pmol/L,K_FT3_SR,K_FT3_SR,14928-6,Triiodothyronine (T3) Free [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+VRIJ-T3,,pmol/L,K_FT3_SR,K_FT3_SR,14928-6,Triiodothyronine (T3) Free [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+T3 UPTAKE,Bloed,,T3UP-BL,T3UP-BL,3050-2,Triiodothyronine resin uptake (T3RU) in Serum or Plasma,AMC LAB LABTRAIN
+Troponine I,Bloed,ng/L,TROPI;BL,TROPI-BL,89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,LABTRAIN
+Troponine T (ETRO),Bloed,,ETRO;BL,ETRO-BL,6598-7,Troponin T.cardiac [Mass/volume] in Serum or Plasma,LABTRAIN
+TROPONINE T,Bloed,¶g/L,ETRO-BL,ETRO-BL,6598-7,Troponin T.cardiac [Mass/volume] in Serum or Plasma,AMC LAB LABTRAIN
+TroponineT STAT  oud  nog in ug/l,Bloed,ug/L,K_CTNSTAT_HP,K_CTNSTAT_HP,6598-7,Troponin T.cardiac [Mass/volume] in Serum or Plasma,GLIMS
+TROPONINET,Bloed,ug/L,K_CTNT_HP,K_CTNT_HP,6598-7,Troponin T.cardiac [Mass/volume] in Serum or Plasma,VUMC LAB GLIMS
+TroponineT,Bloed,ug/L,K_CTNT_HP,K_CTNT_HP,6598-7,Troponin T.cardiac [Mass/volume] in Serum or Plasma,GLIMS
+TROPONINET,,ug/L,K_CTNT_HP,K_CTNT_HP,6598-7,Troponin T.cardiac [Mass/volume] in Serum or Plasma,VUMC LAB GLIMS
+TroponineT hs,Bloed,ng/L,K_TNTHS_HP,K_TNTHS_HP,67151-1,Troponin T.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,GLIMS
+TROPONINET HS VUMC,Bloed,ng/L,K_TNTHS_HP,K_TNTHS_HP,67151-1,Troponin T.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,VUMC LAB GLIMS
+TROPONINET HS VUMC,,ng/L,K_TNTHS_HP,K_TNTHS_HP,67151-1,Troponin T.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,VUMC LAB GLIMS
+TROPONINET HS AMC,Bloed,ng/L,TNTHS-BL,TNTHS-BL,67151-1,Troponin T.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,AMC LAB LABTRAIN
+Troponine T (ETRO),Bloed Veneus,,ETRO;BL,ETRO-BL,6597-9,Troponin T.cardiac [Mass/volume] in Venous blood,LABTRAIN
+UREUM (URINE VERZAMELD),Urine,mmol/24u,K_UREUM_UV,K_UREUM_UV,25550-5,Urea [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+UREUM (URINE VERZAMELD),,mmol/24u,K_UREUM_UV,K_UREUM_UV,25550-5,Urea [Moles/time] in 24 hour Urine,VUMC LAB GLIMS
+Ureum,Urine,mmol/24u,K_UREUM_UV,K_UREUM_UV,25550-5,Urea [Moles/time] in 24 hour Urine,GLIMS
+Ureum hoev.,Urine Vragen om afname informatie,mmol/vzm,UUREH;U,UUREH-U,25550-5,Urea [Moles/time] in 24 hour Urine,LABTRAIN
+UREUM HOEV (U),Verzamel Urine,mmol/vzm,UREH-U,UREH-U,25550-5,Urea [Moles/time] in 24 hour Urine,AMC LAB LABTRAIN
+Ureum hoev.,Urine,mmol/vzm,UUREH;U,UUREH-U,25550-5,Urea [Moles/time] in 24 hour Urine,LABTRAIN
+Ureum hoev.,"Urine Vragen om afname informatie;Afnemen in medium,verkrijgbaar op B1-209,tst:62429",mmol/vzm,UUREH;U,UUREH-U,25550-5,Urea [Moles/time] in 24 hour Urine,LABTRAIN
+Ureum hoev.,Urine Vragen om afname informatie;Arterieel,mmol/vzm,UUREH;U,UUREH-U,25550-5,Urea [Moles/time] in 24 hour Urine,LABTRAIN
+UREUM (URINE),Verzamel Urine,mmol/L,K_UREUM_UR,K_UREUM_UR,25998-6,Urea [Moles/volume] in 24 hour Urine,VUMC LAB GLIMS
+UREUM HOEV (U),Urine,mmol/vzm,UREH-U,UREH-U,25998-6,Urea [Moles/volume] in 24 hour Urine,AMC LAB LABTRAIN
+UREUM (U),Verzamel Urine,mmol/L,UURE-U,UURE-U,25998-6,Urea [Moles/volume] in 24 hour Urine,AMC LAB LABTRAIN
+UREUM - DECENTRAAL ART. (AMC),Bloed,mmol/L,DUREU-BL_ART,DUREU-BL_ART,72927-7,Urea [Moles/volume] in Arterial blood,AMC LAB LABTRAIN
+Ureum (RURE),Bloed Arterieel,mmol/L,RURE;BL,RURE-BL,72927-7,Urea [Moles/volume] in Arterial blood,LABTRAIN
+Ureum,Overig,mmol/L,K_UREUM_OV,K_UREUM_OV,25549-7,Urea [Moles/volume] in Body fluid,GLIMS
+Ureum (RURE),Overige,mmol/L,RURE;O,RURE-O,25549-7,Urea [Moles/volume] in Body fluid,LABTRAIN
+UREUM  (DIALYSAAT),Dialysaat,mmol/L,K_UREUM_DI,K_UREUM_DI,45302-7,Urea [Moles/volume] in Dialysis fluid,VUMC LAB GLIMS
+Ureum dialysaat,Dialysaat,mmol/L,K_UREUM_DI,K_UREUM_DI,45302-7,Urea [Moles/volume] in Dialysis fluid,GLIMS
+Ureum (RURE),Dialysaat Vragen om afname informatie,mmol/L,RURE;B,RURE-B,45302-7,Urea [Moles/volume] in Dialysis fluid,LABTRAIN
+UREUM,Dialysaat,mmol/L,RURE-B,RURE-B,45302-7,Urea [Moles/volume] in Dialysis fluid,AMC LAB LABTRAIN
+Ureum (RURE),Dialysaat,mmol/L,RURE;B,RURE-B,45302-7,Urea [Moles/volume] in Dialysis fluid,LABTRAIN
+UREUM,,mmol/L,K_UR_HP,K_UR_HP,22664-7,Urea [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+UREUM,Bloed,mmol/L,K_UR_HP,K_UR_HP,22664-7,Urea [Moles/volume] in Serum or Plasma,VUMC LAB GLIMS
+Ureum,Bloed,mmol/L,K_UR_HP,K_UR_HP,22664-7,Urea [Moles/volume] in Serum or Plasma,GLIMS
+Ureum (RURE),Bloed,mmol/L,RURE;BL,RURE-BL,22664-7,Urea [Moles/volume] in Serum or Plasma,LABTRAIN
+UREUM,,mmol/L,RURE-BL,RURE-BL,22664-7,Urea [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+UREUM,Bloed,mmol/L,RURE-BL,RURE-BL,22664-7,Urea [Moles/volume] in Serum or Plasma,AMC LAB LABTRAIN
+UREUM (URINE),Urine,mmol/L,K_UREUM_UR,K_UREUM_UR,22700-9,Urea [Moles/volume] in Urine,VUMC LAB GLIMS
+UREUM (URINE),,mmol/L,K_UREUM_UR,K_UREUM_UR,22700-9,Urea [Moles/volume] in Urine,VUMC LAB GLIMS
+Ureum,Urine,mmol/L,K_UREUM_UR,K_UREUM_UR,22700-9,Urea [Moles/volume] in Urine,GLIMS
+Ureum (U),Urine,mmol/L,UURE;U,UURE-U,22700-9,Urea [Moles/volume] in Urine,LABTRAIN
+Ureum (U),Urine Vragen om afname informatie,mmol/L,UURE;U,UURE-U,22700-9,Urea [Moles/volume] in Urine,LABTRAIN
+UREUM (U),Urine,mmol/L,UURE-U,UURE-U,22700-9,Urea [Moles/volume] in Urine,AMC LAB LABTRAIN
+Ureum (U),"Urine Vragen om afname informatie;Afnemen in medium,verkrijgbaar op B1-209,tst:62429",mmol/L,UURE;U,UURE-U,22700-9,Urea [Moles/volume] in Urine,LABTRAIN
+Ureum (U),Urine Vragen om afname informatie;Arterieel,mmol/L,UURE;U,UURE-U,22700-9,Urea [Moles/volume] in Urine,LABTRAIN
+Ureum (RURE),Bloed Veneus,mmol/L,RURE;BL,RURE-BL,72926-9,Urea [Moles/volume] in Venous blood,LABTRAIN
+UREUMKLARING (URINE) AMC,Urine,mL/min,UREUKL-U,UREUKL-U,3098-1,Urea renal clearance in 24 hour Urine and Serum or Plasma,AMC LAB LABTRAIN
+UREUMKLARING (URINE) AMC,Verzamel Urine,mL/min,UREUKL-U,UREUKL-U,3098-1,Urea renal clearance in 24 hour Urine and Serum or Plasma,AMC LAB LABTRAIN
+LEUCOCYTEN CILINDER (URINE),,/veld,K_LEUC_UR,K_LEUC_UR,33228-8,WBC casts [#/area] in Urine by Computer assisted method,VUMC LAB GLIMS
+Alb-Fr,Bloed,g/L,K_ALF_SR,K_ALF_SR,,,GLIMS
+Alb.Liq.Ser.,Bloed,mg/L,ALBS;BL,ALBS-BL,,,LABTRAIN
+Albu-fractie (ALBF),Bloed,g/L,ALBF;BL,ALBF-BL,,,LABTRAIN
+Album.ratio,Liquor,10^-3,NALR;L,NALR-L,,,LABTRAIN
+Albumine (ALBI),Dialysaat,g/L,ALBI;B,ALBI-B,,,LABTRAIN
+Albumine (ALBI),Bloed Arterieel,g/L,ALBI;BL,ALBI-BL,,,LABTRAIN
+Albumine (ALBI),Bloed Capillair vinger,g/L,ALBI;BL,ALBI-BL,,,LABTRAIN
+Albumine (ALBI),Bloed Mixed Veneus,g/L,ALBI;BL,ALBI-BL,,,LABTRAIN
+Albumine (ALBI),Bloed Veneus,g/L,ALBI;BL,ALBI-BL,,,LABTRAIN
+Albumine (imm.),Bloed,g/L,K_ALBI_SR,K_ALBI_SR,,,GLIMS
+Albumine (imm.),Bloed,mg/L,K_ALBIEC_SR,K_ALBIEC_SR,,,GLIMS
+Albumine ratio,Liquor,0.01,K_ALBR,K_ALBR,,,GLIMS
+Can-Kreat ratio,Urine,ug/mmol,A_CAN_KRratio_UR,A_CAN_KRratio_UR,,,GLIMS
+Chol.tot/HDL,Bloed Veneus,,CHHO;BL,CHHO-BL,,,LABTRAIN
+Chol/HDL berekening,Bloed,,Chol/HDL berekening;BL,Chol/HDL berekening-BL,,,LABTRAIN
+CRP (CRPR),Bloed Mixed Veneus,mg/L,CRPR;BL,CRPR-BL,,,LABTRAIN
+eGFR (MDRD),Bloed Arterieel,,EGFR;BL,EGFR-BL,,,LABTRAIN
+eGFR (MDRD),Bloed Veneus,,EGFR;BL,EGFR-BL,,,LABTRAIN
+eGFR (MDRD),Bloed Vragen om afname informatie,,EGFR;BL,EGFR-BL,,,LABTRAIN
+Ferritine (EFER),Bloed Arterieel,µg/L,EFER;BL,EFER-BL,,,LABTRAIN
+Ferritine (EFER),Bloed Veneus,µg/L,EFER;BL,EFER-BL,,,LABTRAIN
+Fr.T4 index berekening,Bloed,,Fr.T4 index berekening;BL,Fr.T4 index berekening-BL,,,LABTRAIN
+fractie van Labiele fractie SA1c van HbA1,Bloed,%,K_LA1cP_EB,K_LA1cP_EB,,,GLIMS
+Free T4,Bloed Arterieel,pmol/L,EFT4;BL,EFT4-BL,,,LABTRAIN
+Free T4,Bloed Veneus,pmol/L,EFT4;BL,EFT4-BL,,,LABTRAIN
+Hb,Overig,mmol/L,K_HB_OV,K_HB_OV,,,GLIMS
+Hb A1,Bloed,%,H_HBA1_BL,H_HBA1_BL,,,GLIMS
+Hb A2,Bloed,%,H_HBA2_BL,H_HBA2_BL,,,GLIMS
+Hb ascitesvocht,Ascitesvocht,mmol/L,K_HB_AS,K_HB_AS,,,GLIMS
+Hb C,Bloed,%,H_HBC_BL,H_HBC_BL,,,GLIMS
+Hb Conclusie,Bloed,,H_HBCO_BL,H_HBCO_BL,,,GLIMS
+Hb E,Bloed,%,H_HBE_BL,H_HBE_BL,,,GLIMS
+Hb experimenteel,Overige,mmol/L,RHB;O,RHB-O,,,LABTRAIN
+Hb F,Bloed,%,H_HBF_BL,H_HBF_BL,,,GLIMS
+Hb pleuravocht,Pleurapunctaat,mmol/L,K_HB_PP,K_HB_PP,,,GLIMS
+Hb Variant,Bloed,%,H_HBV_BL,H_HBV_BL,,,GLIMS
+Hb-path Leiden routine,Bloed,,H_LUMC_Hbpath_rout_EB,H_LUMC_Hbpath_rout_EB,,,GLIMS
+Hb(v.Bgs),Bloed {<GMA},mmol/L,K_HB_HB,K_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed {<GES},mmol/L,K_HB_HB,K_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed {<GMO},mmol/L,K_HB_HB,K_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed {<MTWM},mmol/L,K_HB_HB,K_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed {<TWM},mmol/L,K_HB_HB,K_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed {<ZOP},mmol/L,K_HB_HB,K_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed Capillair,mmol/L,K_HB_HB,K_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed Gemengd veneus,mmol/L,K_HB_HB,K_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed Na Filter,mmol/L,K_HB_HB,K_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed Navel arterieel,mmol/L,K_HB_HB,K_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed Voor Filter,mmol/L,K_HB_HB,K_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed {<VIM},mmol/L,P_HB_HB,P_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed {<ZOP},mmol/L,P_HB_HB,P_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed Capillair,mmol/L,P_HB_HB,P_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed gem veneus,mmol/L,P_HB_HB,P_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed gem.ven,mmol/L,P_HB_HB,P_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed Gemengd veneus,mmol/L,P_HB_HB,P_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed M.B.O,mmol/L,P_HB_HB,P_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed Na Filter,mmol/L,P_HB_HB,P_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed Na-Filter,mmol/L,P_HB_HB,P_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed Navel arterieel,mmol/L,P_HB_HB,P_HB_HB,,,GLIMS
+Hb(v.Bgs),Bloed Voor Filter,mmol/L,P_HB_HB,P_HB_HB,,,GLIMS
+HbA1,Bloed,%,K_HBA1_EB,K_HBA1_EB,,,GLIMS
+HbA1 (HbA1),Bloed,%,HBA1;BL,HBA1-BL,,,LABTRAIN
+HbA1c alternatief,Bloed,mmol/mol,HbA1c_ALT;BL,HbA1c_ALT-BL,,,LABTRAIN
+HDL-chol.,Bloed Arterieel,mmol/L,RHDL;BL,RHDL-BL,,,LABTRAIN
+HDL-chol.,Bloed Capillair vinger,mmol/L,RHDL;BL,RHDL-BL,,,LABTRAIN
+HDL-chol.,Bloed Veneus,mmol/L,RHDL;BL,RHDL-BL,,,LABTRAIN
+Hemoglob. nc,Bloed Mixed Veneus,mmol/L,CIHB;BL,CIHB-BL,,,LABTRAIN
+Hemoglob. nc (DEHB),Bloed Mixed Veneus,mmol/L,DEHB;BL,DEHB-BL,,,LABTRAIN
+Hemoglobine (HHB),Bloed Capillair vinger,mmol/L,HHB;BL,HHB-BL,,,LABTRAIN
+Hemoglobine (HHB),Bloed Mixed Veneus,mmol/L,HHB;BL,HHB-BL,,,LABTRAIN
+Hemoglobine (HHB),Bloed Vragen om afname informatie,mmol/L,HHB;BL,HHB-BL,,,LABTRAIN
+Hemoglobine (HHB),Overige,mmol/L,HHB;O,HHB-O,,,LABTRAIN
+Hemoglobine (Liq),Liquor,umol/L,K_HB_LI,K_HB_LI,,,GLIMS
+Hemoglobine A1a fractie van HbA1,Bloed,%,K_A1aP_EB,K_A1aP_EB,,,GLIMS
+Hemoglobine A1b fractie van HbA1,Bloed,%,K_A1bP_EB,K_A1bP_EB,,,GLIMS
+Hemoglobine fractie A0 van HbA,Bloed,%,K_A0P_EB,K_A0P_EB,,,GLIMS
+Hemoglobine Variant percentage van HbA1,Bloed,%,K_HVARP_EB,K_HVARP_EB,,,GLIMS
+Hemoglobuline-stick (decentraal),Urine,geen,DUHES;U,DUHES-U,,,LABTRAIN
+K (onv.ISE),Bloed {<GES},mmol/L,K_KA_HB,K_KA_HB,,,GLIMS
+K (onv.ISE),Bloed {<GMA},mmol/L,K_KA_HB,K_KA_HB,,,GLIMS
+K (onv.ISE),Bloed {<GMO},mmol/L,K_KA_HB,K_KA_HB,,,GLIMS
+K (onv.ISE),Bloed {<MTWM},mmol/L,K_KA_HB,K_KA_HB,,,GLIMS
+K (onv.ISE),Bloed {<TWM},mmol/L,K_KA_HB,K_KA_HB,,,GLIMS
+K (onv.ISE),Bloed {<VVE},mmol/L,K_KA_HB,K_KA_HB,,,GLIMS
+K (onv.ISE),Bloed {<ZOP},mmol/L,K_KA_HB,K_KA_HB,,,GLIMS
+K (onv.ISE),Bloed Na Filter,mmol/L,K_KA_HB,K_KA_HB,,,GLIMS
+K (onv.ISE),Bloed Navel veneus,mmol/L,K_KA_HB,K_KA_HB,,,GLIMS
+K (onv.ISE),Bloed Voor Filter,mmol/L,K_KA_HB,K_KA_HB,,,GLIMS
+K (onv.ISE),Bloed {<VIM},mmol/L,P_KA_HB,P_KA_HB,,,GLIMS
+K (onv.ISE),Bloed {<ZOP},mmol/L,P_KA_HB,P_KA_HB,,,GLIMS
+K (onv.ISE),Bloed M.B.O,mmol/L,P_KA_HB,P_KA_HB,,,GLIMS
+K (onv.ISE),Bloed Na Filter,mmol/L,P_KA_HB,P_KA_HB,,,GLIMS
+K (onv.ISE),Bloed Na-Filter,mmol/L,P_KA_HB,P_KA_HB,,,GLIMS
+K (onv.ISE),Bloed Navel arterieel,mmol/L,P_KA_HB,P_KA_HB,,,GLIMS
+K (onv.ISE),Bloed Navel veneus,mmol/L,P_KA_HB,P_KA_HB,,,GLIMS
+K (onv.ISE),Bloed Voor Filter,mmol/L,P_KA_HB,P_KA_HB,,,GLIMS
+Kalium (RKAL),Bloed Arm,mmol/L,RKAL;BL,RKAL-BL,,,LABTRAIN
+Kalium (RKAL),Bloed Nevirapine:,mmol/L,RKAL;BL,RKAL-BL,,,LABTRAIN
+Kalium bep.supernatant,Feces,mmol/L,K_KAbep_FA,K_KAbep_FA,,,GLIMS
+Kalium de.,Bloed Arterieel;Veneus,mmol/L,CKAL;BL,CKAL-BL,,,LABTRAIN
+Kreat onteiwit (KRO),Bloed Arterieel,µmol/L,KRO;BL,KRO-BL,,,LABTRAIN
+Kreat onteiwit (KRO),Bloed Veneus,µmol/L,KRO;BL,KRO-BL,,,LABTRAIN
+Kreat onteiwit (KRO),Bloed,µmol/L,KRO;BL,KRO-BL,,,LABTRAIN
+Kreatinine,Dry Blood Spot,umol/L,A_KR_DB,A_KR_DB,,,GLIMS
+Kreatinine,Bloed Arterieel,µmol/L,RKRE;BL,RKRE-BL,,,LABTRAIN
+Kreatinine,Bloed Arterielijn,µmol/L,RKRE;BL,RKRE-BL,,,LABTRAIN
+Kreatinine,Bloed Capillair vinger,µmol/L,RKRE;BL,RKRE-BL,,,LABTRAIN
+Kreatinine,Bloed Mixed Veneus,µmol/L,RKRE;BL,RKRE-BL,,,LABTRAIN
+Kreatinine,Bloed Nevirapine:,µmol/L,RKRE;BL,RKRE-BL,,,LABTRAIN
+Kreatinine,Bloed Veneus,µmol/L,RKRE;BL,RKRE-BL,,,LABTRAIN
+Kreatinine,Bloed Vragen om afname informatie,µmol/L,RKRE;BL,RKRE-BL,,,LABTRAIN
+Kreatinine berekend,Bloed,umol/L,K_KRB_HP,K_KRB_HP,,,GLIMS
+LDL-chol.,Bloed Arterieel,mmol/L,RLDL;BL,RLDL-BL,,,LABTRAIN
+LDL-chol.,Bloed Capillair vinger,mmol/L,RLDL;BL,RLDL-BL,,,LABTRAIN
+LDL-chol.,Bloed Veneus,mmol/L,RLDL;BL,RLDL-BL,,,LABTRAIN
+Micro-albumine dialysaat,Dialysaat,mg/L,K_MALB_DI,K_MALB_DI,,,GLIMS
+Na (onv.ISE),Bloed {<GES},mmol/L,K_NA_HB,K_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed {<GMA},mmol/L,K_NA_HB,K_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed {<GMO},mmol/L,K_NA_HB,K_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed {<MTWM},mmol/L,K_NA_HB,K_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed {<TWM},mmol/L,K_NA_HB,K_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed {<VVE},mmol/L,K_NA_HB,K_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed {<ZOP},mmol/L,K_NA_HB,K_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed Na Filter,mmol/L,K_NA_HB,K_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed Navel veneus,mmol/L,K_NA_HB,K_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed Voor Filter,mmol/L,K_NA_HB,K_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed {<VIM},mmol/L,P_NA_HB,P_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed {<ZOP},mmol/L,P_NA_HB,P_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed M.B.O,mmol/L,P_NA_HB,P_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed Na Filter,mmol/L,P_NA_HB,P_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed Na-Filter,mmol/L,P_NA_HB,P_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed Navel arterieel,mmol/L,P_NA_HB,P_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed Navel veneus,mmol/L,P_NA_HB,P_NA_HB,,,GLIMS
+Na (onv.ISE),Bloed Voor Filter,mmol/L,P_NA_HB,P_NA_HB,,,GLIMS
+Natrium (RNAT),Bloed Arm,mmol/L,RNAT;BL,RNAT-BL,,,LABTRAIN
+Natrium (RNAT),Bloed Nevirapine:,mmol/L,RNAT;BL,RNAT-BL,,,LABTRAIN
+Natrium (RNAT),Overige,mmol/L,RNAT;O,RNAT-O,,,LABTRAIN
+Natrium bep.supernatant,Feces,mmol/L,K_NAbep_FA,K_NAbep_FA,,,GLIMS
+t4;11pBALL,Beenmerg,geen,P030;BM,P030-BM,,,LABTRAIN
+Totaal chol.,Bloed Arterieel,mmol/L,RCHO;BL,RCHO-BL,,,LABTRAIN
+Totaal chol.,Bloed Capillair vinger,mmol/L,RCHO;BL,RCHO-BL,,,LABTRAIN
+Totaal chol.,Bloed Veneus,mmol/L,RCHO;BL,RCHO-BL,,,LABTRAIN
+totale hemoglobine A1 fractie van HbA,Bloed,%,K_A1TP_EB,K_A1TP_EB,,,GLIMS
+Transferrine (TRAR),Bloed Arterieel,g/L,TRAR;BL,TRAR-BL,,,LABTRAIN
+Transferrine (TRAR),Bloed Veneus,g/L,TRAR;BL,TRAR-BL,,,LABTRAIN
+Triglyceride,Bloed Arterieel,mmol/L,RTRI;BL,RTRI-BL,,,LABTRAIN
+Triglyceride,Bloed Capillair vinger,mmol/L,RTRI;BL,RTRI-BL,,,LABTRAIN
+Triglyceride,Bloed Veneus,mmol/L,RTRI;BL,RTRI-BL,,,LABTRAIN
+Triglyceride,Bloed Vragen om afname informatie,mmol/L,RTRI;BL,RTRI-BL,,,LABTRAIN
+Triglyceride,Overige Drain Thorax,mmol/L,RTRI;O,RTRI-O,,,LABTRAIN
+Triglyceriden drainvocht,Drainvocht,mmol/L,K_TRGL_DR,K_TRGL_DR,,,GLIMS
+Troponine T (ETRO),Bloed Arterieel,,ETRO;BL,ETRO-BL,,,LABTRAIN
+TSH,Bloed Arterieel,mE/L,TSHR;BL,TSHR-BL,,,LABTRAIN
+TSH,Bloed Capillair vinger,mE/L,TSHR;BL,TSHR-BL,,,LABTRAIN
+TSH,Bloed Veneus,mE/L,TSHR;BL,TSHR-BL,,,LABTRAIN
+TSH (TSHD),Bloed Arterieel,mE/L,TSHD;BL,TSHD-BL,,,LABTRAIN
+TSH (TSHD),Bloed Veneus,mE/L,TSHD;BL,TSHD-BL,,,LABTRAIN
+TSH Receptor antistoffen,Bloed,,K_TSHRA_SR,K_TSHRA_SR,,,GLIMS
+TSH Receptor interpretatie,Bloed,,K_TBIII_SR,K_TBIII_SR,,,GLIMS
+Ureum (RURE),Bloed Vragen om afname informatie,mmol/L,RURE;BL,RURE-BL,,,LABTRAIN
+Ureum (RURE),Bloed Capillair vinger,mmol/L,RURE;BL,RURE-BL,,,LABTRAIN
+Ureum (RURE),Bloed Mixed Veneus,mmol/L,RURE;BL,RURE-BL,,,LABTRAIN
+Ureum (RURE),Bloed Nevirapine:,mmol/L,RURE;BL,RURE-BL,,,LABTRAIN
+Yzerverz.,Bloed Arterieel,geen,RYZV;BL,RYZV-BL,,,LABTRAIN
+Yzerverz.%,Bloed Arterieel,,RYZV%;BL,RYZV%-BL,,,LABTRAIN
+Yzerverz.%,Bloed Veneus,,RYZV%;BL,RYZV%-BL,,,LABTRAIN
+#EOSINOFIEL (DIALYSAAT),Dialysaat,10E9/L,OEOA-B,,,,AMC LAB LABTRAIN
+AF OV FR.,,%,K_OV_SR,,,,VUMC LAB GLIMS
+ALAT(SGPT),Bloed Arterieel,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Atazanavir:,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Atazanavir:;Darunavir:,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Atazanavir:;Lopinavir:,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Bloed,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Capillair,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Capillair vinger,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Centraal veneus,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Darunavir:,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Efavirenz:,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Lopinavir:,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Mixed Veneus,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Nevirapine:,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Vragen om afname informatie,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Vragen om afname informatie;Capillair,U/L 37C,RPT;BL,,,,LABTRAIN
+ALAT(SGPT),Bloed Vragen om afname informatie;Darunavir:,U/L 37C,RPT;BL,,,,LABTRAIN
+ALB-FR,Bloed,g/L,K_ALF_SR,,,,VUMC LAB GLIMS
+ALBUMINE (IMM.),Bloed,g/L,K_ALBI_SR,,,,VUMC LAB GLIMS
+ALBUMINE (IMM.),Liquor,g/L,K_ALBI_SR,,,,VUMC LAB GLIMS
+ALBUMINE IMM (DIALYSAAT),Dialysaat,¶g/L,IMALD-B,,,,AMC LAB LABTRAIN
+ALBUMINE RATIO (LIQUOR) VUMC,Liquor,0.01,K_ALBR,,,,VUMC LAB GLIMS
+aPTT,Bloed Arterieel,Seconde,SAPT;BL,,,,LABTRAIN
+aPTT,Bloed Capillair,Seconde,SAPT;BL,,,,LABTRAIN
+aPTT,Bloed Centraal veneus,Seconde,SAPT;BL,,,,LABTRAIN
+aPTT,Bloed Darunavir:,Seconde,SAPT;BL,,,,LABTRAIN
+aPTT,Bloed Lopinavir:,Seconde,SAPT;BL,,,,LABTRAIN
+aPTT,Bloed Mixed Veneus,Seconde,SAPT;BL,,,,LABTRAIN
+aPTT,Bloed Veneus,Seconde,SAPT;BL,,,,LABTRAIN
+aPTT,Bloed Vragen om afname informatie,Seconde,SAPT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Arterieel,U/L 37C,ROT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Capillair,U/L 37C,ROT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Capillair vinger,U/L 37C,ROT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Centraal veneus,U/L 37C,ROT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Darunavir:,U/L 37C,ROT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Efavirenz:,U/L 37C,ROT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Lopinavir:,U/L 37C,ROT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Mixed Veneus,U/L 37C,ROT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Nevirapine:,U/L 37C,ROT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Veneus,U/L 37C,ROT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Vragen om afname informatie,U/L 37C,ROT;BL,,,,LABTRAIN
+ASAT(SGOT),Bloed Vragen om afname informatie;Capillair,U/L 37C,ROT;BL,,,,LABTRAIN
+BASO (MICROSCOPISCH) VUMC,Bloed,x10e9/L,K_HBAA_EB,,,,VUMC LAB GLIMS
+BASO (MICROSCOPISCH) VUMC,,x10e9/L,K_HBAA_EB,,,,VUMC LAB GLIMS
+BASO (MICROSCOPISCH),,x10e9/L,H_HBAA_EB,,,,VUMC LAB GLIMS
+BASOFIELE GRANULOCYT (BLOED) AMC,Bloed,%,SBAS-BL,,,,AMC LAB LABTRAIN
+BASOFIELE GRANULOCYTEN (BEENMERG) AMC,Beenmerg,,SBASBM-BM,,,,AMC LAB LABTRAIN
+BASOFIELE GRANULOCYTEN % (BEENMERG) AMC,Beenmerg,%,SBASBMP-BM,,,,AMC LAB LABTRAIN
+BASOFIELE GRANULOCYTEN % (BEENMERG)),Beenmerg,%,EPIC:BM,,,,AMC LAB LABTRAIN
+Bezinking,Bloed Arterieel,mm/U,RBSE;BL,,,,LABTRAIN
+Bezinking,Bloed Capillair,mm/U,RBSE;BL,,,,LABTRAIN
+Bezinking,Bloed Capillair vinger,mm/U,RBSE;BL,,,,LABTRAIN
+Bezinking,Bloed Centraal veneus,mm/U,RBSE;BL,,,,LABTRAIN
+Bezinking,Bloed Veneus,mm/U,RBSE;BL,,,,LABTRAIN
+Bezinking,Bloed Vragen om afname informatie,mm/U,RBSE;BL,,,,LABTRAIN
+BICARBONAAT - DECENTRAAL,Bloed,mmol/L,DBIC-BL,,,,AMC LAB LABTRAIN
+Bili (Liq),Liquor,,K_BILL_LI,,,,GLIMS
+EIWIT MG/L (LIQUOR),Dummy,mg/L,K_CFP_LI,,,,VUMC LAB GLIMS
+Bili-direct (RBID),Bloed Arterieel,µmol/L,RBID;BL,,,,LABTRAIN
+Bili-direct (RBID),Bloed Capillair vinger,µmol/L,RBID;BL,,,,LABTRAIN
+Bili-direct (RBID),Bloed Capillair,µmol/L,RBID;BL,,,,LABTRAIN
+Bili-direct (RBID),Bloed Centraal veneus,µmol/L,RBID;BL,,,,LABTRAIN
+Bili-direct (RBID),Bloed Veneus,µmol/L,RBID;BL,,,,LABTRAIN
+Bili-direct (RBID),Bloed Vragen om afname informatie,µmol/L,RBID;BL,,,,LABTRAIN
+Bili-direct (RBID),Bloed Vragen om afname informatie;Capillair,µmol/L,RBID;BL,,,,LABTRAIN
+NON-HDL-CHOLESTEROL VUMC,Dummy,mmol/L,K_NHDL_HP,,,,VUMC LAB GLIMS
+Bili-totaal (ICTO),Bloed Arterieel,µmol/L,ICTO;BL,,,,LABTRAIN
+Bili-totaal (ICTO),Bloed Capillair vinger,µmol/L,ICTO;BL,,,,LABTRAIN
+Bili-totaal (ICTO),Bloed Lopinavir:,µmol/L,ICTO;BL,,,,LABTRAIN
+Bili-totaal (ICTO),Bloed Veneus,µmol/L,ICTO;BL,,,,LABTRAIN
+Bili-totaal (ICTO),Bloed Vragen om afname informatie,µmol/L,ICTO;BL,,,,LABTRAIN
+Bili-totaal (RBIT),Bloed Darunavir:,µmol/L,RBIT;BL,,,,LABTRAIN
+Bili-totaal (RBIT),Bloed Efavirenz:,µmol/L,RBIT;BL,,,,LABTRAIN
+Bili-totaal (RBIT),Bloed Lopinavir:,µmol/L,RBIT;BL,,,,LABTRAIN
+Bili-totaal (RBIT),Bloed Mixed Veneus,µmol/L,RBIT;BL,,,,LABTRAIN
+Bili-totaal (RBIT),Bloed Nevirapine:,µmol/L,RBIT;BL,,,,LABTRAIN
+Bili-totaal (RBIT),Bloed Vragen om afname informatie,µmol/L,RBIT;BL,,,,LABTRAIN
+Bili-totaal (RBIT),Bloed Vragen om afname informatie;Capillair,µmol/L,RBIT;BL,,,,LABTRAIN
+BILIRUBINE (DRAINVOCHT),Drainvocht,,K_BILT_DR,,,,VUMC LAB GLIMS
+BILIRUBINE (DRAINVOCHT),Drainvocht,umol/L,K_BILT_DR,,,,VUMC LAB GLIMS
+BILIRUBINE (DRAINVOCHT),,umol/L,K_BILT_DR,,,,VUMC LAB GLIMS
+Bilirubine drainvocht,Drainvocht,umol/L,K_BILT_DR,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed {<GES},umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed {<GMO},umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed {<TWM},umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed {<VEN},umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed {<VMA},umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed {<VVE},umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed {<ZOP},umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed Capillair,umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed Gemengd veneus,umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed M.B.O,umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed Navel arterieel,umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed Navel veneus,umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed Onbekend,umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs Centraal),Bloed,umol/L,K_BIL_HB,,,,GLIMS
+Bilirubine(Bgs),Bloed {<ART},umol/L,P_BIL_HB,,,,GLIMS
+Bilirubine(Bgs),Bloed {<VMA},umol/L,P_BIL_HB,,,,GLIMS
+Bilirubine(Bgs),Bloed {<VMV},umol/L,P_BIL_HB,,,,GLIMS
+Bilirubine(Bgs),Bloed {<VVE},umol/L,P_BIL_HB,,,,GLIMS
+Bilirubine(Bgs),Bloed Navel veneus,umol/L,P_BIL_HB,,,,GLIMS
+LEUCOCYTEN GP,Urine,,M_gp_leuco,,,,VUMC LAB GLIMS
+EGFRKIDS KREAT AMC,Bloed,"mL/min/1,73m¶",FASCREA-BL,,,,AMC LAB LABTRAIN
+CAION(7.4) GEM. VEN. VUMC,Bloed,mmol/L,P_CA_GEMVEN,,,,VUMC LAB GLIMS
+CAION(7.4) GEM. VEN. VUMC,Bloed,mmol/L,K_CA_GEMVEN,,,,VUMC LAB GLIMS
+CAION(7.4) GEM. VEN. VUMC,,mmol/L,P_CA_GEMVEN,,,,VUMC LAB GLIMS
+CALCIUM RATIO POC VUMC,,,P_CA_RATIO,,,,VUMC LAB GLIMS
+CALCIUM RATIO POC VUMC,Bloed,,P_CA_RATIO,,,,VUMC LAB GLIMS
+HB(V.BGS) GEM. VEN. VUMC,,mmol/L,P_HB_GEMVEN,,,,VUMC LAB GLIMS
+CHOLESTEROL,Dummy,mmol/L,K_CHOL_HP,,,,VUMC LAB GLIMS
+ALB.CHEM,Dummy,g/L,K_ALBC_HP,,,,VUMC LAB GLIMS
+CK iso-enzymen,Bloed,,K_CKISO_SR,,,,GLIMS
+CK ISO-ENZYMEN VUMC,Bloed,,K_CKISO_SR,,,,VUMC LAB GLIMS
+CK-BBfractie,Bloed,%,FCBB;BL,,,,LABTRAIN
+CK-BBFRACTIE,Bloed,%,FCBB-BL,,,,AMC LAB LABTRAIN
+CK-MBFRACTIE,Bloed,%,FCMB-BL,,,,AMC LAB LABTRAIN
+CK-MMfractie,Bloed,%,FCMM;BL,,,,LABTRAIN
+CK-MMFRACTIE,Bloed,%,FCMM-BL,,,,AMC LAB LABTRAIN
+CPK,Bloed Arterieel,U/L 37C,RCPK;BL,,,,LABTRAIN
+CPK,Bloed Capillair,U/L 37C,RCPK;BL,,,,LABTRAIN
+CPK,Bloed Capillair vinger,U/L 37C,RCPK;BL,,,,LABTRAIN
+CPK,Bloed Vragen om afname informatie,U/L 37C,RCPK;BL,,,,LABTRAIN
+CRP (CRPR),Bloed Arterieel,mg/L,CRPR;BL,,,,LABTRAIN
+LEUCOCYTEN GP,,,M_gp_leuco,,,,VUMC LAB GLIMS
+CRP (CRPR),Bloed Centraal veneus,mg/L,CRPR;BL,,,,LABTRAIN
+CRP (CRPR),Bloed Darunavir:,mg/L,CRPR;BL,,,,LABTRAIN
+CRP (CRPR),Bloed Efavirenz:,mg/L,CRPR;BL,,,,LABTRAIN
+CRP (CRPR),Bloed Mixed Veneus,mg/L,CRPR;BL,,,,LABTRAIN
+CRP (CRPR),Bloed Nevirapine:,mg/L,CRPR;BL,,,,LABTRAIN
+ALAT,Dummy,U/L,K_ALAT_HP,,,,VUMC LAB GLIMS
+D-dimeren,Bloed Arterieel,mg/L,SDIM;BL,,,,LABTRAIN
+D-dimeren,Bloed Capillair,mg/L,SDIM;BL,,,,LABTRAIN
+D-dimeren,Bloed Veneus,mg/L,SDIM;BL,,,,LABTRAIN
+D-dimeren,Bloed Vragen om afname informatie,mg/L,SDIM;BL,,,,LABTRAIN
+D-lactaat,Urine,mmol/mmol kreat,K_DLACT_UR,,,,GLIMS
+EGFR (MDRD),Dummy,mL/min/1.73m2,K_EGFRBer_HP,,,,VUMC LAB GLIMS
+EGFRKIDS KREAT AMC,Bloed,"mL/min/1,73m2",FASCREA-BL,,,,AMC LAB LABTRAIN
+EO (BEENMERG),,%,H_EO_BE,,,,VUMC LAB GLIMS
+EO (BEENMERG),Beenmerg,%,H_EO_BE,,,,VUMC LAB GLIMS
+EO (BEENMERG),Bloed,%,H_EO_BE,,,,VUMC LAB GLIMS
+EO (MICROSCOPISCH) VUMC,Bloed,x10e9/L,K_HEOA_EB,,,,VUMC LAB GLIMS
+EO (MICROSCOPISCH) VUMC,,x10e9/L,K_HEOA_EB,,,,VUMC LAB GLIMS
+EO (MICROSCOPISCH) VUMC,,x10e9/L,H_HEOA_beenmerg_EB,,,,VUMC LAB GLIMS
+EO (MICROSCOPISCH),,x10e9/L,H_HEOA_EB,,,,VUMC LAB GLIMS
+EO % VUMC,,%,H_HEO_beenmerg_EB,,,,VUMC LAB GLIMS
+EOSINOFIELE GRANULOCYT (LIQUOR) AMC,Liquor,,SEOSO-L,,,,AMC LAB LABTRAIN
+EOSINOFIELE GRANULOCYTEN (BEENMERG) AMC,Beenmerg,,SEOSBM-BM,,,,AMC LAB LABTRAIN
+EOSINOFIELE GRANULOCYTEN % (BEENMERG) AMC,Beenmerg,%,SEOSBMP-BM,,,,AMC LAB LABTRAIN
+ERYTHROBLASTEN (MICROSCOPISCH),,/100Leuc,H_HERB_EB,,,,VUMC LAB GLIMS
+ERYTHROBLASTEN (MICROSCOPISCH) VUMC,,/100Leuc,K_HERB_EB,,,,VUMC LAB GLIMS
+ERYTHROBLASTEN (MICROSCOPISCH) VUMC,,/100Leuc,H_HERB_beenmerg_EB,,,,VUMC LAB GLIMS
+ERYTHROBLASTEN (MICROSCOPISCH) VUMC,Bloed,/100Leuc,K_HERB_EB,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Ascitesvocht,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Biopt,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Broncho-Alveolaire Lavage,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Bronchusspoelsel,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Drainvocht,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Gewrichtspunctaat,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Kunstgewricht,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Oor,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Pericardvocht,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Peritoneaalvocht Capd Pat.,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Pleurapunctaat,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Punctaat,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Pus,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Sputum,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Urine,,M_gp_ery,,,,VUMC LAB GLIMS
+ERYTHROCYTEN GP,Wonduitstrijk,,M_gp_ery,,,,VUMC LAB GLIMS
+FE,Dummy,umol/L,K_FE_HP,,,,VUMC LAB GLIMS
+Ferritine (EFER),Bloed Arterieel,µg/L,EFER;BL,,,,LABTRAIN
+Ferritine (EFER),Bloed Capillair vinger,µg/L,EFER;BL,,,,LABTRAIN
+Ferritine (EFER),Bloed Capillair,µg/L,EFER;BL,,,,LABTRAIN
+Ferritine (EFER),Bloed Darunavir:,µg/L,EFER;BL,,,,LABTRAIN
+Ferritine (EFER),Bloed Efavirenz:,µg/L,EFER;BL,,,,LABTRAIN
+Ferritine (EFER),Bloed Lopinavir:,µg/L,EFER;BL,,,,LABTRAIN
+Ferritine (EFER),Bloed Veneus,µg/L,EFER;BL,,,,LABTRAIN
+Ferritine (EFER),Bloed Vragen om afname informatie,µg/L,EFER;BL,,,,LABTRAIN
+Ferritine (EFER),Bloed Vragen om afname informatie;Darunavir:,µg/L,EFER;BL,,,,LABTRAIN
+FERRITINE,Dummy,ug/L,K_FER_HP,,,,VUMC LAB GLIMS
+Fibrinogeen,Bloed Arterieel,g/L,SFIB;BL,,,,LABTRAIN
+Fibrinogeen,Bloed Capillair,g/L,SFIB;BL,,,,LABTRAIN
+Fibrinogeen,Bloed Veneus,g/L,SFIB;BL,,,,LABTRAIN
+Fibrinogeen,Bloed Vragen om afname informatie,g/L,SFIB;BL,,,,LABTRAIN
+FLAER MONOCYT,Bloed,%neg,H_FLAERmono_BL,,,,VUMC LAB GLIMS
+FR.T4 INDEX,Bloed,,FT4I-BL,,,,AMC LAB LABTRAIN
+ERYTHROCYTEN GP,Overig,,M_gp_ery,,,,VUMC LAB GLIMS
+Kreatinine,Bloed Capillair,µmol/L,RKRE;BL,,,,LABTRAIN
+Gecon.Bili dummy,Bloed,,K_BILDD_HP,,,,GLIMS
+Gered.-Hb,Bloed,%,CHBH;BL,,,,LABTRAIN
+Gered.-Hb,Bloed Vragen om afname informatie;Arterieel,%,CHBH;BL,,,,LABTRAIN
+GLUCOSE  (DRAINVOCHT),Drainvocht,mmol/L,K_GLUC_DR,,,,VUMC LAB GLIMS
+GLUCOSE  CCA,Bloed,mmol/L,CGLU-BL,,,,AMC LAB LABTRAIN
+GLUCOSE - DECENTRAAL,Bloed,mmol/L,DGLU-BL,,,,AMC LAB LABTRAIN
+GLUCOSE (DRAINVOCHT),Drainvocht,mmol/L,K_GLUC_DR,,,,VUMC LAB GLIMS
+GLUCOSE (DRAINVOCHT),,mmol/L,K_GLUC_DR,,,,VUMC LAB GLIMS
+GLUCOSE,Dummy,mmol/L,K_GLUC_HP,,,,VUMC LAB GLIMS
+HB (PLEURAVOCHT),Pleurapunctaat,mmol/L,K_HB_PP,,,,VUMC LAB GLIMS
+HB (PLEURAVOCHT),Pleuravocht,mmol/L,K_HB_PP,,,,VUMC LAB GLIMS
+Hb ascitesvocht,Ascitesvocht,mmol/L,K_HB_AS,,,,GLIMS
+Hb Conclusie,Bloed,,H_HBCO_BL,,,,GLIMS
+HB EL.ALKA,,,H_HBEA_BL,,,,VUMC LAB GLIMS
+HB EL.ALKA,Bloed,,H_HBEA_BL,,,,VUMC LAB GLIMS
+Hb experimenteel,Overige,mmol/L,RHB;O,,,,LABTRAIN
+Hb,Overig,mmol/L,K_HB_OV,,,,GLIMS
+Hb pleuravocht,Pleurapunctaat,mmol/L,K_HB_PP,,,,GLIMS
+Hb(v.Bgs),Bloed {<GEMVEN},mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<GES},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<GMA},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<GMO},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<GUM},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<NAVART},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<NTB},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<NUV},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<OD},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<TWM},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<VEN},mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<VEN},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<VIM},mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<VIM},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<VKM},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<VMA},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<VMA},mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<VMV},mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<VVE},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<VVE},mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<ZOP},mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed {<ZOP},mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed arteriel,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed Capillair,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed Capillair,mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed gem veneus,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed gem.ven,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed gemend veneus,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed Gemengd veneus,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed Gemengd veneus,mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed M.B.O,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed M.B.O,mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed MBO,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed Na Filter,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed Na-Filter,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed Navel arterieel,mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed Navel arterieel,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed navelarterie,mmol/L,K_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed Voor Filter,mmol/L,P_HB_HB,,,,GLIMS
+Hb(v.Bgs),Bloed Voor Filter,mmol/L,K_HB_HB,,,,GLIMS
+HB(V.BGS) CAP. VUMC,,mmol/L,P_HB_CAP,,,,VUMC LAB GLIMS
+HB(V.BGS) GEM. VEN. VUMC,Bloed,mmol/L,P_HB_GEMVEN,,,,VUMC LAB GLIMS
+HB(V.BGS) GEM. VEN. VUMC,Bloed,mmol/L,K_HB_GEMVEN,,,,VUMC LAB GLIMS
+HBA1C,Dummy,%,K_HBA1cp_EB,,,,VUMC LAB GLIMS
+HBA1C,Dummy,mmol/mol,K_HbA1c_EB,,,,VUMC LAB GLIMS
+HDL-CHOL,Dummy,mmol/L,K_HDL_HP,,,,VUMC LAB GLIMS
+Hematocriet (HHT),Bloed Darunavir:,L/L,HHT;BL,,,,LABTRAIN
+Hematocriet (HHT),Bloed Lopinavir:,L/L,HHT;BL,,,,LABTRAIN
+Hematocriet (HHT),Bloed Mixed Veneus,L/L,HHT;BL,,,,LABTRAIN
+Hematocriet (HHT),Bloed Vragen om afname informatie,L/L,HHT;BL,,,,LABTRAIN
+Hematocriet (RHT),Overige,L/L,RHT;O,,,,LABTRAIN
+HEMOGLOB. NC - BLOEDGAS,Bloed,mmol/L,CIHB-BL,,,,
+HT (PLEURAVOCHT),Pleurapunctaat,L/L,K_HT_PP,,,,VUMC LAB GLIMS
+Ht,Overig,L/L,K_HT_OV,,,,GLIMS
+Ht pleuravocht,Pleurapunctaat,L/L,K_HT_PP,,,,GLIMS
+Ht(v.Bgs),Bloed {<ART},L/L,P_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<ART},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<GEMVEN},L/L,P_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<GES},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<GMA},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<GMO},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<GUM},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<NAVART},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<NTB},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<NUV},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<OD},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<TWM},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<VEN},L/L,P_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<VEN},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<VIM},L/L,P_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<VIM},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<VKM},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<VMA},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<VMA},L/L,P_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<VMV},L/L,P_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<ZOP},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed M.B.O,L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed M.B.O,L/L,P_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed MBO,L/L,P_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed Na Filter,L/L,P_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed Na-Filter,L/L,P_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed Voor Filter,L/L,P_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed Voor Filter,L/L,K_HCT_HB,,,,GLIMS
+IJZER CENTRAAL (BEENMERG),,,H_Yzer_BE,,,,VUMC LAB GLIMS
+IJZER CENTRAAL (BEENMERG),Beenmerg,,H_Yzer_BE,,,,VUMC LAB GLIMS
+IJZER CENTRAAL (BEENMERG),Bloed,,H_Yzer_BE,,,,VUMC LAB GLIMS
+IJZER VERZ%,Dummy,%,K_FEVZ_HP,,,,VUMC LAB GLIMS
+IL-6,Bloed,pg/mL,K_IL6_SR,,,,GLIMS
+IMMATURE PLATELET FRACTION (BLOED) VUMC,,%,K_IPF_EB,,,,VUMC LAB GLIMS
+IMMATURE PLATELET FRACTION (BLOED) VUMC,Bloed,%,K_IPF_EB,,,,VUMC LAB GLIMS
+INR,Bloed Arterieel,geen,SINR;BL,,,,LABTRAIN
+INR,Bloed Capillair,geen,SINR;BL,,,,LABTRAIN
+INR,Bloed Capillair vinger,geen,SINR;BL,,,,LABTRAIN
+INR,Bloed Darunavir:,geen,SINR;BL,,,,LABTRAIN
+INR,Bloed Mixed Veneus,geen,SINR;BL,,,,LABTRAIN
+INR,Bloed Nevirapine:,geen,SINR;BL,,,,LABTRAIN
+INR,Bloed Veneus,geen,SINR;BL,,,,LABTRAIN
+INR,Bloed Vragen om afname informatie,geen,SINR;BL,,,,LABTRAIN
+INR DEC.,Bloed,,INRD-BL,,,,AMC LAB LABTRAIN
+Interleuk. 6,Bloed,pg/mL,A003;BL,,,,LABTRAIN
+K (onv.ISE),Bloed {<ART},mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<ART},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<GEMVEN},mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<GES},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<GMA},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<GMO},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<GUM},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<NAVART},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<NTB},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<NUV},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<TWM},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<VEN},mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<VEN},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<VIM},mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<VIM},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<VKM},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<VMA},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<VMA},mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<VMV},mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<ZOP},mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed {<ZOP},mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed M.B.O,mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed M.B.O,mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed MBO,mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed Na Filter,mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed Na-Filter,mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed Navel arterieel,mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed Navel arterieel,mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed Navel veneus,mmol/L,K_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed Navel veneus,mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed Voor Filter,mmol/L,P_KA_HB,,,,GLIMS
+K (onv.ISE),Bloed Voor Filter,mmol/L,K_KA_HB,,,,GLIMS
+KALIUM - DECENTRAAL,Bloed,mmol/L,DKAL-BL,,,,AMC LAB LABTRAIN
+Kalium (RKAL),Bloed Arm,mmol/L,RKAL;BL,,,,LABTRAIN
+Kalium (RKAL),Bloed Arterieel;Capillair,mmol/L,RKAL;BL,,,,LABTRAIN
+Kalium (RKAL),Bloed Centraal veneus,mmol/L,RKAL;BL,,,,LABTRAIN
+Kalium (RKAL),Bloed Darunavir:,mmol/L,RKAL;BL,,,,LABTRAIN
+Kalium (RKAL),Bloed Efavirenz:,mmol/L,RKAL;BL,,,,LABTRAIN
+Kalium (RKAL),Bloed Lopinavir:,mmol/L,RKAL;BL,,,,LABTRAIN
+Kalium (RKAL),Bloed Navelstreng Veneus,mmol/L,RKAL;BL,,,,LABTRAIN
+Kalium (RKAL),Bloed Nevirapine:,mmol/L,RKAL;BL,,,,LABTRAIN
+Kalium (RKAL),Dialysaat,mmol/L,RKAL;B,,,,LABTRAIN
+Kalium bep.supernatant,Feces,mmol/L,K_KAbep_FA,,,,GLIMS
+Kalium de.,Bloed Navelstreng Arterieel,mmol/L,CKAL;BL,,,,LABTRAIN
+Kalium de.,Bloed Navelstreng Veneus,mmol/L,CKAL;BL,,,,LABTRAIN
+Kalium de.,Bloed Vragen om afname informatie,mmol/L,CKAL;BL,,,,LABTRAIN
+Kalium DE.,Bloed Vragen om afname informatie;Arterieel,mmol/L,DKAL;BL,,,,LABTRAIN
+Kalium dialysaat,Dialysaat,mmol/L,K_KA_DI,,,,GLIMS
+Kalium,Feces verzameld,mmol/L,K_KA_FA,,,,GLIMS
+KREAT ONTEIWIT (KRO),Bloed,¶mol/L,KRO-BL,,,,AMC LAB LABTRAIN
+KREATININE - DECENTRAAL ART. (AMC),Bloed,¶mol/L,DKREA-BL_ART,,,,AMC LAB LABTRAIN
+Kreatinine (GKRE),Urine,mmol/L,GKRE;U,,,,LABTRAIN
+KREATININE (GKRE),Urine,mmol/L,GKRE-U,,,,AMC LAB LABTRAIN
+KREATININE (OVERIG),Ascitesvocht,umol/L,K_KR_OV,,,,VUMC LAB GLIMS
+KREATININE BEREKEND VUMC,Bloed,umol/L,K_KRB_HP,,,,VUMC LAB GLIMS
+Kreatinine,Bloed Arterieel,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Atazanavir:,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Atazanavir:;Darunavir:,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Atazanavir:;Lopinavir:,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Bloed,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Capillair vinger,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Centraal veneus,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Darunavir:,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Efavirenz:,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Lopinavir:,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Mixed Veneus,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Nevirapine:,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Veneus,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Vragen om afname informatie,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Vragen om afname informatie;Capillair,µmol/L,RKRE;BL,,,,LABTRAIN
+Kreatinine,Bloed Vragen om afname informatie;Darunavir:,µmol/L,RKRE;BL,,,,LABTRAIN
+KREATININE DBS,Dry Blood Spot,umol/L,A_KR_DB,,,,VUMC LAB GLIMS
+Kreatinine,Dry Blood Spot,umol/L,A_KR_DB,,,,GLIMS
+KREATININE,Dry Blood Spot,umol/L,K_KR_HP,,,,VUMC LAB GLIMS
+Kreatinine hoev.,Urine,mmol/vzm,UKREH;U,,,,LABTRAIN
+Kreatinine hoev.,Urine Vragen om afname informatie,mmol/vzm,UKREH;U,,,,LABTRAIN
+Kreatinine hoev.,"Urine Vragen om afname informatie;Afnemen in medium,verkrijgbaar op B1-209,tst:62429",mmol/vzm,UKREH;U,,,,LABTRAIN
+Kreatinine hoev.,Urine Vragen om afname informatie;Arterieel,mmol/vzm,UKREH;U,,,,LABTRAIN
+Kreatinine hoev.,Urine Vragen om afname informatie;Arterielijn,mmol/vzm,UKREH;U,,,,LABTRAIN
+Kreatinine_DBS,Bloed,µmol/L,KREA_DBS;BL,,,,LABTRAIN
+Kreatinine_DBS,Overige,µmol/L,KREA_DBS;O,,,,LABTRAIN
+L-lactaat,Urine,mmol/mmol kreat,K_LLACT_UR,,,,GLIMS
+Lactaat,Bloed {<ART},mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<ART},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<GEMVEN},mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<GES},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<GMA},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<GMO},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<GUM},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<NAVART},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<NTB},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<NTB},mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<NUV},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<TWM},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<VEN},mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<VEN},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<VIM},mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<VIM},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<VKM},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<VMA},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<VMA},mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<VMV},mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<ZOP},mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed {<ZOP},mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed M.B.O,mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat,Bloed M.B.O,mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed MBO,mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed Na Filter,mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed Na-Filter,mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed Voor Filter,mmol/L,P_LACT_HB,,,,GLIMS
+Lactaat,Bloed Voor Filter,mmol/L,K_LACT_HB,,,,GLIMS
+Lactaat DC.,Bloed Navelstreng Arterieel,mmol/L,CLAC;BL,,,,LABTRAIN
+Lactaat DC.,Bloed Navelstreng Veneus,mmol/L,CLAC;BL,,,,LABTRAIN
+Lactaat DC.,Bloed Veneus;Nevirapine:,mmol/L,CLAC;BL,,,,LABTRAIN
+Lactaat DC.,Bloed Vragen om afname informatie,mmol/L,CLAC;BL,,,,LABTRAIN
+Lactaat,Liquor,mmol/L,LLCT;L,,,,LABTRAIN
+Lactaat,Liquor,mmol/L,K_LACT_LI,,,,GLIMS
+LDH (RLDH),Bloed Arterieel,U/L 37C,RLDH;BL,,,,LABTRAIN
+LDH (RLDH),Bloed Capillair,U/L 37C,RLDH;BL,,,,LABTRAIN
+LDH (RLDH),Bloed Capillair vinger,U/L 37C,RLDH;BL,,,,LABTRAIN
+LDH (RLDH),Bloed Centraal veneus,U/L 37C,RLDH;BL,,,,LABTRAIN
+LDH (RLDH),Bloed Darunavir:,U/L 37C,RLDH;BL,,,,LABTRAIN
+LDH (RLDH),Bloed Lopinavir:,U/L 37C,RLDH;BL,,,,LABTRAIN
+LDH (RLDH),Bloed Mixed Veneus,U/L 37C,RLDH;BL,,,,LABTRAIN
+LDH (RLDH),Bloed Nevirapine:,U/L 37C,RLDH;BL,,,,LABTRAIN
+LDH (RLDH),Bloed Veneus,U/L 37C,RLDH;BL,,,,LABTRAIN
+LDH (RLDH),Bloed Vragen om afname informatie,U/L 37C,RLDH;BL,,,,LABTRAIN
+LDH (RLDH),Liquor,U/L 37C,RLDH;L,,,,LABTRAIN
+LDH (RLDH),Overige,U/L 37C,RLDH;O,,,,LABTRAIN
+LDH CORR. VUMC,Dummy,U/L,K_LDCORR_HP,,,,VUMC LAB GLIMS
+LDH liquor,Liquor,U/L 37C,LLDH;L,,,,LABTRAIN
+LDH-1,Bloed,%,LD1;BL,,,,LABTRAIN
+LDH-2,Bloed,%,LD2;BL,,,,LABTRAIN
+LDH-3,Bloed,%,LD3;BL,,,,LABTRAIN
+LDH-4,Bloed,%,LD4;BL,,,,LABTRAIN
+LDH-5,Bloed,%,LD5;BL,,,,LABTRAIN
+LDL (BER.),Dummy,mmol/L,K_LDL_CALC_HP,,,,VUMC LAB GLIMS
+LEUCO'S  (DRAINVOCHT),Drainvocht,x10e9/L,K_LEU_DR,,,,VUMC LAB GLIMS
+LEUCO'S (DRAINVOCHT),,,K_LEU_DR,,,,VUMC LAB GLIMS
+LEUCO'S (DRAINVOCHT),Drainvocht,x10e9/L,K_LEU_DR,,,,VUMC LAB GLIMS
+LEUCO'S (DRAINVOCHT),,x10e9/L,K_LEU_DR,,,,VUMC LAB GLIMS
+Leuco's drainvocht,Drainvocht,x10e9/L,K_LEU_DR,,,,GLIMS
+Leuco's peritoneaalvocht,Peritoneaalvocht Capd Pat.,x10e9/L,K_LEU_PV,,,,GLIMS
+LEUCO'S/UL (LIQUOR),,/uL,K_LELIBer_LI,,,,VUMC LAB GLIMS
+LEUCO'S/UL (LIQUOR),Liquor,/uL,K_LELIBer_LI,,,,VUMC LAB GLIMS
+LEUCO/3UL (LIQUOR),,/3uL,K_LELI_LI,,,,VUMC LAB GLIMS
+LEUCO/3UL (LIQUOR),Liquor,/3uL,K_LELI_LI,,,,VUMC LAB GLIMS
+leucocyten,Ascitesvocht,,M_gp_leuco,,,,GLIMS
+leucocyten,Biopt,,M_gp_leuco,,,,GLIMS
+leucocyten,Broncho-Alveolaire Lavage,,M_gp_leuco,,,,GLIMS
+leucocyten,Bronchusspoelsel,,M_gp_leuco,,,,GLIMS
+leucocyten,Cervix,,M_gp_leuco,,,,GLIMS
+leucocyten,Drainvocht,,M_gp_leuco,,,,GLIMS
+LEUCOCYTEN GP,Ascitesvocht,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Biopt,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Broncho-Alveolaire Lavage,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Bronchusspoelsel,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Drainvocht,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Gewrichtspunctaat,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Kunstgewricht,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Oor,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Overig,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Pericardvocht,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Peritoneaalvocht Capd Pat.,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Pleurapunctaat,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Punctaat,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Pus,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Sputum,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Tip/Tubepunt,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Weefsel,,M_gp_leuco,,,,VUMC LAB GLIMS
+LEUCOCYTEN GP,Wonduitstrijk,,M_gp_leuco,,,,VUMC LAB GLIMS
+leucocyten,Huiduitstrijk,,M_gp_leuco,,,,GLIMS
+leucocyten,Lichaamsvreemd gerelateerd materiaal,,M_gp_leuco,,,,GLIMS
+leucocyten,Neus,,M_gp_leuco,,,,GLIMS
+leucocyten,Oog,,M_gp_leuco,,,,GLIMS
+leucocyten,Oor,,M_gp_leuco,,,,GLIMS
+leucocyten,Overig,,M_gp_leuco,,,,GLIMS
+leucocyten,Pericardvocht,,M_gp_leuco,,,,GLIMS
+leucocyten,Peritoneaalvocht Capd Pat.,,M_gp_leuco,,,,GLIMS
+leucocyten,Placenta/vliezen,,M_gp_leuco,,,,GLIMS
+leucocyten,Pleurapunctaat,,M_gp_leuco,,,,GLIMS
+leucocyten,Punctaat,,M_gp_leuco,,,,GLIMS
+leucocyten,Pus,,M_gp_leuco,,,,GLIMS
+leucocyten,Sectiemateriaal weefsel,,M_gp_leuco,,,,GLIMS
+leucocyten,Semen,,M_gp_leuco,,,,GLIMS
+leucocyten,Sinus,,M_gp_leuco,,,,GLIMS
+leucocyten,Tracheaspoelsel,,M_gp_leuco,,,,GLIMS
+leucocyten,Uitstrijk-Insteekopening,,M_gp_leuco,,,,GLIMS
+leucocyten,Uitstrijk-Overig,,M_gp_leuco,,,,GLIMS
+leucocyten,Uitstrijk-Ulcus,,M_gp_leuco,,,,GLIMS
+leucocyten,Urethra,,M_gp_leuco,,,,GLIMS
+leucocyten,Vagina/vulva,,M_gp_leuco,,,,GLIMS
+leucocyten,Vruchtwater,,M_gp_leuco,,,,GLIMS
+leucocyten,Wonduitstrijk,,M_gp_leuco,,,,GLIMS
+LEUK.SCHEID.,Bloed,,L005-BL,,,,AMC LAB LABTRAIN
+LEUKO.GROEP,Urine,,SLEG-U,,,,AMC LAB LABTRAIN
+Leukocyten (BLEU),Overige,10E9/L,BLEU;O,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Arterieel,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Atazanavir:,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Atazanavir:;Darunavir:,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Atazanavir:;Lopinavir:,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Capillair,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Capillair vinger,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Centraal veneus,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Darunavir:,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Efavirenz:,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Lopinavir:,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Mixed Veneus,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Nevirapine:,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Veneus,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Vragen om afname informatie,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten (HLEU),Bloed Vragen om afname informatie;Darunavir:,10E9/L,HLEU;BL,,,,LABTRAIN
+Leukocyten,Faeces,geen,FLEU;F,,,,LABTRAIN
+LEUKOCYTEN KLONTJES (URINE) VUMC,,,K_WBCAGGL_UR,,,,VUMC LAB GLIMS
+LEUKOCYTEN KLONTJES (URINE) VUMC,Urine,,K_WBCAGGL_UR,,,,VUMC LAB GLIMS
+Leukodiff,Bloed Arterieel,geen,DIFA;BL,,,,LABTRAIN
+Leukodiff,Bloed Atazanavir:,geen,DIFA;BL,,,,LABTRAIN
+Leukodiff,Bloed Capillair,geen,DIFA;BL,,,,LABTRAIN
+Leukodiff,Bloed Capillair vinger,geen,DIFA;BL,,,,LABTRAIN
+Leukodiff,Bloed Centraal veneus,geen,DIFA;BL,,,,LABTRAIN
+Leukodiff,Bloed Darunavir:,geen,DIFA;BL,,,,LABTRAIN
+Leukodiff,Bloed Lopinavir:,geen,DIFA;BL,,,,LABTRAIN
+Leukodiff,Bloed Nevirapine:,geen,DIFA;BL,,,,LABTRAIN
+Leukodiff,Bloed Veneus,geen,DIFA;BL,,,,LABTRAIN
+Leukodiff,Bloed Vragen om afname informatie,geen,DIFA;BL,,,,LABTRAIN
+LYMFOCYTEN (BEENMERG),,%,H_LY_BE,,,,VUMC LAB GLIMS
+LYMFOCYTEN (BEENMERG) AMC,Beenmerg,,SLYMBM-BM,,,,AMC LAB LABTRAIN
+LYMFOCYTEN (BEENMERG),Beenmerg,%,H_LY_BE,,,,VUMC LAB GLIMS
+LYMFOCYTEN (BEENMERG),Bloed,%,H_LY_BE,,,,VUMC LAB GLIMS
+LYMFOCYTEN (MICROSCOPISCH) VUMC,Bloed,x10e9/L,K_HLYA_EB,,,,VUMC LAB GLIMS
+LYMFOCYTEN (MICROSCOPISCH) VUMC,,x10e9/L,K_HLYA_EB,,,,VUMC LAB GLIMS
+LYMFOCYTEN (MICROSCOPISCH) VUMC,,x10e9/L,H_HLYA_beenmerg_EB,,,,VUMC LAB GLIMS
+LYMFOCYTEN (MICROSCOPISCH),,x10e9/L,H_HLYA_EB,,,,VUMC LAB GLIMS
+LYMFOCYTEN % (BEENMERG) AMC,Beenmerg,%,SLYMBMP-BM,,,,AMC LAB LABTRAIN
+LYMFOCYTEN % VUMC,,%,H_HLY_beenmerg_EB,,,,VUMC LAB GLIMS
+LYMFOCYTEN OPMERKINGEN (BEENMERG) AMC,Beenmerg,,SLYATBM-BM,,,,AMC LAB LABTRAIN
+MENG APTT AMC,Bloed,,MengAPTT-BL,,,,AMC LAB LABTRAIN
+MICROALBUMINE/KREATININE RATIO VUMC,,mg/mmol Kreat,K_MALBKR,,,,VUMC LAB GLIMS
+MICROALBUMINE/KREATININE RATIO VUMC,Urine,mg/mmol Kreat,K_MALBKR,,,,VUMC LAB GLIMS
+MONOCYT (LIQUOR) AMC,Liquor,,SMONO-L,,,,AMC LAB LABTRAIN
+MONOCYTEN (BEENMERG) AMC,Beenmerg,,SMONBM-BM,,,,AMC LAB LABTRAIN
+MONOCYTEN (MICROSCOPISCH) VUMC,Bloed,x10e9/L,K_HMOA_EB,,,,VUMC LAB GLIMS
+MONOCYTEN (MICROSCOPISCH) VUMC,,x10e9/L,K_HMOA_EB,,,,VUMC LAB GLIMS
+MONOCYTEN (MICROSCOPISCH) VUMC,,x10e9/L,H_HMOA_beenmerg_EB,,,,VUMC LAB GLIMS
+MONOCYTEN (MICROSCOPISCH),,x10e9/L,H_HMOA_EB,,,,VUMC LAB GLIMS
+Na (onv.ISE),Bloed {<ART},mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<ART},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<GEMVEN},mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<GES},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<GMA},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<GMO},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<GUM},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<NAVART},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<NTB},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<NTB},mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<NUV},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<TWM},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<VEN},mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<VEN},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<VIM},mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<VIM},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<VKM},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<VMA},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<VMA},mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<VMV},mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<ZOP},mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed {<ZOP},mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed arteriel,mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed M.B.O,mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed M.B.O,mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed MBO,mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed Na Filter,mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed Na-Filter,mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed Navel arterieel,mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed Navel arterieel,mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed Navel veneus,mmol/L,K_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed Navel veneus,mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed Voor Filter,mmol/L,P_NA_HB,,,,GLIMS
+Na (onv.ISE),Bloed Voor Filter,mmol/L,K_NA_HB,,,,GLIMS
+NATRIUM - DECENTRAAL,Bloed,mmol/L,DNAT-BL,,,,AMC LAB LABTRAIN
+NATRIUM (OVERIG),,mmol/L,K_NA_OV,,,,VUMC LAB GLIMS
+Natrium (RNAT),Bloed Arm,mmol/L,RNAT;BL,,,,LABTRAIN
+Natrium (RNAT),Bloed Arterieel;Capillair,mmol/L,RNAT;BL,,,,LABTRAIN
+Natrium (RNAT),Bloed Centraal veneus,mmol/L,RNAT;BL,,,,LABTRAIN
+Natrium (RNAT),Bloed Darunavir:,mmol/L,RNAT;BL,,,,LABTRAIN
+Natrium (RNAT),Bloed Efavirenz:,mmol/L,RNAT;BL,,,,LABTRAIN
+Natrium (RNAT),Bloed Lopinavir:,mmol/L,RNAT;BL,,,,LABTRAIN
+Natrium (RNAT),Bloed Navelstreng Veneus,mmol/L,RNAT;BL,,,,LABTRAIN
+Natrium (RNAT),Bloed Nevirapine:,mmol/L,RNAT;BL,,,,LABTRAIN
+Natrium (RNAT),Overige,mmol/L,RNAT;O,,,,LABTRAIN
+Natrium bep.supernatant,Feces,mmol/L,K_NAbep_FA,,,,GLIMS
+Natrium DE.,Bloed Navelstreng Arterieel,mmol/L,CNAT;BL,,,,LABTRAIN
+Natrium DE.,Bloed Navelstreng Veneus,mmol/L,CNAT;BL,,,,LABTRAIN
+Natrium DE.,Bloed Vragen om afname informatie,mmol/L,CNAT;BL,,,,LABTRAIN
+Natrium DE.,Bloed Vragen om afname informatie;Arterieel,mmol/L,CNAT;BL,,,,LABTRAIN
+Natrium hoev.,Urine,mmol/vzm,UNATH;U,,,,LABTRAIN
+Natrium hoev.,Urine Vragen om afname informatie,mmol/vzm,UNATH;U,,,,LABTRAIN
+Natrium hoev.,"Urine Vragen om afname informatie;Afnemen in medium,verkrijgbaar op B1-209,tst:62429",mmol/vzm,UNATH;U,,,,LABTRAIN
+Natrium hoev.,Urine Vragen om afname informatie;Arterieel,mmol/vzm,UNATH;U,,,,LABTRAIN
+Natrium hoev.,Urine Vragen om afname informatie;Arterielijn,mmol/vzm,UNATH;U,,,,LABTRAIN
+Natrium,Overig,mmol/L,K_NA_OV,,,,GLIMS
+Neutrofiele aggregaten,Bloed,geen,HNAG;BL,,,,LABTRAIN
+PCO2 - DECENTRAAL,Bloed,kPa,DPCO-BL,,,,AMC LAB LABTRAIN
+PCO2 KPA,Bloed,kPa,K_PCO2P_MBO,,,,VUMC LAB GLIMS
+PH (O),Overig,,OPH-O,,,,AMC LAB LABTRAIN
+PH (PLEURAVOCHT),,,K_PH_PP,,,,VUMC LAB GLIMS
+PH (PLEURAVOCHT),Overig,,K_PH_PP,,,,VUMC LAB GLIMS
+PH (PLEURAVOCHT),Pleurapunctaat,,K_PH_PP,,,,VUMC LAB GLIMS
+PH (U),Urine,,UPH-U,,,,AMC LAB LABTRAIN
+PH (URINE),,,K_PH_UR,,,,VUMC LAB GLIMS
+PH (URINE),Urine,,K_PH_UR,,,,VUMC LAB GLIMS
+PH GEMETEN (URINE),Urine,,K_PHM_UR,,,,VUMC LAB GLIMS
+PH-STIK (DPHS),Urine,,KPHS-U,,,,AMC LAB LABTRAIN
+PH-STIK FECES,Feces,,FPH-F,,,,AMC LAB LABTRAIN
+PO2 - DECENTRAAL,Bloed,kPa,DPO2-BL,,,,AMC LAB LABTRAIN
+PO2 KPA,Bloed,kPa,K_PO2P_MBO,,,,VUMC LAB GLIMS
+Procalcitoni,Bloed Veneus,µg/L,CCTP;BL,,,,LABTRAIN
+PT,Bloed Arterieel,Seconde,SPT;BL,,,,LABTRAIN
+PT,Bloed Capillair,Seconde,SPT;BL,,,,LABTRAIN
+PT,Bloed Centraal veneus,Seconde,SPT;BL,,,,LABTRAIN
+PT,Bloed Darunavir:,Seconde,SPT;BL,,,,LABTRAIN
+PT,Bloed Lopinavir:,Seconde,SPT;BL,,,,LABTRAIN
+PT,Bloed Mixed Veneus,Seconde,SPT;BL,,,,LABTRAIN
+PT,Bloed Veneus,Seconde,SPT;BL,,,,LABTRAIN
+PT,Bloed Vragen om afname informatie,Seconde,SPT;BL,,,,LABTRAIN
+Segm.gran (BM),Beenmerg,,SSEGBM;BM,,,,LABTRAIN
+Segm.gran (OV),Liquor,,SSEGO;L,,,,LABTRAIN
+Segm.gran (OV),Liquor Vragen om afname informatie,,SSEGO;L,,,,LABTRAIN
+Segm.gran (OV),Overige,,SSEGO;O,,,,LABTRAIN
+Segmenten (HSEG),Bloed Arterieel,%,HSEG;BL,,,,LABTRAIN
+Segmenten (HSEG),Bloed Capillair,%,HSEG;BL,,,,LABTRAIN
+Segmenten (HSEG),Bloed Capillair vinger,%,HSEG;BL,,,,LABTRAIN
+Segmenten (HSEG),Bloed Centraal veneus,%,HSEG;BL,,,,LABTRAIN
+Segmenten (HSEG),Bloed Darunavir:,%,HSEG;BL,,,,LABTRAIN
+Segmenten (HSEG),Bloed Lopinavir:,%,HSEG;BL,,,,LABTRAIN
+Segmenten (HSEG),Bloed Nevirapine:,%,HSEG;BL,,,,LABTRAIN
+Segmenten (HSEG),Bloed Veneus,%,HSEG;BL,,,,LABTRAIN
+Segmenten (HSEG),Bloed Vragen om afname informatie,%,HSEG;BL,,,,LABTRAIN
+Segmenten,Bloed Capillair,%,SSEG;BL,,,,LABTRAIN
+Segmenten,Bloed Centraal veneus,%,SSEG;BL,,,,LABTRAIN
+Segmenten#,Bloed Arterieel,10E9/L,HSEG#;BL,,,,LABTRAIN
+Segmenten#,Bloed Capillair,10E9/L,HSEG#;BL,,,,LABTRAIN
+Segmenten#,Bloed Capillair vinger,10E9/L,HSEG#;BL,,,,LABTRAIN
+Segmenten#,Bloed Centraal veneus,10E9/L,HSEG#;BL,,,,LABTRAIN
+Segmenten#,Bloed Darunavir:,10E9/L,HSEG#;BL,,,,LABTRAIN
+Segmenten#,Bloed Lopinavir:,10E9/L,HSEG#;BL,,,,LABTRAIN
+Segmenten#,Bloed Nevirapine:,10E9/L,HSEG#;BL,,,,LABTRAIN
+Segmenten#,Bloed Veneus,10E9/L,HSEG#;BL,,,,LABTRAIN
+Segmenten#,Bloed Vragen om afname informatie,10E9/L,HSEG#;BL,,,,LABTRAIN
+SEGMENTKERNIGE NEUTROFIELE GRANULOCYT (LIQUOR) AMC,Liquor,,SSEGO-L,,,,AMC LAB LABTRAIN
+THROMBO CD61,,x10e9/L,K_TR61_EB,,,,VUMC LAB GLIMS
+THROMBO'S CITR. BLOED,Bloed,x10e9/L,K_THRBer_CI,,,,VUMC LAB GLIMS
+THROMBO'S CITR. BLOED,,x10e9/L,K_THRBer_CI,,,,VUMC LAB GLIMS
+Tot. WBC*10^8,Cord Blood,x10e8,S_totWBC_CB,,,,GLIMS
+Tot. WBC*10^8,HPC-A allogeen,x10e8,S_totWBC_AL,,,,GLIMS
+Tot. WBC*10^8,HPC-A autoloog,x10e8,S_totWBC_AU,,,,GLIMS
+Tot. WBC*10^8,HPC-M allogeen,x10e8,S_totWBC_ML,,,,GLIMS
+Tot. WBC*10^8,Mondholte,x10e8,S_totWBC_MU,,,,GLIMS
+Tot. WBC*10^8,Tsa Plaat (Hygiene Kweek),x10e8,S_totWBC_TS,,,,GLIMS
+TOTAAL EIWIT  (DRAINVOCHT),Drainvocht,g/L,K_TE_DR,,,,VUMC LAB GLIMS
+TOTAAL EIWIT/KREATININE RATIO (URINE) VUMC,Verzamel Urine,mg/mmol,K_TEKR,,,,VUMC LAB GLIMS
+Totaal Lactaat,Urine,mmol/mmol kreat,K_TLACT_UR,,,,GLIMS
+TOTEIW/KREAT (U),Urine,mg/mmolkr,TEKR-U,,,,AMC LAB LABTRAIN
+TRIGLYCERIDEN  (DRAINVOCHT),Drainvocht,mmol/L,K_TRGL_DR,,,,VUMC LAB GLIMS
+TRIGLYCERIDEN,Dummy,mmol/L,K_TRGL_HP,,,,VUMC LAB GLIMS
+Trombocyten (HTRO),Bloed Arterieel,10E9/L,HTRO;BL,,,,LABTRAIN
+Trombocyten (HTRO),Bloed Atazanavir:,10E9/L,HTRO;BL,,,,LABTRAIN
+Trombocyten (HTRO),Bloed Atazanavir:;Darunavir:,10E9/L,HTRO;BL,,,,LABTRAIN
+Trombocyten (HTRO),Bloed Atazanavir:;Lopinavir:,10E9/L,HTRO;BL,,,,LABTRAIN
+Trombocyten (HTRO),Bloed Centraal veneus,10E9/L,HTRO;BL,,,,LABTRAIN
+Trombocyten (HTRO),Bloed Darunavir:,10E9/L,HTRO;BL,,,,LABTRAIN
+Trombocyten (HTRO),Bloed Efavirenz:,10E9/L,HTRO;BL,,,,LABTRAIN
+Trombocyten (HTRO),Bloed Lopinavir:,10E9/L,HTRO;BL,,,,LABTRAIN
+Trombocyten (HTRO),Bloed Mixed Veneus,10E9/L,HTRO;BL,,,,LABTRAIN
+Trombocyten (HTRO),Bloed Nevirapine:,10E9/L,HTRO;BL,,,,LABTRAIN
+Trombocyten (HTRO),Bloed Veneus,10E9/L,HTRO;BL,,,,LABTRAIN
+TROMBOCYTEN IN CITRAAT (HTRC),Bloed,10E9/L,TRCI-BL,,,,AMC LAB LABTRAIN
+TROMBOCYTENAGGREGATEN (BLOED) AMC,Bloed,,STKL-BL,,,,AMC LAB LABTRAIN
+Troponine T (ETRO),Bloed Arterieel,,ETRO;BL,,,,LABTRAIN
+Troponine T (ETRO),Bloed Capillair,,ETRO;BL,,,,LABTRAIN
+Troponine T (ETRO),Bloed Capillair vinger,,ETRO;BL,,,,LABTRAIN
+Troponine T (ETRO),Bloed Vragen om afname informatie,,ETRO;BL,,,,LABTRAIN
+TROPONINET,Dummy,ug/L,K_CTNT_HP,,,,VUMC LAB GLIMS
+TSH,Dummy,mU/L,K_TSH_HP,,,,VUMC LAB GLIMS
+TSH OUD,Bloed,mE/L,TSH1-BL,,,,AMC LAB LABTRAIN
+UREUM (DIALYSAAT),Dialysaat,mmol/L,K_UREUM_DI,,,,VUMC LAB GLIMS
+Ureum (RURE),Bloed Capillair,mmol/L,RURE;BL,,,,LABTRAIN
+Ureum (RURE),Bloed Capillair vinger,mmol/L,RURE;BL,,,,LABTRAIN
+Ureum (RURE),Bloed Centraal veneus,mmol/L,RURE;BL,,,,LABTRAIN
+Ureum (RURE),Bloed Lopinavir:,mmol/L,RURE;BL,,,,LABTRAIN
+Ureum (RURE),Bloed Mixed Veneus,mmol/L,RURE;BL,,,,LABTRAIN
+Ureum (RURE),Bloed Nevirapine:,mmol/L,RURE;BL,,,,LABTRAIN
+Ureum (RURE),Bloed Vragen om afname informatie,mmol/L,RURE;BL,,,,LABTRAIN
+Ureum (RURE),Bloed Vragen om afname informatie;Capillair,mmol/L,RURE;BL,,,,LABTRAIN
+Ht(v.Bgs),Bloed {<VVE},L/L,K_HCT_HB,,,,GLIMS
+Ht(v.Bgs),Bloed {<VVE},L/L,P_HCT_HB,,,,GLIMS
+Segmenten,Beenmerg,%,H_Segm_BE,,,,GLIMS
+VERVL.NA (SEMEN),,min,K_SVLT_SM,,,,VUMC LAB GLIMS
+VERVL.NA (SEMEN),Semen,min,K_SVLT_SM,,,,VUMC LAB GLIMS
+Vervl.Na,Semen,min,K_SVLT_SM,,,,GLIMS
+VRIJ-T4,Dummy,pmol/L,K_FT4_HP,,,,VUMC LAB GLIMS
+Albumintest,Dummy,mg/L,K_ALB_HP,,61151-7,,VUMC LAB GLIMS
